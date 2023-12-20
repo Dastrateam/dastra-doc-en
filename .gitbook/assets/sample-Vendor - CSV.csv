@@ -1,0 +1,6 @@
+Label;Description;HeadOfficeAddress;HeadOfficeCity;HeadOfficeMailAddress;VendorType;IsDataProcessor;WebsiteUrl;HeadOfficeZipCode;HeadOfficeCountryCode;AccessLevel
+Payfit;;;;;B2B;true;https://www.payfit.com/;;FR;Full
+Cloudfare;Cloudflare is one of the biggest networks operating on the Internet. People use Cloudflare services for the purposes of increasing the security and performance of their web sites and services.;;;;B2B;true;https://www.cloudflare.com/;;US;None
+Zoho Corporation;SaaS CRM;;;;B2B;true;https://www.zoho.com/;603 202;IN;Restricted
+Mailjet;Mass mailing internet services;;;;B2B;true;https://fr.mailjet.com/;75012;FR;Restricted
+Microsoft France;Hosting;;;;B2B;true;https://www.microsoft.com/fr-fr;92130;FR;Restricted

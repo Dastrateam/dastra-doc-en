@@ -1,0 +1,36 @@
+DateCreation;DateUpdate;Label;Description;BaseActiveRetentionTime;BaseActiveRetentionUnit;IntermediateArchivingRetentionTime;IntermediateArchivingRetentionUnit;BaseActiveConditionDescription;BaseActiveProcessDescription;BaseActiveLegalBasis;IntermediateArchivingConditionDescription;IntermediateArchivingLegalBasis;IntermediateArchivingProcessDescription;DestructionDescription;DestructionLegalBasis;Required
+03/07/2020;03/07/2020;Bulletin de salaire;"Donnees et regles de conservation relatives au bulletin de salaire sur la base des textes de reference 
+L. 3243-4 du code du travail
+D. 3243-8 du code du travail";1;Month;5;Year;;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";50 ans en version dematerialisee;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;
+03/07/2020;03/07/2020;Elements necessaires au calcul de l'assiette;Donnees et regles de conservation relatives aux elements necessaire au calcul de l'assiette sur la base du texte de reference  L. 243-16 du code sécurité sociale;1;Month;6;Year;;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;
+03/07/2020;03/07/2020;Saisie des donnees calculees (DSN);Donnees et regles de conservation relatives à la saisie des donnes calculees (DSN) sur la base du texte de reference L. 243-16 du code sécurité sociale;;;6;Year;Le temps necessaire à l'accomplissement de la declaration;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;;;
+03/07/2020;03/07/2020;Ordre de virement pour paiement;Donnees et regles de conservation relatives aux ordres de virement pour paiement sur la base du texte de reference L. 123-22 du code du commerce;;;10;Year;Le temps necessaire à l'emission du bulletin de paie;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";10 ans a compter de la cloture de l'exercice comptable;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;
+03/07/2020;03/07/2020;Registre unique du personnel;Donnees et regles de conservation relatives au registre unique du personnel sur la base du texte de reference R. 1221-26 du code du travail;;;5;Year;La duree pendant laquelle le salarie fait partie des effectifs;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";5 ans a compter du départ du salarie de l'organisme;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;
+03/07/2020;03/07/2020;Nature du mandat et syndicat d'appartenance;Donnees et regles de conservation relatives à la nature du mandat et syndicat d'appartenance sur la base du texte de reference L. 2411-5 du code du travail;6;Month;6;Year;6 mois après la fin du mandat;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";Prescription penale pour delit;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;
+03/07/2020;03/07/2020;Sujetions particulieres;Donnees et regles de conservation relatives aux sujetions particulieres ouvrant droit a conges speciaux ou a credit d'heures de delegation (ex. exercice d'un mandat electif ou representatif syndical)  sur la base du texte de reference L. 2142-1-3 du code du travail;;;6;Year;Le temps de la période de sujetion de l'employe concerne;;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";Prescription penale pour delit;"REFERENTIEL CNIL RELATIF AUX TRAITEMENTS DE DONNEES A CARACTERE PERSONNEL
+MIS EN OEUVRE PAR DES ORGANISMES PRIVES OU PUBLICS
+AUX FINS DE GESTION DU PERSONNEL";;;;
