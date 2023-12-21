@@ -63,21 +63,21 @@ In this example, the Italian language will be selected by default (if available)
 </script>
 ```
 
-Vous pouvez remplacer le nom de la colonne refId par le nom de propriété suivante :&#x20;
+You can replace the name of the refId column with the following property name:
 
-* refId : l'identifiant unique de l'utilisateur&#x20;
-* familyName&#x20;
-* givenName&#x20;
-* email&#x20;
-* ville&#x20;
-* code postal&#x20;
-* code pays&#x20;
-* adresse&#x20;
-* numéro de téléphone&#x20;
-* message&#x20;
-* additionalDatas\*&#x20;
+* refId : the unique identifier of the user
+* familyName
+* givenName
+* email
+* city
+* zipCode
+* countryCode
+* address
+* phoneNumber
+* message
+* additionalDatas
 
-\*Pour le cas spécifique des champs personnalisés, vous devez référencer le nom additionalDatas :
+\*For the specific case of custom fields, you must reference the name additionalDatas :
 
 ```
 <script>
