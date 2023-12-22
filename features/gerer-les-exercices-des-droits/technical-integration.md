@@ -20,7 +20,7 @@ In order to set up thedata subject right request widget, you need an API public 
 
 To start with, you need to set up the widget in the rights exercise widget management panel:
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
 Here is a simple example of how to integrate the widget (in popup mode with an open button):
 

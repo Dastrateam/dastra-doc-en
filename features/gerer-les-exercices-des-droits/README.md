@@ -16,15 +16,17 @@ To do this, the company or organization must set up a register of requests to ex
 
 Dastra allows you to constitute a register of requests for the exercise of rights centralizing all past, present and future requests. This is available by clicking on the "exercise of rights" tab in the banner on the left of the screen.
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
 
 ## Complete a new data subject rights request
 
 There are 3 ways to fill in a new data subject rights request in DASTRA:
 
-1. [Inform directly by hand any new data subject right requests](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-2584506019/features/gerer-les-exercices-des-droits/gestion-des-demandes-dexercices-de-droits)&#x20;
-2. Import requests by excel, csv or text file. Read our [guide to importing data](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-2584506019/features/generalites/importer-vos-donnees-excel-csv) into Dastra
-3. [Set up a data subject right widget](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-2584506019/features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits)
+1. [Inform directly by hand any new data subject right requests](manage-data-subject-right-requests.md)&#x20;
+2. Import requests by excel, csv or text file. Read our[ guide to importing data](../general/import-your-data-excel-csv.md) into Dastra
+3. [Set up a data subject right widget](implementez-un-widget-dexercice-des-droits.md)
 
 ### Manual creation of a data subject rights request
 
