@@ -12,7 +12,27 @@ With the GDPR, European citizens are able to ask a company or organization proce
 
 To do this, the company or organization must set up a register of requests to exercise rights as well as a dedicated process.
 
-## The register of data subject rights requests
+
+
+
+
+## The process for managing requests from individuals exercising their data protection rights
+
+
+
+The management of a request to exercise a right can be summarised in 4 main steps:
+
+<figure><img src="../../.gitbook/assets/image (333).png" alt=""><figcaption><p>The DSR management process</p></figcaption></figure>
+
+For more details on the DSR management process, have a look at this page:
+
+
+
+{% content-ref url="manage-data-subject-right-requests.md" %}
+[manage-data-subject-right-requests.md](manage-data-subject-right-requests.md)
+{% endcontent-ref %}
+
+## The record of data subject rights requests
 
 Dastra allows you to constitute a register of requests for the exercise of rights centralizing all past, present and future requests. This is available by clicking on the "exercise of rights" tab in the banner on the left of the screen.
 
