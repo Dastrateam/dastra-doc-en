@@ -25,6 +25,6 @@ Don't forget to publish your data processing activities if you want them to be r
 
 With Dastra, a record is automatically created as soon as the workspace is defined. If you don't want to download an existing record, you can start filling in the default one immediately when creating your first processing activity. If you want to know how, click on the following link:
 
-{% content-ref url="declare-a-processing-activity.md" %}
-[declare-a-processing-activity.md](declare-a-processing-activity.md)
+{% content-ref url="declare-a-treatment.md" %}
+[declare-a-treatment.md](declare-a-treatment.md)
 {% endcontent-ref %}

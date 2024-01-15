@@ -55,7 +55,7 @@ Here is a table comparing the two approaches:
 | **Top-Down (descending)** | Small organizations or communities Company with a weak data culture Legal team with little affinity for IT | Quick to set up Less work Corresponds well to the legal expectations of the GDPR                                                                                                                                                                                                            | May cause difficulties if the registry implementation team is not familiar with the organization's data More burdensome for operational staff The data inventory will be much less valuable because it is modeled for legal purposes only More complex to maintain over the long term |
 | **Bottom-Up (ascending)** | Large or medium-sized organizations With a strong data culture Legal team with a strong IT affinity        | Taking an inventory of data will be less abstract than creating processes directly. The record reflects the reality of the organization Maintaining the record will be easier in the long run More members of the organization are involved Creation of treatment records is more automated | Overall more difficult and time consuming to implement Project requires good governance                                                                                                                                                                                               |
 
-The good news is that Dastra handles both approaches perfectly! You can either create a form automatically [by taking a treatment template](use-a-treatment-model.md). If you prefer the automatic approach, it's possible to create your own data map and create a treatment directly from an asset (software, database).
+The good news is that Dastra handles both approaches perfectly! You can either create a form automatically [by taking a treatment template](use-a-processing-activity-template.md). If you prefer the automatic approach, it's possible to create your own data map and create a treatment directly from an asset (software, database).
 
 ## How to set up your treatment record?
 
@@ -67,8 +67,8 @@ If you want to learn how to design and manage your data processing record, start
 
 If you want to learn how to design and manage your record of data processing, start here:
 
-{% content-ref url="declare-a-processing-activity.md" %}
-[declare-a-processing-activity.md](declare-a-processing-activity.md)
+{% content-ref url="declare-a-treatment.md" %}
+[declare-a-treatment.md](declare-a-treatment.md)
 {% endcontent-ref %}
 
 If you want to understand the different stages of the questionnaire, click here:

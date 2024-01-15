@@ -31,8 +31,8 @@ A good way to start designing your record is to first import your existing recor
 
 Then fill in all the information required for treatment by following the steps described in the link below.
 
-{% content-ref url="../../features/editer-le-registre/declare-a-processing-activity.md" %}
-[declare-a-processing-activity.md](../../features/editer-le-registre/declare-a-processing-activity.md)
+{% content-ref url="../../features/editer-le-registre/declare-a-treatment.md" %}
+[declare-a-treatment.md](../../features/editer-le-registre/declare-a-treatment.md)
 {% endcontent-ref %}
 
 You share the record with all data controllers as well as your network of GDPR correspondents and ask for validation from all stakeholders.

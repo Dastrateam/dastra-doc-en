@@ -1,8 +1,8 @@
-# Use a treatment model
+# Use a processing activity template
 
-Dastra allows you to create your treatment activity record from templates designed by our experts. Treatment templates save time in entering common treatments.
+Dastra allows you to create your processing activity record from templates designed by our experts. Processing templates save time in entering common processing.
 
-## Create a treatment from a template
+## Create a processing from a template
 
 Go to "New data processing"
 
@@ -12,19 +12,19 @@ and select "Built-in template".
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.01.05.png" alt=""><figcaption></figcaption></figure>
 
-Then, you can search for treatment models from the search bar.
+Then, you can search for processing models from the search bar.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.02.27.png" alt=""><figcaption></figcaption></figure>
 
 The **tags** will allow you to filter the templates by industry.&#x20;
 
-The **language** allows you to view the treatment templates in other languages.&#x20;
+The **language** allows you to view the processing templates in other languages.&#x20;
 
 To **view the content of the template** before importing it, you can click on the eye at the top right of the template.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.04.26.png" alt=""><figcaption></figcaption></figure>
 
-## Suggest a treatment template
+## Suggest a processing template
 
 If you don't find a model, you can suggest it to us.
 

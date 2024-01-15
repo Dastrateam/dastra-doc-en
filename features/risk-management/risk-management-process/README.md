@@ -6,7 +6,7 @@ description: Learn how the risk management process works in Dastra.
 
 The Dastra risk management process is a simplified version of the eBios Risk Manager model and ISO 27005 risk assessment methodology. Manage your risks in 4 steps Risk management is a four-step process.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>4 steps to risk management + archiving</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>4 steps to risk management + archiving</p></figcaption></figure>
 
 1. **Identification** The aim of risk identification is to determine the events likely to occur, causing a feared event (such as a loss), and to provide an overview of how, where and when this event could occur.
 2. **Assessment** Risk is assessed positively or negatively according to the level of impact the feared event presents, and the likelihood of it occurring, based on the threats that enable it.

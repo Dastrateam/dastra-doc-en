@@ -2,7 +2,7 @@
 description: Learn how to report a data processing activity.
 ---
 
-# Declare a treatment
+# Declare a processing activity
 
 ## What is data processing?
 
