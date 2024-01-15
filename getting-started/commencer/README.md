@@ -1,5 +1,8 @@
 ---
 description: Learn how to get started with Dastra
+cover: >-
+  https://images.unsplash.com/photo-1608496601160-f86d19a44f9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxzdGFydHxlbnwwfHx8fDE3MDUzNTU3Njd8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Setting up

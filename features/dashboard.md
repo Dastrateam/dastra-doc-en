@@ -11,12 +11,12 @@ The Dastra dashboard is the first page you see when you enter your workspace, an
 It's composed of 3 main sections:&#x20;
 
 * The feature bar on the left of the screen,&#x20;
-* The community tab on the right of the screen,&#x20;
+* The selector of organizational unit
+* Your role in this workspace
+* The last release note (for a review of the new features)
 * The section in the center containing the tiles summarizing the news and the watch of your space, and the different features.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-06-07 à 11.00.48.png" alt="" width="79"><figcaption><p>Function bar on the left of the screen</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-06-07 à 11.01.53.png" alt="" width="268"><figcaption><p>The community tab on the right of the screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
 ## The tiles of the dashboard
 
@@ -34,6 +34,7 @@ There are several **categories of tiles** available in the dashboard:&#x20;
 * **Data subjects rights**
 * **Cookie consent widget**&#x20;
 * **Latest data breaches** &#x20;
+* **Asset management**
 
 ## How to share the dashboard?&#x20;
 
