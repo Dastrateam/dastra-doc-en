@@ -67,8 +67,8 @@ If you want to learn how to design and manage your data processing record, start
 
 If you want to learn how to design and manage your record of data processing, start here:
 
-{% content-ref url="declare-a-treatment.md" %}
-[declare-a-treatment.md](declare-a-treatment.md)
+{% content-ref url="declare-a-processing-activity.md" %}
+[declare-a-processing-activity.md](declare-a-processing-activity.md)
 {% endcontent-ref %}
 
 If you want to understand the different stages of the questionnaire, click here:
