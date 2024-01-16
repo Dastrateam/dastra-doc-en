@@ -48,7 +48,7 @@
 * [General](features/general/README.md)
   * [Advanced Filters](features/general/advanced-filters.md)
   * [Import your data (Excel, Csv)](features/general/import-your-data-excel-csv.md)
-  * [Tag management](features/general/tag-management.md)
+  * [Tag management](features/general/tags.md)
   * [Custom fields](features/general/custom-fields.md)
   * [AI Assistant (beta)](features/general/ai-assistant-beta.md)
   * [Email templates](features/general/email-templates.md)
