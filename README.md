@@ -34,9 +34,9 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 * **Implement internal processes** such as setting up rights exercise management, managing cookie consents or keeping a register of data breaches.
 
-<figure><img src=".gitbook/assets/image (91).png" alt=""><figcaption><p>Register of requests to exercise rights</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (91).png" alt=""><figcaption><p>Register of requests to data subjects rights requests (DSR)</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.46.10.png" alt=""><figcaption><p>Creation of a cookie consent widget</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (338).png" alt=""><figcaption><p>Cookie management plateform (CMP)</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.47.37.png" alt=""><figcaption><p>The data breach questionnaire</p></figcaption></figure>
 
