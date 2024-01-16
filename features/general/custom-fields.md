@@ -39,7 +39,7 @@ You can customize the following forms:&#x20;
 * Data sets&#x20;
 * Data fields&#x20;
 * [Violations](../../le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)&#x20;
-* [Risk assessments](../risk-management/linking-a-risk-to-the-processing-of-data.md)
+* [Risk assessments](../risk-management/attach-a-risk-to-a-processing-activity.md)
 
 {% hint style="warning" %}
 **Limitations on the number of fields**

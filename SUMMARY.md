@@ -95,7 +95,7 @@
     * [4. Control](features/risk-management/risk-management-process/4.-control.md)
     * [Let's recap](features/risk-management/risk-management-process/lets-recap.md)
   * [Dastra / eBios RM comparison](features/risk-management/dastra-ebios-rm-comparison.md)
-  * [Linking a risk to the processing of data](features/risk-management/linking-a-risk-to-the-processing-of-data.md)
+  * [Attach a risk to a processing activity](features/risk-management/attach-a-risk-to-a-processing-activity.md)
   * [FAQ](features/risk-management/faq.md)
 * [Planning](features/planifier/README.md)
   * [Create your action plan](features/planifier/gerer-vos-taches.md)

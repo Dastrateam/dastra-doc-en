@@ -28,6 +28,6 @@ The subcontractor is not liable for material or moral damage caused by the proce
 
 ## For more information
 
-{% content-ref url="../../features/risk-management/linking-a-risk-to-the-processing-of-data.md" %}
-[linking-a-risk-to-the-processing-of-data.md](../../features/risk-management/linking-a-risk-to-the-processing-of-data.md)
+{% content-ref url="../../features/risk-management/attach-a-risk-to-a-processing-activity.md" %}
+[attach-a-risk-to-a-processing-activity.md](../../features/risk-management/attach-a-risk-to-a-processing-activity.md)
 {% endcontent-ref %}

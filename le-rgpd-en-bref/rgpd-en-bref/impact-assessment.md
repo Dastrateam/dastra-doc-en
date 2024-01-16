@@ -126,6 +126,6 @@ If not, propose **additional measures** and re-evaluate the level of risk in lig
 [audits-and-pia](../../features/audits-and-pia/)
 {% endcontent-ref %}
 
-{% content-ref url="../../features/risk-management/linking-a-risk-to-the-processing-of-data.md" %}
-[linking-a-risk-to-the-processing-of-data.md](../../features/risk-management/linking-a-risk-to-the-processing-of-data.md)
+{% content-ref url="../../features/risk-management/attach-a-risk-to-a-processing-activity.md" %}
+[attach-a-risk-to-a-processing-activity.md](../../features/risk-management/attach-a-risk-to-a-processing-activity.md)
 {% endcontent-ref %}
