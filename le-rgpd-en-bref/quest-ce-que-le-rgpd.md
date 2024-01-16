@@ -14,10 +14,6 @@ Its purpose is to standardize and improve the protection of personal data. Its f
 
 
 
-{% embed url="https://www.youtube.com/watch?v=acijNEErf-c" %}
-
-
-
 ## What challenges for organizations?
 
 From a practical point of view, the GDPR obliges organizations that process data of European citizens to implement the following obligations towards their organizations and processes:&#x20;
