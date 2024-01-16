@@ -2,9 +2,9 @@
 description: Learn how to manage the risks of subcontracting with the GDPR.
 ---
 
-# Subcontractor risks
+# Vendor risk management
 
-The requirements of the GDPR are extended to subcontractors.
+The requirements of the GDPR are extended to vendors (subcontractors or processors).
 
 ## Contract
 

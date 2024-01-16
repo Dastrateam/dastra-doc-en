@@ -10,7 +10,7 @@ description: >-
 
 "**Privacy by design**" and "**privacy by default**" are two key concepts in the implementation of personal data protection, stemming from [Article 25 of the GDPR](https://gdpr-info.eu/art-25-gdpr/).&#x20;
 
-The principle of data protection by design means that the company must integrate the protection of personal data, **from the conception of projects related to the processing of company data**. The objective is to minimize the risks of non-compliance with the RGPD, from the design of a project and by default.
+The principle of data protection by design means that the company must integrate the protection of personal data, **from the conception of projects related to the processing of company data**. The objective is to minimize the risks of non-compliance with the GDPR, from the design of a project and by default.
 
 {% hint style="info" %}
 The principle of privacy by design is applied at the design stage of a product or service, which requires companies to **anticipate**.&#x20;

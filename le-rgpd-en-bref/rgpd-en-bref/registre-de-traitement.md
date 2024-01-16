@@ -62,9 +62,9 @@ For each processing operation, the record of a data controller shall indicate at
 7. the **time limits for the deletion** of the various categories of data, i.e. the retention period, or failing that the criteria for determining it,
 8. to the extent possible, **a general description** of the technical and organizational **security** **measures** that you implement.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-03 à 14.30.23.png" alt="" width="182"><figcaption><p>A "data controller" treatment in Dastra</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-03 à 14.30.23.png" alt="" width="182"><figcaption><p>A processing as controller in Dastra</p></figcaption></figure>
 
-#### Actors
+#### Stakeholders
 
 * The identity and contact information of the data controller&#x20;
 * The identity and contact information of the DPO if applicable&#x20;
@@ -113,7 +113,7 @@ This record contains:&#x20;
 * **transfers** outside the EEA&#x20;
 * the **security measures**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-03 à 14.40.55.png" alt="" width="151"><figcaption><p>A "processor" treatment in Dastra</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-05-03 à 14.40.55.png" alt="" width="151"><figcaption><p>A processing as processor in Dastra</p></figcaption></figure>
 
 ## For more information
 

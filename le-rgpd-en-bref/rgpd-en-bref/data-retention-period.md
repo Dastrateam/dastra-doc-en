@@ -96,10 +96,6 @@ Dastra's Audit feature is ideal for this:
 
 ## For more information
 
-{% embed url="https://www.youtube.com/watch?embeds_referring_euri=https://cdn.iframe.ly/&feature=emb_title&source_ve_path=MjM4NTE&v=BK8A3L9P7T0" %}
-Webinar "Shelf life: how to determine it" in French
-{% endembed %}
-
 {% content-ref url="../../features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md" %}
 [categorie-de-donnees.md](../../features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md)
 {% endcontent-ref %}

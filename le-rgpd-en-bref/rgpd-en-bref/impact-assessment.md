@@ -24,7 +24,7 @@ The PIA is a document broken down into three parts:&#x20;
 
 The PIA may involve:&#x20;
 
-* A **single treatment**&#x20;
+* A **single processing**
 * **Similar processing operations**&#x20;
 * Identical processing operations carried out by several data controllers&#x20;
 * Processing shared by several controllers&#x20;
@@ -36,7 +36,7 @@ An impact assessment must be carried out if the processing operation entails a *
 By rights and freedoms is meant not only the right to privacy but also other fundamental rights, such as freedom of movement, non-discrimination, the right to life, etc.
 
 {% hint style="info" %}
-High-risk treatments can be identified if they meet at least 2 of these criteria below (source: EDPD):&#x20;
+[EDPB Guidelines](https://edpb.europa.eu/) states that high-risk processings can be identified if they meet at least 2 of these criteria below:&#x20;
 
 * Evaluation/scoring&#x20;
 * Automatic decision with legal or similar effect&#x20;
@@ -47,7 +47,6 @@ High-risk treatments can be identified if they meet at least 2 of these criteria
 * Vulnerable persons&#x20;
 * Innovative use&#x20;
 * Blocking a right/contract&#x20;
-* Transfer outside EU
 {% endhint %}
 
 ## When should I do a PIA?
@@ -68,7 +67,7 @@ PIA is an ongoing process:&#x20;
 
 ## How to make a PIA?
 
-**By first assessing the measures of necessity and proportionality. This is a thorough examination of the treatment from every angle!**&#x20;
+**By first assessing the measures of necessity and proportionality. This is a thorough examination of the processing from every angle!**&#x20;
 
 You have to ask yourself questions and explain your choices on the following aspects of the processing:
 

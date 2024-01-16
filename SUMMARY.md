@@ -17,7 +17,7 @@
 * [Risk management](le-rgpd-en-bref/risk-management/README.md)
   * [Definition of risks](le-rgpd-en-bref/risk-management/definition-of-risks.md)
   * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
-  * [Subcontractor risks](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
+  * [Vendor risk management](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
 
 ## 🧑🎓 GETTING STARTED
 
