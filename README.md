@@ -20,13 +20,13 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 ## With Dastra you can:
 
-* **Map your personal data** by creating and maintaining your treatment record thanks to a flexible and intuitive interface, repositories, libraries and a questionnaire, and **build, share and export** your treatment record.
+* **Map your personal data** by creating and maintaining your record of processing activities (ROPA) thanks to a flexible and intuitive interface, repositories, libraries and a questionnaire, and **build, share and export** your ROPA.
 
-<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 12.08.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>The record of processing activities (ROPA)</p></figcaption></figure>
 
 * **Identify your risks, and carry out audits** to assess priorities.
 
-<figure><img src=".gitbook/assets/Capture d’écran 2023-06-01 à 14.38.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Risk module</p></figcaption></figure>
 
 * **Generate an action plan, allocate tasks and collaborate with your network**, to better protect your data.
 
@@ -42,7 +42,7 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 * **Centralize documentation** to meet GDPR compliance.
 
-<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption><p>The Repositories module, containing all the data and files in your workspace</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>The repository module</p></figcaption></figure>
 
 ## How do I get to know Dastra?
 

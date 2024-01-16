@@ -52,7 +52,7 @@ Log on to Dastra as administrator. Go to Organization configuration > click on S
 
 Click on the "Configure" button
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Configure your SCIM. Select the workspace you wish to synchronize (teams and users will be automatically provisioned in this workspace). Then choose the default role you wish to give to new users. Note that roles will be managed locally by the Dastra account administrator.&#x20;
 

@@ -14,13 +14,13 @@ Email domains allow your future collaborators the possibility to be directly ass
 
 You will find the email domains configuration in the general settings of your organization, under the **security** section.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Activate or deactivate the feature by clicking on the button 'Allow users...'
 
 Then choose the role and workspace that will be assigned to future users:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finally, save the configuration by clicking on the Save button!
 
