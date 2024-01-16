@@ -93,6 +93,7 @@
     * [2. Assess](features/risk-management/risk-management-process/2.-assess.md)
     * [3. Monitor](features/risk-management/risk-management-process/3.-monitor.md)
     * [4. Control](features/risk-management/risk-management-process/4.-control.md)
+    * [Let's recap](features/risk-management/risk-management-process/lets-recap.md)
   * [Dastra / eBios RM comparison](features/risk-management/dastra-ebios-rm-comparison.md)
   * [Linking a risk to the processing of data](features/risk-management/linking-a-risk-to-the-processing-of-data.md)
   * [FAQ](features/risk-management/faq.md)
