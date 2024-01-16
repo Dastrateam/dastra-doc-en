@@ -8,7 +8,7 @@
 * [GDPR key concepts](le-rgpd-en-bref/rgpd-en-bref/README.md)
   * [Personal data](le-rgpd-en-bref/rgpd-en-bref/donnee-personnelle.md)
   * [Record of processing](le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
-  * [Impact assessment](le-rgpd-en-bref/rgpd-en-bref/impact-assessment.md)
+  * [Privacy impact assessment](le-rgpd-en-bref/rgpd-en-bref/privacy-impact-assessment.md)
   * [Data retention period](le-rgpd-en-bref/rgpd-en-bref/data-retention-period.md)
   * [Data Subject Rights](le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
   * [Privacy by design and by default](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)

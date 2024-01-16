@@ -1,8 +1,8 @@
 ---
-description: Learn what an impact assessment is.
+description: Learn what is a privacy impact assessment
 ---
 
-# Impact assessment
+# Privacy impact assessment
 
 ## What is a PIA?
 
