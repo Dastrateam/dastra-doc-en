@@ -25,7 +25,7 @@ You can then find all the risks in your register in the risk repository.
 
 You can also attach a risk to a treatment directly from the risk management module.&#x20;
 
-To do this, simply go to the "Risks" tab and "create an evaluation".
+To do this, simply go to the "Risks" tab and "create a risk assessment".
 
 ## Visualising the risks of a processing
 
@@ -43,7 +43,7 @@ The risk level is calculated according to the following formula :
 Risk level = probability value X impact value
 ```
 
-In the dashboard, a risk module shows the number of risks, the treatments with the highest risks, the overall risk and the level of the treatment with the highest risk.
+In the dashboard, a risk module shows the number of risks, the processings with the highest risks, the overall risk and the level of the processing with the highest risk.
 
 The overall risk is calculated according to the following formula:
 
@@ -51,7 +51,7 @@ The overall risk is calculated according to the following formula:
 sum (probability* impact ) / number of risks
 ```
 
-The level of treatment with the highest risk is calculated according to the following formula:
+The level of the processing with the highest risk is calculated according to the following formula:
 
 ```
 ((impact x probability) / 25)
