@@ -2,9 +2,9 @@
 description: Learn what a record of data processing activities is.
 ---
 
-# Record of processing
+# Record of processing activities (ROPA)
 
-## Definition of the record of processing
+## Definition of the record of processing activities
 
 The record of data processing activities provides a clear and structured mapping of all personal data processing operations and will be the starting point for control by the Data Protection Authority.
 
