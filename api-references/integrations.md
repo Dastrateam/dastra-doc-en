@@ -81,4 +81,4 @@ Now you're ready to jump into the world of automation and set up your first conn
 
 Follow our step-by-step guide to automating your data subject requests:
 
-{% embed url="https://dastra.eu/fr/article/automate-data-subject-requests/51588" %}
+{% embed url="https://www.dastra.eu/en/guide/automate-data-subject-requests/51588" %}
