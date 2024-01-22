@@ -42,6 +42,20 @@ Assign them the role of your choice and click "Next".
 
 In Dastra, the notion of workspace is decoupled from that of legal entity. A workspace can therefore refer to several distinct legal entities (as in a group, for example). On the other hand, there can only be one legal representative per legal entity.&#x20;
 
+
+
+{% hint style="info" %}
+Be careful to distinguish between entities and workspaces.&#x20;
+
+Here's a reminder of the definitions of terms in Dastra:&#x20;
+
+* an **organization** is the account linked to your subscription. You'll see the name of your organization below your user account name (top right). The organization contains one or more workspaces.&#x20;
+* a **workspace** is a technical environment for collaborating and working with Dastra features. The workspace is represented by the tile you select when you log on to Dastra. This workspace contains organizational units.&#x20;
+* an **organizational unit** is a structural element in the workspace. It can be used to attach processings, tasks, rights requests, violations and risks. They can also be assigned user rights. Organizational units can be broken down into entities and departments.&#x20;
+* an **entity** corresponds to a data controller. This is a legal entity whose contact details are specified. A data protection officer and a data controller may be attached to this entity. Similarly, a lead supervisory authority can be attached. This entity can be subdivided into departments.&#x20;
+* a **department** is an organizational unit positioned under an entity. This department organizes the entity and divides the attached elements into different branches. For each department, child departments can be attached. For example, departments can be used to create a company organization chart.
+{% endhint %}
+
 Each entity is considered a data controller.&#x20;
 
 To create the first legal entity, all you need to do is indicate its name and associate its data controller (the legal representative) and, if appointed, the data protection officer or other parties. Only the name of the legal entity is mandatory.
