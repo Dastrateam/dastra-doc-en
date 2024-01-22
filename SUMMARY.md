@@ -144,7 +144,7 @@
   * [Breakdown service](features/gerer-le-consentement-aux-cookies/breakdown-service.md)
 * [Advanced configuration](features/settings/README.md)
   * [SCIM](features/settings/scim.md)
-  * [Roles and permissions](features/settings/roles-and-permissions.md)
+  * [Roles and permissions](features/settings/roles-et-permissions.md)
   * [Single Sign On (SSO)](features/settings/single-sign-on-sso/README.md)
     * [SAML 2](features/settings/single-sign-on-sso/saml-2.md)
     * [OpenId](features/settings/single-sign-on-sso/openid.md)
