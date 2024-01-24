@@ -60,7 +60,7 @@ To create a rights request automatically via a rights request collection form, s
 
 Click on the top right menu and on the "Import" button.\
 \
-Then follow the guide to [importing data into Dastra](../general/import-your-data-excel-csv.md).
+Then follow the guide to [importing data into Dastra](../generalites/import-your-data-excel-csv.md).
 
 To export, click on the "export" button from the same interface.
 
