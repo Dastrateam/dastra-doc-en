@@ -168,7 +168,8 @@
 * [Configuration](api-references/configuration.md)
 * [Authentication](api-references/authentification.md)
 * [API References](https://api.dastra.eu/swagger)
-* [Integrations](api-references/integrations.md)
+* [Integrations](api-references/integrations/README.md)
+  * [Frequently asked questions](api-references/integrations/frequently-asked-questions.md)
 
 ## 🛡 Security
 
