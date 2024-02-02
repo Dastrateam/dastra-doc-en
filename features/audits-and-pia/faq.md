@@ -14,3 +14,8 @@ In Dastra, the default PIA model is attached to a single processing operation. I
 ## Can an email template be set up automatically when an audit is created?
 
 You can create an email template that can be used in audit invitations. It is not possible to perform automated actions via workflows for example. Audits cannot be used as triggers.
+
+## As an external respondent, can I put images in the answers?
+
+No, this is not possible. This option is available if you are an internal respondent (Dastra user).
+
