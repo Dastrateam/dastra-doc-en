@@ -17,7 +17,7 @@ Organization's owner are able to secure the application's connection using Ip wh
 
 ## Secure cloud hosting
 
-All of your data is stored at Microsoft Azure in hosting resources located in France.
+All of your data is stored at Microsoft Azure in hosting resources located in France and Netherland.
 
 ## Encryption of data in transit
 
