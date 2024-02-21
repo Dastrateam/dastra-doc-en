@@ -4,7 +4,7 @@ description: >-
   generate records of data processing activities.
 ---
 
-# AI Assistant (beta)
+# AI Assistant
 
 ## What can Dastra be used for?&#x20;
 
@@ -21,6 +21,16 @@ In no time at all, you'll be up and running. Do you have a modification to make 
 Quickly generate assets (such as software) in the format expected by Dastra. The AI will suggest a name, provide links to the actor's privacy policy and create an actor as an editor. Save time and let the AI pre-fill this information for you.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F3LnwYaR0wxVm1itxA4XH%2Fia-gpt-dastra.mp4?alt=media&token=ba3d66f4-e290-4215-83ec-7a2f91641d39" %}
+
+## Generate datasets&#x20;
+
+Quickly generate datasets in the format expected by Dastra from a simple description. To generate a dataset with AI :&#x20;
+
+1. Go to the datasets page
+2. Click on **Create a dataset** > **Create with AI wizard**&#x20;
+3. Enter a short description of your dataset in the text field
+4. &#x20;Click Next and wait a few moments for your dataset to be created.&#x20;
+5. On the dataset overview screen, apply any corrections and click on Create. Once the dataset has been generated? Edit the treatment once it has been created directly.
 
 {% hint style="warning" %}
 **What should I do if I don't want this feature in my account?**&#x20;
