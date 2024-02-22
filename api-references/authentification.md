@@ -4,24 +4,18 @@ description: Learn how to authenticate with Dastra API.
 
 # Authentication
 
-The Rest Dastra API uses API keys to authenticate each request. You can manage your keys in the configuration interface of your organization.
+### Obtaining the secret API key&#x20;
 
-You can use an API key for an entity or the entire organization.
+The Dastra Rest API uses **API keys** to authenticate each request. You can manage your keys in your organization's configuration interface. You can use an API key for a specific workspace or for the entire organization. Your API key allows you to do many things, so keep it safe. Don't share your secret key in public parts of applications like GitHub, client code...etc.... If you wish to use OAuth2 authentication in "authorization\_code" mode, you'll need to configure the redirection url(s) and the authorized CORs origins.
 
-Your API key allows you to do a lot of things, which is why you must keep it preciously. Do not share your secret key in the public parts of applications like GitHub, client code etc.
+### API key (X-API-Key)&#x20;
 
-API authentication is performed using the HTTP Basic Auth protocol. Provide your API key as a username. The password is not necessary (You can put a random one like 123).
+To authenticate yourself, the simplest way is to use an HTTP X-API-Key header containing the private key of your API key, as in the example below:
+
+```bash
+curl -X 'GET' \
+  'https://api.dastra.eu/me' \
+  -H 'accept: */*' \
+  -H 'X-API-Key: <your private key here>'
 
 ```
-curl https://api.dastra.eu/v1/actors\
-  -u asdskdskgfdkghfdkhg:
-# The colon prevents curl from asking for a password.
-```
-
-{% hint style="info" %}
-Cross-origin requests are not allowed by the API. So never make requests to the REST API by passing the secret key in clear in the client side!
-
-They will in any case be blocked by the browser with CORS
-{% endhint %}
-
-All requests must be made in HTTPS and always on the server side. Queries without authentication will fail with error code 401\
