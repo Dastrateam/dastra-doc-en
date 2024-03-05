@@ -10,10 +10,6 @@ Go to the settings page of the desired widget, then to the "Texts and translatio
 
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-28 à 14.55.55.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Please note that only French and English are supported today.
-{% endhint %}
-
 ## How is the widget language detected?&#x20;
 
 By default, the language is detected automatically according to the browser language&#x20;

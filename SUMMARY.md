@@ -19,7 +19,7 @@
   * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
   * [Vendor risk management](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
 
-## 🧑🎓 GETTING STARTED
+## 🧑‍🎓 GETTING STARTED
 
 * [Setting up](getting-started/commencer/README.md)
   * [Create and set up a workspace](getting-started/commencer/create-and-set-up-a-workspace.md)
@@ -42,7 +42,7 @@
   * [Online help](getting-started/support/online-help.md)
   * [Request support](getting-started/support/request-support.md)
 
-## ⚙ Features
+## ⚙️ Features
 
 * [Dashboard](features/dashboard.md)
 * [General](features/generalites/README.md)
@@ -176,7 +176,7 @@
 * [Integrations](api-references/integrations/README.md)
   * [Frequently asked questions](api-references/integrations/frequently-asked-questions.md)
 
-## 🛡 Security
+## 🛡️ Security
 
 * [Security at Dastra](security/general.md)
 * [Security roadmap](security/feuille-de-route.md)
