@@ -4,6 +4,14 @@ In Dastra you can create relationships between your processings to make them eas
 
 These relationships are possible between processings located in the same workspace.
 
+## Why create relationships between processing?
+
+Relationships between processings can be used to materialize responsibility relationships between the various entities responsible for processing. For example, in a corporate group, you can set up a relationship between a processing operation carried out by the parent company and the processing operations carried out by the subsidiaries.&#x20;
+
+This is often the case for processing relating to the group's general administration, such as human resources management, accounting, supplier management, etc.
+
+> A parent company X implements payroll processing on behalf of its subsidiaries Y and Z. In entity X, a "payroll management" process (P1) is created as a subcontractor. From this process, we can create a strong inheritance relationship with two other processing (C1 and C2) located in Y and Z, which will be created as data controllers. In this way, updates to P1 will be automatically relayed to C1 and C2.
+
 ## Add a relationship
 
 To do this, go to a processing and select the "Relationships" tab located at the top of the record.
