@@ -73,7 +73,7 @@
     * [Security measures](features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md)
     * [Impact analysis](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documentation](features/editer-le-registre/remplir-le-questionnaire/documents.md)
-  * [Create a relationship between treatments](features/editer-le-registre/create-a-relationship-between-treatments.md)
+  * [Create relationships between processing activities](features/editer-le-registre/create-relationships-between-processing-activities.md)
   * [Processing freshness](features/editer-le-registre/fraicheur-des-traitements.md)
   * [Share the record of processing](features/editer-le-registre/partager-le-registre.md)
   * [Data visualization](features/editer-le-registre/data-visualization/README.md)
