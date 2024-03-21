@@ -21,7 +21,7 @@ Workflow Rules in Dastra are a set of actions (email notifications, audit schedu
 
 You can trigger a workflow rule on two events:
 
-* When **an action is taken on the entity concerned**: modification, deletion or creation.&#x20;
+* When **an action is taken on the entity concerned**: creation, modification, state change or recycle bin (if available) .&#x20;
 * **When a specific date for the entity is reached**. For example: send a notification 10 days after the publication date.
 
 Only one trigger can be defined per workflow rule.
