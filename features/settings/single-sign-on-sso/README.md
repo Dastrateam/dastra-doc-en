@@ -52,7 +52,7 @@ If you want users from your identity provider not to need to create accounts to 
 
 https://account.dastra.eu/account/loginexternal?provider={your provider id}\&returnUrl=https://www.dastra.eu
 
-\=> in the case of validated authentication, they will automatically have an account created in Dastra.
+\=> in the case of validated authentication, they will automatically have an account created in Dastra and a notification mail will be sent to you a few hours later.
 
 
 
