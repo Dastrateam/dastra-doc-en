@@ -57,8 +57,8 @@ $$
 
 For more information to take risk management, Dastra can also design audits, carry out campaigns and collect the results in the form of exportable audit reports.
 
-{% content-ref url="../../features/audits-and-pia/" %}
-[audits-and-pia](../../features/audits-and-pia/)
+{% content-ref url="../../features/audits-and-dpia/" %}
+[audits-and-dpia](../../features/audits-and-dpia/)
 {% endcontent-ref %}
 
 That's it, your risks have been identified and assessed! Then move on to step 4, task prioritization.

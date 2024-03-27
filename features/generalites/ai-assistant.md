@@ -32,6 +32,34 @@ Quickly generate datasets in the format expected by Dastra from a simple descrip
 4. &#x20;Click Next and wait a few moments for your dataset to be created.&#x20;
 5. On the dataset overview screen, apply any corrections and click on Create. Once the dataset has been generated? Edit the treatment once it has been created directly.
 
+#### Generate responses to data subject right requests <a href="#generer-des-reponses-aux-demandes-dexercice-de-droits" id="generer-des-reponses-aux-demandes-dexercice-de-droits"></a>
+
+You can easily generate responses to data subject right requests in several languages from the request communication stage. Various customization options are available to adapt the text to your needs (shorten or lengthen the text, adopt a more or less formal tone, etc.).
+
+To generate a reply :
+
+1. Go to a [rights exercise](../gerer-les-exercices-des-droits/manage-data-subject-right-requests.md) in progress
+2. Fill in the information up to the **Communication/Transmission** step
+3. Click on **Generate with AI** and wait a few moments for the wizard to generate an initial response based on the following information
+   1. first and last name of recipient
+   2. request message
+   3. language to be used
+   4. workspace name
+   5. purpose
+   6. name of request operator
+   7. date of request and number of days remaining (depending on complexity)
+   8. request status and ID
+4. You can then edit the proposed text or use one of the reformulation options to restart the generation (wait a few moments to see the result).
+5. Finally, click on **Use this message** and add any attachments, before clicking on **Send** to send.
+
+Note that a limit on the number of trials per minute is in place for this feature.
+
+### How to use Dastra's generative AI ? <a href="#comment-utiliser-lia-generative-de-dastra" id="comment-utiliser-lia-generative-de-dastra"></a>
+
+You can use the AI assistant to generate data processings or assets. To do so, click on the **"New data processing"** button and on **"AI Generated"**. The AI assistant will propose a data model that you can then adapt to your needs.
+
+
+
 {% hint style="warning" %}
 **What should I do if I don't want this feature in my account?**&#x20;
 
@@ -40,11 +68,19 @@ If you don't want this option to be available in your workspace, you can [contac
 
 ## How does it work?
 
-Dastra uses the **OpenAI GPT 3.5 boost** AI model (Model of [ChatGPT](https://chat.openai.com/)) provided by the [OpenAI service hosted on Azure](https://azure.microsoft.com/fr-fr/products/cognitive-services/openai-service). The model used is pre-trained. **We do not transfer any data from your organisation** in order to train this artificial intelligence.
+Dastra uses the **OpenAI GPT 3.5** and **GPT 4.0** AI model (Model of [ChatGPT](https://chat.openai.com/)) provided by the [OpenAI service hosted on Azure](https://azure.microsoft.com/fr-fr/products/cognitive-services/openai-service). The model used is pre-trained. **We do not transfer any data from your organisation** in order to train this artificial intelligence.
 
 Dastra simply uses the power of GPT's generative AI to generate content from simple text queries. Dastra has simply provided the expected document model (JSON) and an example of data processing (from our library) that we want to have and the AI model takes care of the rest.&#x20;
 
-We only transfer the text of the prompt that you are going to send to the AI.
+Only the prompt text is transferred to the AI for object generation in Dastra.
+
+For the generation of data subject right request messages, the context of the message is integrated into the generation request in order to propose a personalized response to the request ([see details of transmitted fields](ai-assistant.md#generer-des-reponses-aux-demandes-dexercice-de-droits)).
+
+We've chosen to offer you different models of generative AI because we've found each version to be of interest. You can find the summary table below to help you choose the model best suited to your needs:
+
+
+
+<table><thead><tr><th width="100">Model</th><th>Version</th><th width="100">Benefits</th><th>Disadvantages</th><th>Use cases</th></tr></thead><tbody><tr><td>GPT</td><td>3.5 Turbo</td><td>-Speed<a data-footnote-ref href="#user-content-fn-1"><br><br></a>-Price</td><td>-Aging AI knowledge base (before 2022)<br><br>-Sometimes "simplistic" answers<br><br>-US publisher</td><td>-Object generation<br><br>-Internal Chat Bot</td></tr><tr><td>GPT</td><td>4.0</td><td>-Complete and relevant answers<br><br>-Advanced features</td><td><p>-Generation time<br><br>-Hallucinations and responses that don't always follow instructions<br></p><p>-US publisher</p></td><td>Message generation and reformulation for data subject right request</td></tr><tr><td>Mistral</td><td>Large</td><td>-Quality of answers<br><br>-French publisher</td><td>-Less advanced Azure integration<br><br>-Some features are still experimental</td><td>-Object generation<br><br>-Message generation</td></tr></tbody></table>
 
 
 
@@ -56,14 +92,13 @@ The data generated by the wizard are **suggestions only**. It is necessary to re
 
 Dastra **does not transfer any data** from your workspace to the AI service. Text queries and results from the :&#x20;
 
-* **are NOT available to other clients.**&#x20;
-* **are NOT available to OpenAI.**&#x20;
-* **are NOT used to improve OpenAI models.**&#x20;
+* **are NOT available to other clients** and are NOT available to OpenAI or MistralAI.&#x20;
+* **are NOT used to improve OpenAI or MistralAI** **models.**&#x20;
 * **are NOT used to automatically improve Azure OpenAI models** for your use in your resource (models are stateless unless you explicitly refine the models with your training data).
 
 \
 For more information on how this model works, go to [this page](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy).
 
-{% hint style="info" %}
 
-{% endhint %}
+
+[^1]: 

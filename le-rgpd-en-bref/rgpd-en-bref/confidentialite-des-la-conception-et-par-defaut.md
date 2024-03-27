@@ -62,8 +62,8 @@ Privacy by Design principles can be applied in several ways in Dastra:&#x20;
 
 * **Create specific audit forms** to collect the necessary information
 
-{% content-ref url="../../features/audits-and-pia/" %}
-[audits-and-pia](../../features/audits-and-pia/)
+{% content-ref url="../../features/audits-and-dpia/" %}
+[audits-and-dpia](../../features/audits-and-dpia/)
 {% endcontent-ref %}
 
 * **Identify and analyze risks** to assess the measures to be implemented to address the issues

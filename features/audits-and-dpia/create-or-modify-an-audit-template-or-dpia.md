@@ -1,8 +1,8 @@
 ---
-description: Learn how to create and modify an audit template or PIA with Dastra.
+description: Learn how to create and modify an audit template or DPIA with Dastra.
 ---
 
-# Create or modify an audit template or PIA
+# Create or modify an audit template or DPIA
 
 ## Introduction
 
