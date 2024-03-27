@@ -16,7 +16,7 @@ Enter the e-mail address of the person you wish to invite in your Dastra space. 
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.35.11.png" alt="" width="563"><figcaption></figcaption></figure>
 
-A form appears. Enter your surname, first name, role and team, then click on the "Send invitation" button. The invited person will receive an e-mail containing a link which, once clicked, will enable that person to access the space.
+A form appears. Enter your surname, first name, role and team, then click on the "Send invitation" button. The invited person will receive an e-mail containing a link which, once clicked, will enable that person to access the space, at this time a notification mail will be sent to you.
 
 That's it, the user has been invited!
 
