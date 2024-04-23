@@ -23,7 +23,7 @@
 
 * [Setting up](commencer/commencer/README.md)
   * [Create and set up a workspace](commencer/commencer/create-and-set-up-a-workspace.md)
-  * [Create and set up organizational units](commencer/commencer/create-and-set-up-organizational-units.md)
+  * [Create and set up organizational units](commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)
   * [Appointing a DPO](commencer/commencer/appointing-a-dpo.md)
   * [Add a lead authority](commencer/commencer/add-a-lead-authority.md)
   * [Invite users](commencer/commencer/invite-users.md)
