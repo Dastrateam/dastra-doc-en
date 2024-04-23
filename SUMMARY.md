@@ -52,7 +52,7 @@
   * [Custom fields](features/generalites/custom-fields.md)
   * [AI Assistant](features/generalites/ai-assistant.md)
   * [Email templates](features/generalites/modeles-email.md)
-* [Data Mapping](features/data-mapping.md)
+* [Data Mapping](features/cartography.md)
 * [Record of processing activities](features/editer-le-registre/README.md)
   * ["Data controller" record](features/editer-le-registre/data-controller-record.md)
   * ["Data processor" record](features/editer-le-registre/data-processor-record.md)
