@@ -46,7 +46,7 @@ There are several default roles in Dastra, representing different levels of auth
 
 ## Import a large user list
 
-You can request the import of a large list of users into the platform. To do this, you need to go through the Dastra teams.&#x20;
+If you wish to import a large user list (minimum 50 users), you can request the import of a large user list into the platform (maximum 200 users). To do this, you need to go through the Dastra teams.&#x20;
 
 The steps to follow:&#x20;
 
