@@ -64,11 +64,11 @@ Mandatory fields:
 * Email (user's email)&#x20;
 * GivenName (user's first name)&#x20;
 * FamilyName(user's last name)&#x20;
+* Roles (separated by |) > this corresponds to the roles in Dastra&#x20;
+* Teams (separated by |) > this corresponds to teams in Dastra
 
 Optional:&#x20;
 
-* Roles (separated by |) > this corresponds to the roles in Dastra&#x20;
-* Teams (separated by |) > this corresponds to teams in Dastra
 * SsoConfigurationId > this corresponds to the SSO login identifier, if applicable
 
 Here is a sample file for you to download and fill in:
