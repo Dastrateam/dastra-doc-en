@@ -4,8 +4,8 @@ Dastra offers you the opportunity to carry out a risk analysis of your AI system
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 173945.png" alt=""><figcaption><p>Risk analysis of an AI System</p></figcaption></figure>
 
-La section suivante du formulaire vous proposera de définir la valeur ajoutée du système d'IA. Il faut ici choisir entre 3 niveaux de de valeur, allant de bas à élevé. Vous pouvez justifier de cette valeur en décrivant ce qu'apporte le système à votre organisation, par exemple un gain de performance ou encore une minimisation des risques.
+The next section of the form will ask you to define the added value of the AI system. Here, you have to choose between 3 levels of value, ranging from low to high. You can justify this value by describing what the system brings to your organization, such as performance gains or risk minimization.
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 174015.png" alt=""><figcaption><p>Business value adde from an AI System</p></figcaption></figure>
 
-Remplir ces deux parties vous permettra de voir directement si cette utilisation de l'IA représente **une opportunité ou un risque** pour vous. Un système ayant un risque élevé et une faible valeur ajoutée ne vaudra peut-être pas la peine d'être maintenu.
+Completing these two sections will enable you to see directly whether this use of AI represents an opportunity or a risk for you. A system with high risk and low added value may not be worth maintaining.
