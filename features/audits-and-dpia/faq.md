@@ -19,3 +19,6 @@ You can create an email template that can be used in audit invitations. It is no
 
 No, this is not possible. This option is available if you are an internal respondent (Dastra user).
 
+### Is it possible to automatically suggest a task based on an audit's response ?
+
+Yes, it is possible from the "long text" question type by checking the box "Automatically suggest a task(s) based on the answer".
