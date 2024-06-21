@@ -38,7 +38,7 @@ Dastra allows you to constitute a register of requests for the exercise of right
 
 
 
-<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (329) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Complete a new data subject rights request
 
