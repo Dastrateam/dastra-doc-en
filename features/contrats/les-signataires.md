@@ -6,4 +6,4 @@ A signeris represented by an actor from your [actor management system](../cartog
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Link actors as signers of your contact</p></figcaption></figure>
 
-You can manage the signature of each signatory independently (see [sign the contract](sign-the-contract.md)).
+You can manage the signature of each signatory independently (see [sign the contract](signer-le-contrat.md)).

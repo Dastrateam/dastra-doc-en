@@ -8,7 +8,7 @@ description: >-
 
 ### How to use our contract templates ?
 
-When you [fill out a contract in Dastra](declare-a-contract.md), you can select the 'generate contract' option during creation to use one of our dynamic contract templates. By choosing this option, you'll have access to a list of all the templates we offer, such as the template for managing standard contractual clauses for your subcontracting agreements (DPA).
+When you [fill out a contract in Dastra](declarer-un-contrat.md), you can select the 'generate contract' option during creation to use one of our dynamic contract templates. By choosing this option, you'll have access to a list of all the templates we offer, such as the template for managing standard contractual clauses for your subcontracting agreements (DPA).
 
 For instance, using our standard clauses template ensures compliance with GDPR obligations with your subcontractors while generating a comprehensive contract populated dynamically with information from your processing registry and repositories in just a few clicks.
 

@@ -1,8 +1,8 @@
 # Sign the contract
 
-Once you have added at least one signatory to your contract ([see signers](signers.md)), you can manage the signing process of your contract. It's important to note that you must save your contract in order to proceed with signing. Any pending modifications that have not been saved will lock the sign button.
+Once you have added at least one signatory to your contract ([see signers](les-signataires.md)), you can manage the signing process of your contract. It's important to note that you must save your contract in order to proceed with signing. Any pending modifications that have not been saved will lock the sign button.
 
-You have the option to declare signatures manually or [integrate with Docusign](docusign-integration.md) to handle the entire electronic signature process electronically. This integration streamlines the signing workflow and ensures compliance with electronic signature requirements.
+You have the option to declare signatures manually or [integrate with Docusign](integration-avec-docusign.md) to handle the entire electronic signature process electronically. This integration streamlines the signing workflow and ensures compliance with electronic signature requirements.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
