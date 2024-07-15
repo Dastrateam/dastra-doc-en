@@ -10,4 +10,4 @@ You need to have a subscription that includes the "Contracts" feature in order t
 
 If the feature is active in your plan, you can access the module by clicking on the contracts icon in the navigation.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Contracts feature icon</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Contracts feature icon</p></figcaption></figure>
