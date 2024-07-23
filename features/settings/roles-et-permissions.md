@@ -15,6 +15,20 @@ Each user can be associated with 1 or more roles. The roles are themselves assoc
 
 ## Create your own roles
 
-To create your own roles associated with permissions, go to this page.&#x20;
+To create your own roles associated with permissions, go to [this page](https://app.dastra.eu/general-settings/roles).&#x20;
 
-You can create a custom "new role" by clicking on the "New Role" button
+You can create a custom "new role" by clicking on the "Create a new role" button\
+\
+
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-23 145253.png" alt=""><figcaption></figcaption></figure>
+
+It is possible to select the boxes associated with permissions
+
+<div align="center">
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-23 145536.png" alt=""><figcaption><p>Creating a role</p></figcaption></figure>
+
+</div>
+
+Once you've created your custom role, you can assign it to any workspace user within your organization.
