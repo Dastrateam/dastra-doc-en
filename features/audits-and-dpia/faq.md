@@ -31,6 +31,6 @@ Is it possible to publish an audit template for all Dastra users? Yes, you can d
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120354.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120534.png" alt=""><figcaption></figcaption></figure>
 
 </div>
