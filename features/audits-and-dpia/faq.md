@@ -25,7 +25,7 @@ Yes, it is possible from the "long text" question type by checking the box "Auto
 
 ### Is it possible to publish an audit template for all Dastra users?
 
-Is it possible to publish an audit template for all Dastra users? Yes, you can do so from the audit template editor by clicking on contribute :
+Is it possible to publish an audit template for all Dastra users? Yes, you can do so from the audit template editor by clicking on "Contribute" :
 
 
 
