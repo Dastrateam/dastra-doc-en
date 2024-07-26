@@ -22,3 +22,15 @@ No, this is not possible. This option is available if you are an internal respon
 ### Is it possible to automatically suggest a task based on an audit's response ?
 
 Yes, it is possible from the "long text" question type by checking the box "Automatically suggest a task(s) based on the answer".
+
+### Is it possible to publish an audit template for all Dastra users?
+
+Is it possible to publish an audit template for all Dastra users? Yes, you can do so from the audit template editor by clicking on contribute :
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120354.png" alt=""><figcaption></figcaption></figure>
+
+</div>
