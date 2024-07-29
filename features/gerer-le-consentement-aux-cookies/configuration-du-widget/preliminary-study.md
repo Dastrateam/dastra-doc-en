@@ -56,3 +56,11 @@ To block cookies by default, there are several possible strategies that will dep
 * **Don't use it anymore**: this library is actually not needed, so you can remove it completely from the site sources;&#x20;
 * **Block it completely**: The execution of the tag is totally blocked as long as the user has not accepted the cookies;&#x20;
 * **Partial blocking**: Only the tracking features are blocked (if the library allows it). Some libraries can indeed work with a completely degraded mode without any performance degradation.
+
+
+
+
+
+{% content-ref url="scannez-les-cookies-deposes-sur-votre-site-web.md" %}
+[scannez-les-cookies-deposes-sur-votre-site-web.md](scannez-les-cookies-deposes-sur-votre-site-web.md)
+{% endcontent-ref %}
