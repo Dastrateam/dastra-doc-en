@@ -179,6 +179,7 @@
   * [API key management](features/settings/api-key-management.md)
   * [Notifications](features/settings/notifications.md)
   * [Workflow steps / process flow](features/settings/les-workflows.md)
+  * [Incoming mail data collection](features/settings/incoming-mail-data-collection.md)
   * [OneDrive/Google Drive integrations](features/settings/onedrive-google-drive-integrations.md)
   * [Webhooks](features/settings/webhooks.md)
   * [SMTP configuration](features/settings/configuration-du-smtp.md)
