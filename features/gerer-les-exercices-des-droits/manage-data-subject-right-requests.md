@@ -30,7 +30,7 @@ You can also create DSR requests automatically (see below).
 
 ### Creation of a DSR request via a collection e-mail address
 
-To create one or more requests for exercising rights via a collection email address in Dastra, you must first activate the "collection email address" integration. \
+To create one or more requests for exercising rights via a collection email address in Dastra, you must first activate the ["collection email address" integration. ](../settings/data-collection-mailboxes.md)\
 \
 To do this, go to the workspace **settings**, then to the "**integrations**" section and finally click on "**Incoming mail data collection**".
 
