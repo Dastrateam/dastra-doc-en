@@ -50,6 +50,9 @@ By clicking "Create," Dastra finalizes the integration setup and provides you wi
 Email attachments are added to the object, provided that:
 
 * **File extensions are valid**: Only attachments with valid file extensions are retained.
+
+Here are the autorized extensions : `7z`, `csv`, `doc`, `docx`, `eml`, `epub`, `gif`, `htm`, `html`, `jpeg`, `jpg`, `json`, `md`, `msg`, `ods`, `odg`, `odp`, `odt`, `pdf`, `png`, `ppt`, `pptx`, `rar`, `rtf`, `svg`, `txt`, `xls`, `xlsm`, `xlsx`, `zip`.
+
 * **Images meet minimum size**: For image files (jpg, png, gif, etc.), a minimum size of 5 KB is required. This constraint helps avoid including irrelevant images such as email signatures.
 
 ### **Finding Objects Generated from a Collection Box**
