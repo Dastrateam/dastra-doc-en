@@ -1,6 +1,6 @@
-# Access the partner portal
+# Portal
 
-As a partner, you have access to a partner area. This area allows you to:&#x20;
+As a partner, you have access to a partner portal. This area allows you to:&#x20;
 
 * view all your customers&#x20;
 * ask Dastra to add a new customer&#x20;
