@@ -187,6 +187,11 @@
   * [Message templates](features/settings/message-templates.md)
   * [Email domains](features/settings/domaines-emails.md)
 
+***
+
+* [PARTNERS](partners/README.md)
+  * [Access the partner portal](partners/access-the-partner-portal.md)
+
 ## 📄 API documentation <a href="#api-references" id="api-references"></a>
 
 * [Configuration](api-references/configuration.md)
