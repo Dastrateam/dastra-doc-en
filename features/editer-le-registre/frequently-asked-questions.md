@@ -36,6 +36,16 @@ and to remove
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-10 à 15.18.13.png" alt=""><figcaption></figcaption></figure>
 
+## How can I change my type of processing activity (from one created as a data controller to one created as a processor, and vice versa)?
+
+You can change the type of processing by clicking on “Switch to processor record” or “Switch to responsible of the processing”:
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-16 123010.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 {% hint style="info" %}
 If you can't find the answer in this guide, you can contact us via the support
 {% endhint %}
