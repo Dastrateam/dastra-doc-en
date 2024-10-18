@@ -57,6 +57,32 @@ In this example, the Italian language will be selected by default (if available)
 
 ## How to automatically send form values to the widget?
 
+You can automatically send form values to the widget by using the `dastra.push` method. This method allows you to set various properties of the form widget, such as user identifiers and personal data fields.
+
+Here's a simple example of how to pass additional user information to the form widget:
+
+```html
+<script>
+  // Set the user's family name
+  var familyName = 'Rossi'; // Replace with actual user's family name
+  
+  // Set the user's given name
+  var givenName = 'Mario'; // Replace with actual user's given name
+  
+  // Push user information to the DSR form widget
+  dastra.push(['set', 'dsr:familyName', familyName]);
+  dastra.push(['set', 'dsr:givenName', givenName]);
+  
+  // Add more properties as needed, e.g., email, phone number
+  // dastra.push(['set', 'dsr:email', userEmail]);
+  // dastra.push(['set', 'dsr:phoneNumber', userPhoneNumber]);
+</script>
+```
+
+Ensure you replace the placeholder values (`'Rossi'`, `'Mario'`, etc.) with the actual user data retrieved from your system. This approach helps personalize the user experience by pre-filling form fields with known data.
+
+In the specific case of a custom userId (in session cookie for example), you can do it as following :
+
 ```html
 <script>
   // Read your custom userId (e.g. in session cookie)
