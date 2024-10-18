@@ -24,7 +24,7 @@ To start with, you need to set up the widget in the rights exercise widget manag
 
 Here is a simple example of how to integrate the widget (in popup mode with an open button):
 
-```
+```html
 <div id="customer-subject-form-custom" ></div>
 <button id="customer-request-button">Open the widget</button>
 <script src="https://cdn.dastra.eu/sdk/dastra.js?key={YOUR PUBLIC KEY}" async></script>
@@ -51,15 +51,16 @@ By default, the browser language will be taken. If the language is not available
 
 In this example, the Italian language will be selected by default (if available)
 
-```
+```html
 <div id="customer-subject-popup" data-lang="it"></div>
 ```
 
 ## How to automatically send form values to the widget?
 
-```
+```html
 <script>
-  dastra.push(['set','dsr:refId','{your custom userId}'])
+  var myCustomerId = '{your custom userId}';
+  dastra.push(['set','dsr:refId', myCustomerId ]);
 </script>
 ```
 
@@ -79,13 +80,18 @@ You can replace the name of the refId column with the following property name:
 
 \*For the specific case of custom fields, you must reference the name additionalDatas :
 
-```
+```html
 <script>
   var payload = {
     customFieldSlug1: 'test', 
     customFieldSlug2: 'test'
   };
-  dastra.push(['set','dsr:additionalDatas', payload])
+  
+  // You can use this synthax for setting global custom fields as an object
+  dastra.push(['set','dsr:additionalDatas', payload]);
+  
+   // Or directly for a single field, use the prefix @
+   dastra.push(['set','dsr:@customFieldSlug1', 'test']);
 </script>
 ```
 
