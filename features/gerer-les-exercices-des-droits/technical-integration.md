@@ -59,14 +59,19 @@ In this example, the Italian language will be selected by default (if available)
 
 ```html
 <script>
-  var myCustomerId = '{your custom userId}';
-  dastra.push(['set','dsr:refId', myCustomerId ]);
+  // Read your custom userId (e.g. in session cookie)
+  var customerId = '{your custom userId}';
+  
+  // Send the customerId to the DSR form widget
+  dastra.push(['set','dsr:refId', customerId ]);
 </script>
 ```
 
-You can replace the name of the refId column with the following property name:
 
-* refId : the unique identifier of the user
+
+You can replace the name of the refId column with the following property name :
+
+* refId : the unique identifier of the user in your system (customerId, sessionId...). This column is not visible and will be not accessible to the customer.
 * familyName
 * givenName
 * email
