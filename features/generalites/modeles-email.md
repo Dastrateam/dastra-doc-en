@@ -86,7 +86,7 @@ Loops work in the same way, except that this time we generate a variable interna
 {% for purpose in purposes %}
   {{ purpose }}
 {% endfor %}
-{% endraw %}i
+{% endraw %}
 ```
 
 In the example above, I declare that I want to loop through the "purposes" list and assign the "purpose" variable to each item that I display directly.
