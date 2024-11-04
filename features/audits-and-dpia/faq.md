@@ -34,3 +34,38 @@ Is it possible to publish an audit template for all Dastra users? Yes, you can d
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120534.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+
+
+### What to do when you get the error message “Error: there is a duplicate slug for the following questions” when saving a questionnaire?
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170330.png" alt=""><figcaption></figcaption></figure>
+
+
+
+\
+This message indicates that one or more questions in the questionnaire have exactly the same “Variable's name”, which creates the error.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170633.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+Questions with the same “Variable's name” can be identified by the error message “The variable name is present in another question” displayed above them.
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170725.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
+
+To solve this problem, modify the “Variable's name” of each question with the same “Variable's name” to make it unique for each question, for example by adding a \_ is an incremented number at the end of each “Variable's name”.
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170853.png" alt=""><figcaption></figcaption></figure>
+
+When the questionnaire no longer contains any duplicated “Variable's name”, it can be saved normally.
