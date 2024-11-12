@@ -74,8 +74,8 @@ Explore the features now:
 [gerer-le-consentement-aux-cookies](gerer-le-consentement-aux-cookies/)
 {% endcontent-ref %}
 
-{% content-ref url="audits-and-dpia/" %}
-[audits-and-dpia](audits-and-dpia/)
+{% content-ref url="audit/" %}
+[audit](audit/)
 {% endcontent-ref %}
 
 {% content-ref url="settings/" %}

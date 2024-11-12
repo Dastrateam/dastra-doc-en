@@ -90,8 +90,8 @@ The practical implementation of retention periods must be checked regularly. **R
 
 Dastra's Audit feature is ideal for this:
 
-{% content-ref url="../../features/audits-and-dpia/" %}
-[audits-and-dpia](../../features/audits-and-dpia/)
+{% content-ref url="../../features/audit/" %}
+[audit](../../features/audit/)
 {% endcontent-ref %}
 
 ## For more information

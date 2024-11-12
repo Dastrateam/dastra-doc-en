@@ -122,8 +122,8 @@ If not, propose **additional measures** and re-evaluate the level of risk in lig
 [analyse-dimpact.md](../../features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../features/audits-and-dpia/" %}
-[audits-and-dpia](../../features/audits-and-dpia/)
+{% content-ref url="../../features/audit/" %}
+[audit](../../features/audit/)
 {% endcontent-ref %}
 
 {% content-ref url="../../features/risk-management/attach-a-risk-to-a-processing-activity.md" %}
