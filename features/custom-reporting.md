@@ -52,7 +52,7 @@ Please note that once the tables have been selected, you will not be able to go 
 
 Build your report by selecting the metrics and dimensions you wish to display.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "Save" button at the bottom right of the page
 

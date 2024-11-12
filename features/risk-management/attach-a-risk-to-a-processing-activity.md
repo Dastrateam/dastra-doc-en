@@ -21,7 +21,7 @@ You will be taken to a risk edit page and you can start to fill in the informati
 
 You can then find all the risks in your register in the risk repository.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also attach a risk to a treatment directly from the risk management module.&#x20;
 

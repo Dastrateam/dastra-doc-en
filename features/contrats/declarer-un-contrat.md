@@ -6,7 +6,7 @@ You can declare a new contract by clicking on the "Create a Contract" button loc
 
 You can choose to start from scratch or generate a contract from one of our[ dynamic contract templates](modeles-de-contrats-dynamiques.md).
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Creation options for a contract</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Creation options for a contract</p></figcaption></figure>
 
 Starting from scratch, you just need to give your contract a name, upload your attachment (you can also choose to upload the attachment later once the contract is declared), and assign it to an organizational unit.
 
