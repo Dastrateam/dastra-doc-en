@@ -15,7 +15,7 @@ To do this, access the list view, entitled "AI systems". In the top right-hand c
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 172133.png" alt=""><figcaption><p>Import your AI Systems</p></figcaption></figure>
 
-We recommend that you follow the steps on the [Import your data (Excel, Csv, JSON)](../generalites/import-your-data-excel-csv.md) page for further details.
+We recommend that you follow the steps on the [Import your data (Excel, Csv, JSON)](../generalites/importer-vos-donnees-excel-csv.md) page for further details.
 
 ## Create a record of AI Systems
 

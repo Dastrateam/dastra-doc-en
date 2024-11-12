@@ -24,10 +24,10 @@ In each import, the process is the same.
 
 It is done in 4 steps:
 
-1. [Preparation of the data file ](import-your-data-excel-csv.md#1.-preparation-of-the-data-file)
-2. [Downloading the file](import-your-data-excel-csv.md#2.-download-the-template-file)
-3. [Verification of data before import](import-your-data-excel-csv.md#3.-check-your-data)
-4. [Importing the data](import-your-data-excel-csv.md#4.-import-the-data)
+1. [Preparation of the data file ](importer-vos-donnees-excel-csv.md#1.-preparation-of-the-data-file)
+2. [Downloading the file](importer-vos-donnees-excel-csv.md#2.-download-the-template-file)
+3. [Verification of data before import](importer-vos-donnees-excel-csv.md#3.-check-your-data)
+4. [Importing the data](importer-vos-donnees-excel-csv.md#4.-import-the-data)
 
 ### 1. Preparation of the data file
 

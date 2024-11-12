@@ -74,7 +74,7 @@ You can:&#x20;
 * Custom fields can be present in HTML, Word and PDF exports as an option (by checking the "Exportable in reports" box on the field in question)&#x20;
 * **With the exception of multiple response fields**, custom fields are all filterable via the [advanced filter system](advanced-filters.md)
 * Custom fields can be updated en masse in data tables&#x20;
-* Custom fields can be imported via flat files using [the import system](import-your-data-excel-csv.md)&#x20;
+* Custom fields can be imported via flat files using [the import system](importer-vos-donnees-excel-csv.md)&#x20;
 * Custom fields **are accessible and modifiable via all APIs**. To do this, you will need to use the variable name assigned to each column. See the section on [API modifications of custom fields](custom-fields.md#handling-custom-fields-in-apis)
 
 ## Setting up custom fields

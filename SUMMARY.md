@@ -47,7 +47,7 @@
 * [Dashboard](features/dashboard.md)
 * [General](features/generalites/README.md)
   * [Advanced Filters](features/generalites/advanced-filters.md)
-  * [Import your data (Excel, Csv)](features/generalites/import-your-data-excel-csv.md)
+  * [Import your data (Excel, Csv)](features/generalites/importer-vos-donnees-excel-csv.md)
   * [Tag management](features/generalites/tags.md)
   * [Custom fields](features/generalites/custom-fields.md)
   * [AI Assistant](features/generalites/ai-assistant.md)
