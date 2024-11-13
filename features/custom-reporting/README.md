@@ -10,7 +10,7 @@ This powerful feature lets you create customized reports, tailored to your speci
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
     </div>
 2. Reports are organized in a category system. Before creating your first report, you need to create a first category
@@ -40,7 +40,7 @@ This powerful feature lets you create customized reports, tailored to your speci
 
 Select the different data tables you wish to query: processes, processing stages, purpose, tags... You can query up to 6 different tables in each report.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on "Next" when you have selected the tables.
 
@@ -52,7 +52,7 @@ Please note that once the tables have been selected, you will not be able to go 
 
 Build your report by selecting the metrics and dimensions you wish to display.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the "Save" button at the bottom right of the page
 
