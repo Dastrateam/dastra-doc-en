@@ -37,7 +37,7 @@ Is it possible to publish an audit template for all Dastra users? Yes, you can d
 
 
 
-### What to do when you get the error message “Error: there is a duplicate slug for the following questions” when saving a questionnaire?
+### What to do when you get the error message “Error: there is a duplicate slug for the following questions” when saving a questionnaire? <a href="#slug-error" id="slug-error"></a>
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170330.png" alt=""><figcaption></figcaption></figure>
 
