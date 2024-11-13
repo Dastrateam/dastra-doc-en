@@ -22,7 +22,7 @@ Copy the generated link&#x20;
 Please note! Do not transfer the generated link to anyone. It will give you access to the raw data in the report.
 {% endhint %}
 
-##
+
 
 ## Power BI:
 
@@ -47,7 +47,7 @@ Please note! Do not transfer the generated link to anyone. It will give you acce
 * **Data refresh:** If JSON data is regularly updated (e.g. by an API), you can set up a data refresh in Power BI Service to retrieve the latest data automatically.
 {% endhint %}
 
-### &#x20;<a href="#google-looker" id="google-looker"></a>
+
 
 ## Google Looker <a href="#google-looker" id="google-looker"></a>
 
@@ -80,7 +80,7 @@ If you need to automate the integration of JSON data from an API or external fil
 3. Load the data into the warehouse (e.g., BigQuery).
 4. Connect Looker to this data warehouse to start querying and visualizing the data.
 
-#### &#x20;<a href="#tableau-software" id="tableau-software"></a>
+
 
 ## Tableau Software <a href="#tableau-software" id="tableau-software"></a>
 
