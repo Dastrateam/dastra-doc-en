@@ -160,7 +160,7 @@
   * [Breakdown service](features/gerer-le-consentement-aux-cookies/breakdown-service.md)
 * [Regular review (freshness)](features/regular-review-freshness.md)
 * [Custom Reporting](features/custom-reporting/README.md)
-  * [Integration with data analysis tools (BI)](features/custom-reporting/integration-with-data-analysis-tools-bi.md)
+  * [Integration with data analysis tools (BI)](features/custom-reporting/bi-tools.md)
 * [AI Systems](features/ai-systems/README.md)
   * [Establishing a record of AI systems](features/ai-systems/establishing-a-record-of-ai-systems.md)
   * [Risk analysis and business value](features/ai-systems/risk-analysis-and-business-value.md)

@@ -69,37 +69,41 @@ Google Looker connects easily to Google BigQuery, a Google Cloud data warehouse 
 
 If you need to automate the integration of JSON data from an API or external file into Looker, you can use ETL (Extract, Transform, Load) tools such as Fivetran, Stitch or Airflow. These tools can extract JSON data, transform it and load it into a Looker-compatible data warehouse.
 
-**Exemple avec Fivetran :**
+**Example with Fivetran :**
 
-1. **Connectez une API REST ou une source JSON dans Fivetran**.
-2. **Transformez les données** pour qu'elles correspondent aux exigences de votre entrepôt de données.
-3. **Chargez les données dans l'entrepôt** (par exemple, BigQuery).
-4. **Connectez Looker à cet entrepôt de données** pour commencer à interroger et visualiser les données.
+1. Connect a REST API or JSON source to Fivetran.
+2. Transform the data to match the requirements of your data warehouse.
+3. Load the data into the warehouse (e.g., BigQuery).
+4. Connect Looker to this data warehouse to start querying and visualizing the data.
 
 #### Tableau Software <a href="#tableau-software" id="tableau-software"></a>
 
-**1. Ouvrir Tableau Desktop :**
+**1. Open Tableau Desktop** :
 
-* Lancez **Tableau Desktop** sur votre machine.
+* Launch Tableau Desktop on your machine.
 
-**2. Se connecter à une source de données Web :**
+**2. Connect to a Web data sourc**e:
 
-* Dans **Tableau Desktop**, allez dans le menu **Fichier** et sélectionnez **Nouvelle source de données**.
-* Dans la fenêtre de sélection des sources de données, cliquez sur **Web Data Connector**. Cette option permet de se connecter à des données à partir de diverses sources web, y compris des fichiers JSON via une API ou une URL.
+* In Tableau Desktop, go to the File menu and select New Data Source.
+* In the data source selection window, click on Web Data Connector. This option lets you connect to data from various web sources, including JSON files via an API or URL.
 
-**3. Entrer l'URL JSON :**
+**3. Enter JSON URL:**
 
-* Vous devrez entrer l'URL du fichier JSON ou de l'API dans la fenêtre qui apparaît.
+* You'll need to enter the URL of the JSON file or API in the window that appears.
 
-**4. Authentification (si nécessaire) :**
+**4. Authentication (if required):**
 
-* Si l'URL JSON nécessite une forme d'authentification (par exemple une clé API, un jeton OAuth, ou des identifiants de connexion), Tableau vous demandera les informations d'identification pour y accéder.
-* Sélectionnez le type d'authentification approprié (par exemple, **Clé API** ou **OAuth**) et entrez les informations nécessaires.
+* If the JSON URL requires some form of authentication (e.g. an API key, OAuth token, or login credentials), Tableau will ask you for credentials to access it.
+* Select the appropriate authentication type (e.g. API Key or OAuth) and enter the necessary information.
 
-**5. Analyser les données JSON dans Tableau :**
+**5. Analyze JSON data in Tableau :**
 
-* Tableau va se connecter à l'URL, télécharger le fichier JSON et tenter de le convertir en un format tabulaire compréhensible (une table ou une vue de données structurées).
-* Tableau peut automatiquement détecter la structure des données JSON, mais dans certains cas, si le fichier est très complexe ou imbriqué, vous devrez peut-être effectuer des ajustements dans **l'éditeur de données** pour aplatir ou transformer les données dans un format approprié.
-* **Limites du fichier JSON :** Si votre fichier JSON est volumineux ou très imbriqué, Tableau peut avoir des difficultés à l'analyser correctement. Parfois, il peut être nécessaire de le transformer ou de le simplifier avant de l'intégrer.
-* **Authentification et sécurité :** Si votre lien JSON nécessite une clé API, assurez-vous de bien gérer les autorisations et les informations d'identification. Certaines API peuvent avoir des limitations sur le nombre de requêtes ou nécessiter des autorisations spécifiques.
-* **Rafraîchissement des données :** Si les données JSON changent régulièrement (par exemple, via une API qui fournit des mises à jour en temps réel), vous pouvez configurer Tableau pour **rafraîchir automatiquement les données** à intervalles réguliers, afin de garder vos rapports à jour.
+* Tableau will connect to the URL, download the JSON file and attempt to convert it into an understandable tabular format (a table or structured data view).
+* Tableau can automatically detect the structure of JSON data, but in some cases, if the file is very complex or nested, you may need to make adjustments in the data editor to flatten or transform the data into an appropriate format.
+
+{% hint style="info" %}
+* **JSON file limitations:** If your JSON file is large or highly nested, Tableau may have difficulty parsing it correctly.\
+  Sometimes it may be necessary to transform or simplify it before integrating it.
+* **Authentication and security:** If your JSON link requires an API key, be sure to manage authorizations and credentials. Some APIs may have limitations on the number of requests or require specific authorizations.
+* **Data refreshment:** If JSON data changes regularly (for example, via an API that provides real-time updates), you can configure Tableau to automatically refresh data at regular intervals, to keep your reports up to date.
+{% endhint %}
