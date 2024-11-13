@@ -22,7 +22,9 @@ Copy the generated link&#x20;
 Please note! Do not transfer the generated link to anyone. It will give you access to the raw data in the report.
 {% endhint %}
 
-### Implementation in the BI tool :
+##
+
+## Power BI:
 
 1. **Open Power BI Desktop :**
    * Launch Power BI Desktop on your machine.
@@ -45,7 +47,9 @@ Please note! Do not transfer the generated link to anyone. It will give you acce
 * **Data refresh:** If JSON data is regularly updated (e.g. by an API), you can set up a data refresh in Power BI Service to retrieve the latest data automatically.
 {% endhint %}
 
-#### Google Looker <a href="#google-looker" id="google-looker"></a>
+### &#x20;<a href="#google-looker" id="google-looker"></a>
+
+## Google Looker <a href="#google-looker" id="google-looker"></a>
 
 Google Looker connects easily to Google BigQuery, a Google Cloud data warehouse that can store and process JSON files.
 
@@ -76,7 +80,9 @@ If you need to automate the integration of JSON data from an API or external fil
 3. Load the data into the warehouse (e.g., BigQuery).
 4. Connect Looker to this data warehouse to start querying and visualizing the data.
 
-#### Tableau Software <a href="#tableau-software" id="tableau-software"></a>
+#### &#x20;<a href="#tableau-software" id="tableau-software"></a>
+
+## Tableau Software <a href="#tableau-software" id="tableau-software"></a>
 
 **1. Open Tableau Desktop** :
 
