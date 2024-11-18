@@ -26,7 +26,7 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 * **Identify your risks, and carry out audits** to assess priorities.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Risk module</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (2).png" alt=""><figcaption><p>Risk module</p></figcaption></figure>
 
 * **Generate an action plan, allocate tasks and collaborate with your network**, to better protect your data.
 

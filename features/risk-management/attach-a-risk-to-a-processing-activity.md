@@ -15,7 +15,7 @@ To add a risk to a processing of data, go to the risks tab on the processing of 
 
 and click on the "Create a risk assessment" button.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will be taken to a risk edit page and you can start to fill in the information about the risk you have identified.&#x20;
 

@@ -1,15 +1,28 @@
 ---
-description: Learn how to create and configure Privacy-hubs.
+description: Learn how to create and configure Privacy-hubs
 ---
 
-# Privacy-hubs
+# Privacy hubs
 
-Privacy-hubs are a sub-feature of our module [Audits and PIA](../audit/) that allows you to create and customize an online space (a dedicated web page) where you can provide questionnaire templates. This online portal enables the collection of responses to shared questionnaires without the need for a Dastra user account (simply the link to your privacy-hub and an email address are sufficient to respond to a provided questionnaire). You can access the questionnaire responses generated through your Privacy-hub directly within your Dastra application.
+The Privacy hub allows organizations to create and customize a fully configurable public web portal designed for managing compliance with personal data protection regulations. The Privacy hub provides a simple and intuitive solution to establish a space for transparency and interaction with the organization's stakeholders, including customers, subcontractors, and employees.
 
-### Accessing the feature
+The Privacy hub offers modular and flexible configuration, enabling you to select and activate the features of your choice from the following options:
 
-To access the functionality, it is necessary to have both our [Questionnaire ](../audit/)feature and the [Privacy-hubs](./) feature included in your subscription. You can access Privacy-hubs from the internal navigation bar within the Audits and PIA module.
+* [**Customizable Home Page**](configuration/home.md) (mandatory)
+* [**Questionnaires**](configuration/questionnaires.md) (optional - requires the Questionnaires feature)
+* [**Attachments**](configuration/attachments.md) (optional)
+* [**Data subject requests**](configuration/data-subject-requests.md) (optional - requires the Data subject requests feature)
+* [**Organizational Chart**](configuration/org-chart.md) (optional)
+* [**Record of processing activities**](configuration/record-of-processing-activities.md) (optional - requires the Record of processing activities feature)
 
-<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption><p>Accessing the feature</p></figcaption></figure>
+#### How to Access the Feature
 
-<figure><img src="../../.gitbook/assets/image (342).png" alt=""><figcaption><p>Access Privacy-hubs from the internal navigation bar within the Questionnaires module</p></figcaption></figure>
+To access the feature, your subscription must include the [Privacy hubs feature](./).&#x20;
+
+You can access the Privacy Hubs from the application's side navigation bar.
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 230130.png" alt=""><figcaption><p>Access the Privacy hubs from Dastra's sidebar</p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 230356.png" alt=""><figcaption><p>Preview of a Privacy hub with all features enabled</p></figcaption></figure>
