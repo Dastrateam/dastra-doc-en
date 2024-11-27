@@ -30,6 +30,11 @@ This record contains :&#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-24 à 17.42.53.png" alt=""><figcaption><p>The different sections of a "data processor" treatment in Dastra</p></figcaption></figure>
 
+{% hint style="info" %}
+You can change the type of processing activity (from one created as a data controller to one created as a processor, and vice versa)\
+[The procedure is available here](https://doc.dastra.eu/en/features/editer-le-registre/frequently-asked-questions#how-can-i-change-my-type-of-processing-activity-from-one-created-as-a-data-controller-to-one-created)
+{% endhint %}
+
 ## For more information
 
 {% content-ref url="data-controller-record.md" %}

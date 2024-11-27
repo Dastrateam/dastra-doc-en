@@ -64,7 +64,13 @@ For each processing operation, the record of a controller shall indicate at leas
 ## Security measures
 
 * Technical and organizational measures implemented to secure each data processing&#x20;
-* For example, data encryption, pseudonymization, access limitation
+* For example, data encryption, pseudonymization, access limitation\
+
+
+{% hint style="info" %}
+You can change the type of processing activity (from one created as a data controller to one created as a processor, and vice versa)\
+[The procedure is available here](https://doc.dastra.eu/en/features/editer-le-registre/frequently-asked-questions#how-can-i-change-my-type-of-processing-activity-from-one-created-as-a-data-controller-to-one-created)
+{% endhint %}
 
 ## For more information
 
