@@ -12,7 +12,7 @@ For example, the “recruitment” activity could have two distinct purposes: th
 
 The terms "processing activity" and "processing", often used together, can be understood in a similar way.
 
-Processing is defined in Article 4 of the GDPR by "a_ny operation or any set of operations carried out or not using automated processes and applied to data or sets of personal data"_.
+Processing is defined in Article 4 of the GDPR by "&#x61;_&#x6E;y operation or any set of operations carried out or not using automated processes and applied to data or sets of personal data"_.
 
 For example, it is a database, an Excel table, a video surveillance installation, a payment system by bank card or biometric recognition, a smartphone application, etc.
 

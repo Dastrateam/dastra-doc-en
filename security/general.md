@@ -51,7 +51,7 @@ At least 8 characters comprising 3 of the 4 types of characters (uppercase, lowe
 
 Delay in accessing the account after several failures.
 
-&#x20;Encryption of passwords in databases with strong encryption rules**.**
+&#x20;Encryption of passwords in databases with strong encryption rule&#x73;**.**
 
 ## API token controls
 
