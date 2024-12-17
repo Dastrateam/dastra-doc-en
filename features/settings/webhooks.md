@@ -30,8 +30,6 @@ To receive webhook requests, you need to create an event capture API endpoint. T
 \
 Here is the general structure of the response sent:
 
-#### Tester votre url de webhooks 🧪 <a href="#tester-votre-url-de-webhooks" id="tester-votre-url-de-webhooks"></a>
-
 ```
 {
  "webhookId": <id of the webhook configured in dastra>,
