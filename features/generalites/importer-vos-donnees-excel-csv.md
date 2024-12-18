@@ -39,7 +39,7 @@ Dastra supports the following data formats:&#x20;
 
 To access the data import menu, click on the "import" button under each arrow of the create button.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.15.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 102334.png" alt=""><figcaption></figcaption></figure>
 
 Select Excel if asked:
 
