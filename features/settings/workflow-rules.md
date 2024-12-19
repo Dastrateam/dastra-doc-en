@@ -58,3 +58,39 @@ Very often, in personalised notifications for example, it will be useful to inje
 Internally, Dastra uses a templating engine based on [LiquidJS ](https://shopify.github.io/liquid/basics/introduction/)
 
 **To access the different variables in the trigger object, type "\{{"**. This will display a list of suggested variables that you can inject into the content.
+
+
+
+Example\
+To display a string variable (the processing reference)
+
+```
+{{ref}}
+```
+
+
+
+To display all the values of an array variable (tags)
+
+```
+{% raw %}
+{% for tag in tags %}
+
+ {{ tag.label }}
+
+{% endfor %}
+{% endraw %}
+```
+
+
+
+To display only the 1st value of an array variable: (1st accountable)
+
+```
+{% raw %}
+{% assign accountable = accountables | first %}
+{% endraw %}
+
+{{accountable.displayName}}
+```
+
