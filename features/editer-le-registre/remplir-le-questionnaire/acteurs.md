@@ -34,6 +34,10 @@ Dastra allows you to attach users to a processing.
 
 Note that these are not actors but users (individuals who have an account on the Dastra platform).
 
+{% hint style="info" %}
+User accounts must be created at least one hour before they can be added as stakeholders.
+{% endhint %}
+
 The roles thus defined will allow for efficient management and implementation of your processing in Dastra.
 
 Here is a way to define the roles of your users for your processings:
