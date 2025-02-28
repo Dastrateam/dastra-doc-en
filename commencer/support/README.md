@@ -13,7 +13,7 @@ Here are the different ways to contact our support team:
 
 
 
-In Dastra and beyond this documentation, support can be accessed in several different ways: the dastronaut assistant, online help or the support request form.
+In Dastra and beyond, support is available in several ways: the dastronaute assistant, online help or the support request form.
 
 **The dastronaut's assistant**
 
@@ -31,4 +31,10 @@ In Dastra and beyond this documentation, support can be accessed in several diff
 
 {% content-ref url="request-support.md" %}
 [request-support.md](request-support.md)
+{% endcontent-ref %}
+
+**The customer support process**
+
+{% content-ref url="the-customer-support-process.md" %}
+[the-customer-support-process.md](the-customer-support-process.md)
 {% endcontent-ref %}

@@ -41,6 +41,7 @@
   * [The dastronaut's assistant](commencer/support/the-dastronauts-assistant.md)
   * [Online help](commencer/support/online-help.md)
   * [Request support](commencer/support/request-support.md)
+  * [The customer support process](commencer/support/the-customer-support-process.md)
 
 ## ⚙️ Features
 

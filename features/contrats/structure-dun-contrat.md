@@ -26,7 +26,7 @@ A menu of main actions located at the top right allows you to manage contract si
 
 A shortcut menu at the top left also allows you to access internal discussions about the contract, associated tasks, questionnaires, modification history, and regular contract reviews. If navigating from the contracts dashboard (and you have more than one contract saved), arrow buttons are also available for moving between contracts.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Shortcuts menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Shortcuts menu</p></figcaption></figure>
 
 #### The menu of contract sections to be filled in
 
