@@ -38,3 +38,18 @@ Preview of the page:
    * [PC](https://support.microsoft.com/en-us/windows/how-to-set-your-time-and-time-zone-dfaa7122-479f-5b98-2a7b-fa0b6e01b261)
 2. **Use this address to access Dastra: https://app.dastra.eu** . You can save it to your favorites. This problem may occur when you try to access Dastra through urls with the domain account.dastra.eu (often automatically saved in your browser's url suggestions)
 3. **Clean up your browser's site data and cookies**
+
+
+
+## Error message : "Prohibited HTML content is present in a field !"
+
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165456.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
+
+\
+This message means that HTML code (usually enclosed in angle brackets `< >`) is present in a field where HTML is not allowed (for security reasons).\
+
+
+\
+The following message makes it easy to identify the affected field:
+
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165525.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
