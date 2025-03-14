@@ -34,7 +34,7 @@ To add a joint controller, add a new stakeholder and select "Joint controller".&
 
 You will be prompted to add a stakeholder as a joint controller.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-01-31 à 10.41.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Add a Person in Charge of Implementing the Processing
 

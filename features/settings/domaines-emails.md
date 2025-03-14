@@ -20,7 +20,7 @@ Activate or deactivate the feature by clicking on the button 'Allow users...'
 
 Then choose the role and workspace that will be assigned to future users:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finally, save the configuration by clicking on the Save button!
 

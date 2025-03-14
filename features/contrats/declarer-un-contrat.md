@@ -2,7 +2,7 @@
 
 You can declare a new contract by clicking on the "Create a Contract" button located on the main page of the Contracts module.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Declare your first contract by clicking on create a contract</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Declare your first contract by clicking on create a contract</p></figcaption></figure>
 
 You can choose to start from scratch or generate a contract from one of our[ dynamic contract templates](modeles-de-contrats-dynamiques.md).
 
