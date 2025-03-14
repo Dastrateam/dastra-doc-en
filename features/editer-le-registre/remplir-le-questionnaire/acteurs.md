@@ -18,8 +18,8 @@ The roles thus defined will allow for efficient management and implementation of
 
 Here is a way to define user roles for your data processing activities:
 
-* **Validator**: This is the user in Dastra who is responsible for validating that the processing and associated elements as indicated in Dastra are valid according to the organization's expectations. This person may be different from the data controller's signatory. For example, it could be a service manager, a DPO, or a DPO relay.
-* **Implementer**: This is the user who is responsible for carrying out the necessary actions on the processing and describing it. This could involve implementing data security measures, managing access, or any other task required to ensure the compliance of the processing. This could be a project manager or a dedicated business manager.
+* **Accountable**: This is the user in Dastra who is responsible for validating that the processing and associated elements as indicated in Dastra are valid according to the organization's expectations. This person may be different from the data controller's signatory. For example, it could be a service manager, a DPO, or a DPO relay.
+* **Responsible**: This is the user who is responsible for carrying out the necessary actions on the processing and describing it. This could involve implementing data security measures, managing access, or any other task required to ensure the compliance of the processing. This could be a project manager or a dedicated business manager.
 * **Informed**: This category includes users who need to be kept informed of the progress and status of the processing without having an active role in its validation or implementation. This may include members of the management team, project managers, or other stakeholders who have an interest in the processing.
 
 ## Add a processing implementation manager
