@@ -216,6 +216,10 @@
 * [Security roadmap](security/feuille-de-route.md)
 * [Quality of Service](security/qualite-de-nos-services.md)
 
+***
+
+* [Certifications](certifications.md)
+
 ## 🤖 Other
 
 * [FAQ](other/faq.md)
