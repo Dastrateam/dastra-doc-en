@@ -30,13 +30,13 @@ You can select the type of relationship between processing activities.
 
 ### Is a child of:&#x20;
 
-Hierarchical relationship allowing graphic visualization. No slavishness between the fields.&#x20;
+Hierarchical relationship enabling a structured reading. No slavishness between the fields.&#x20;
 
 The processing A is hierarchically under the processing B.
 
 ### Is parent of:&#x20;
 
-Hierarchical relationship allowing graphic visualization. No slavishness between the fields.&#x20;
+Hierarchical relationship enabling a structured reading. No slavishness between the fields.&#x20;
 
 Processing A is hierarchically above processing B.&#x20;
 
