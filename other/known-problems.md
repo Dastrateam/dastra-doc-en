@@ -53,3 +53,11 @@ This message means that HTML code (usually enclosed in angle brackets `< >`) is 
 The following message makes it easy to identify the affected field:
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165525.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
+
+
+
+## Error message: "The user ID does not exist in your organization." when recording a data processing.
+
+This message means that a user who has been removed from your workspace is still set as an Accountable in the stakeholders of the data processing.
+
+The deleted user must be removed from the stakeholders of the data processing to resolve this issue.
