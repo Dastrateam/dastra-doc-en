@@ -18,6 +18,17 @@ Choose one of the six possible options, detail your response and click on the �
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-07 à 10.55.13.png" alt="" width="563"><figcaption><p>Support request form</p></figcaption></figure>
 
+
+
+When creating your ticket, you can provide us with prior authorization to conduct tests on your workspace by leaving the\
+
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-05-15 101639.png" alt=""><figcaption><p>Pre-authorization test box</p></figcaption></figure>
+
+This allows us to develop more quickly and efficiently in response to your request.
+
+
+
 That's it, your support request has been sent! Our team will get back to you as soon as possible. This service is available 24 hours a day, 7 days a week, and allows us to keep a record of all requests for efficient follow-up.
 
 ## Chat&#x20;
