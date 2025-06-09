@@ -14,14 +14,6 @@ There may be some information specific to your industry that is not present in t
 
 Dastra will allow you to create custom form fields that you can easily add to enrich the data entered.&#x20;
 
-Here is an example of a field configuration for the actor:
-
-<mark style="color:red;">/IMAGE</mark>
-
-And here is the result in the form:
-
-<mark style="color:red;">/IMAGE</mark>
-
 ## Functionalities concerned
 
 {% hint style="warning" %}
@@ -30,15 +22,15 @@ Please note! Not all features are concerned by custom fields
 
 You can customize the following forms:&#x20;
 
-* [Treatment sheets](../editer-le-registre/)&#x20;
-* [Exercise of rights](../gerer-les-exercices-des-droits/)&#x20;
+* [Processing activities ](../editer-le-registre/)
+* [Data subject right request](../gerer-les-exercices-des-droits/)
 * [Tasks](../planifier/)&#x20;
 * [Assets](../editer-le-registre/remplir-le-questionnaire/applications.md)&#x20;
 * Actors&#x20;
 * Measures&#x20;
 * Data sets&#x20;
 * Data fields&#x20;
-* [Violations](../../le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)&#x20;
+* [Incidents](../notifier-les-violations-de-donnees/)
 * [Risk assessments](../risk-management/attach-a-risk-to-a-processing-activity.md)
 
 {% hint style="warning" %}
