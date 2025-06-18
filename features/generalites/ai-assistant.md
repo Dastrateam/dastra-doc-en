@@ -68,21 +68,13 @@ If you don't want this option to be available in your workspace, you can [contac
 
 ## How does it work?
 
-Dastra uses the **OpenAI GPT 3.5** and **GPT 4.0** AI model (Model of [ChatGPT](https://chat.openai.com/)) provided by the [OpenAI service hosted on Azure](https://azure.microsoft.com/fr-fr/products/cognitive-services/openai-service). The model used is pre-trained. **We do not transfer any data from your organisation** in order to train this artificial intelligence.
+Dastra uses the **OpenAI GPT 4o-mini** and **GPT 4-1mini** AI model (Model of [ChatGPT](https://chat.openai.com/)) provided by the [OpenAI service hosted on Azure](https://azure.microsoft.com/fr-fr/products/cognitive-services/openai-service). The model used is pre-trained. **We do not transfer any data from your organisation** in order to train this artificial intelligence.
 
 Dastra simply uses the power of GPT's generative AI to generate content from simple text queries. Dastra has simply provided the expected document model (JSON) and an example of data processing (from our library) that we want to have and the AI model takes care of the rest.&#x20;
 
 Only the prompt text is transferred to the AI for object generation in Dastra.
 
 For the generation of data subject right request messages, the context of the message is integrated into the generation request in order to propose a personalized response to the request ([see details of transmitted fields](ai-assistant.md#generer-des-reponses-aux-demandes-dexercice-de-droits)).
-
-We've chosen to offer you different models of generative AI because we've found each version to be of interest. You can find the summary table below to help you choose the model best suited to your needs:
-
-
-
-<table><thead><tr><th width="100">Model</th><th>Version</th><th width="100">Benefits</th><th>Disadvantages</th><th>Use cases</th></tr></thead><tbody><tr><td>GPT</td><td>3.5 Turbo</td><td>-Speed<a data-footnote-ref href="#user-content-fn-1"><br><br></a>-Price</td><td>-Aging AI knowledge base (before 2022)<br><br>-Sometimes "simplistic" answers<br><br>-US publisher</td><td>-Object generation<br><br>-Internal Chat Bot</td></tr><tr><td>GPT</td><td>4.0</td><td>-Complete and relevant answers<br><br>-Advanced features</td><td><p>-Generation time<br><br>-Hallucinations and responses that don't always follow instructions<br></p><p>-US publisher</p></td><td>Message generation and reformulation for data subject right request</td></tr><tr><td>Mistral</td><td>Large</td><td>-Quality of answers<br><br>-French publisher</td><td>-Less advanced Azure integration<br><br>-Some features are still experimental</td><td>-Object generation<br><br>-Message generation</td></tr></tbody></table>
-
-
 
 {% hint style="info" %}
 **Warning about the quality of the suggested content**\
@@ -99,6 +91,3 @@ Dastra **does not transfer any data** from your workspace to the AI service. Tex
 \
 For more information on how this model works, go to [this page](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy).
 
-
-
-[^1]: 
