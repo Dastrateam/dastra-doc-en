@@ -25,9 +25,10 @@ Once you've entered the required information, you'll be redirected to a 10-step 
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 172344.png" alt=""><figcaption></figcaption></figure>
 
-The 10 steps of the form are:
+The 11 steps of the form are:
 
 * **General** - This section allows you to enter general information about the AI system, such as its name and description.
+* **Responsibilities** - Define your responsibilities according to the European AI regulation. For example, [provider ](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-2584506019/features/gerer-le-consentement-aux-cookies/configuration-du-widget/les-finalites-des-cookies)or [deployer](https://www.dastra.eu/en/guide/deployer-ai/58859).
 * **AI models** - Indicate here the AI model used to process data. If you'd like to find out more about AI models, go to the [AI Models Repository](ai-models-repository.md).
 * **Stakeholders** - Indicate here who are the users in charge of implementing this AI system, and what their roles are.
 * **Assets** - Add assets that support this AI system.
