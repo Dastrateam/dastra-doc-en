@@ -73,13 +73,11 @@ To display a string variable (the processing reference)
 To display all the values of an array variable (tags)
 
 ```
-{% raw %}
 {% for tag in tags %}
 
  {{ tag.label }}
 
 {% endfor %}
-{% endraw %}
 ```
 
 
@@ -87,9 +85,7 @@ To display all the values of an array variable (tags)
 To display only the 1st value of an array variable: (1st accountable)
 
 ```
-{% raw %}
 {% assign accountable = accountables | first %}
-{% endraw %}
 
 {{accountable.displayName}}
 ```

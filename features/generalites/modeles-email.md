@@ -82,11 +82,9 @@ The block will only be displayed if there is an attachment in the request.
 Loops work in the same way, except that this time we generate a variable internal to the loop. It works as follows:
 
 ```
-{% raw %}
 {% for purpose in purposes %}
   {{ purpose }}
 {% endfor %}
-{% endraw %}
 ```
 
 In the example above, I declare that I want to loop through the "purposes" list and assign the "purpose" variable to each item that I display directly.

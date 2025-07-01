@@ -23,18 +23,109 @@ To add an AI system, first click on "Create a new AI system". A window will appe
 
 Once you've entered the required information, you'll be redirected to a 10-step form. This form will enable you to give as much detail as possible about the AI system.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 172344.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-The 11 steps of the form are:
+## The 11 Steps of the AI System Form
 
-* **General** - This section allows you to enter general information about the AI system, such as its name and description.
-* **Responsibilities** - Define your responsibilities according to the European AI regulation. For example, [provider ](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-2584506019/features/gerer-le-consentement-aux-cookies/configuration-du-widget/les-finalites-des-cookies)or [deployer](https://www.dastra.eu/en/guide/deployer-ai/58859).
-* **AI models** - Indicate here the AI model used to process data. If you'd like to find out more about AI models, go to the [AI Models Repository](ai-models-repository.md).
-* **Stakeholders** - Indicate here who are the users in charge of implementing this AI system, and what their roles are.
-* **Assets** - Add assets that support this AI system.
-* **Datasets** - List the data sets linked to this system.
-* **Data subject** - Contains the list of data subjects whose personal data is used by AI.
-* **Risk analysis** - Define a level of risk according to the data used and the way it is processed by AI.
-* **Business value** - This section enables you to determine a score reflecting the value you bring to your organization. This will enable you to prioritize projects with high added value.
-* **Documentation** - You can add an information leaflet and link documents to this AI system.
-* **Summary** - Here you'll find a summary of the elements concerning the AI system.
+Below are the 11 steps to complete when documenting an AI system.
+
+***
+
+### 1. General
+
+Enter **basic information** about the AI system:
+
+* **Name** of the system
+* **Brief description** of its purpose and functionality
+
+***
+
+### 2. Responsibilities
+
+Define your **role and responsibilities** under the European AI Act:
+
+* **Provider**: develops and places the AI system on the market
+* **Deployer**: uses the AI system within professional activities
+
+***
+
+### 3. AI Models
+
+Specify the **AI model(s)** used to process data within this system.
+
+> ℹ️ For more details, refer to the AI Models Repository.
+
+***
+
+### 4. Stakeholders
+
+Identify **stakeholders involved** in implementing and managing this AI system, including their roles (e.g. Data Scientist, DPO, Product Owner).
+
+***
+
+### 5. Assets
+
+Add the **assets supporting this AI system**, such as:
+
+* Infrastructure components
+* Software tools
+* APIs
+* Documentation resources
+
+***
+
+### 6. Datasets
+
+List the **datasets associated** with this AI system. Indicate their usage among the following phases:
+
+* **Training**: the dataset used to **train the AI model**, enabling it to learn patterns, relationships, or classifications based on historical data.
+* **Validation**: a separate dataset used to **tune model parameters and prevent overfitting**. It helps assess model performance during training and guides adjustments for optimal results.
+* **Testing**: another distinct dataset used to **evaluate the final performance** of the trained and validated model before deployment. It provides an unbiased measure of how the model will perform on new, unseen data.
+* **Production inference**: data processed by the AI system **during actual operation**, where the trained model generates predictions, classifications, or decisions in real-world scenarios.
+
+***
+
+Ensure that each dataset’s **purpose, composition, and linkage to this AI system** are clearly documented for transparency and compliance purposes.
+
+***
+
+### 7. Data Subjects
+
+Specify the **categories of data subjects** whose personal data is processed by the AI system (e.g. customers, employees, users).
+
+***
+
+### 8. Risk Analysis
+
+Assess the **level of risk** based on:
+
+* Types of data processed
+* Processing activities
+* Potential impacts on individuals’ rights and freedoms
+
+***
+
+### 9. Business Value
+
+Determine a **business value score** reflecting the system’s contribution to your organization to:
+
+* **Prioritize** high-value projects
+* Align AI initiatives with strategic objectives
+
+***
+
+### 10. Documentation
+
+Attach relevant **documents and information leaflets**, such as:
+
+* User notices
+* Technical guides
+* Compliance assessments (e.g. DPIAs)
+
+***
+
+### 11. Summary
+
+Review a **comprehensive summary** of all information entered for this AI system before final validation and registration.
+
+***
