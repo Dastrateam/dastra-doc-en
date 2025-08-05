@@ -18,7 +18,6 @@
   * [Definition of risks](le-rgpd-en-bref/risk-management/definition-of-risks.md)
   * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
   * [Vendor risk management](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
-* [DPIA Guidance](le-rgpd-en-bref/dpia-guidance.md)
 
 ## 🧑‍🎓 GETTING STARTED <a href="#commencer" id="commencer"></a>
 
@@ -224,7 +223,8 @@
 
 ## 🤖 Other
 
-* [FAQ](other/faq.md)
+* [Q\&A](other/faq.md)
+* [DPIA Guidance](other/dpia-guidance.md)
 * [Known problems](other/known-problems.md)
 * [Changelog](https://www.dastra.eu/en/category/release/10)
 
