@@ -2,7 +2,7 @@
 description: Guidance on data processing activities requiring a DPIA.
 ---
 
-# DPIA Guidance
+# DPIA Guidance - country by country
 
 This documentation page provides official resources and references from data protection authorities (DPAs) that help determine whether a **Data Protection Impact Assessment (DPIA)** is required. The list is organised by country.
 
