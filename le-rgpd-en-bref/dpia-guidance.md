@@ -73,6 +73,7 @@ This documentation page provides official resources and references from data pro
 * [List of categories of processing subject to a data protection impact assessment (PDF) (in French)](https://www.autoriteprotectiondonnees.be/publications/decision-n-01-2019-du-16-janvier-2019.pdf)
 * [APD - DPIA Guidance (in Dutch)](https://www.gegevensbeschermingsautoriteit.be/professioneel/avg/effectbeoordeling-geb)
 * [List of categories of processing subject to a data protection impact assessment (PDF) (in Dutch)](https://www.gegevensbeschermingsautoriteit.be/publications/beslissing-nr.-01-2019-van-16-januari-2019.pdf)
+* [GEB/DPIA VTC criteria list (in Dutch)](#user-content-fn-1)[^1]
 
 ### Italy
 
@@ -105,3 +106,114 @@ This documentation page provides official resources and references from data pro
 * [DPIA Guidance (in Finnish)](https://tietosuoja.fi/vaikutustenarviointi)
 * [List of DPIA-requiring processing (in Finnish)](https://tietosuoja.fi/luettelo-vaikutustenarviointia-edellyttavista-kasittelytoimista)
 
+#### 🇦🇹 Austria
+
+**Supervisory Authority:** Datenschutzbehörde (DSB)
+
+* **DPIA Guidance – DSB (in German)**
+* **List of processing operations requiring a DPIA – DSB (PDF)**
+
+#### 🇨🇿 Czech Republic
+
+**Supervisory Authority:** Úřad pro ochranu osobních údajů (UOOU)
+
+* **DPIA Guidance – UOOU (in Czech)**
+* **DPIA FAQ – UOOU (in English)**
+
+#### 🇵🇱 Poland
+
+**Supervisory Authority:** Urząd Ochrony Danych Osobowych (UODO)
+
+* **DPIA Guidance – UODO (in Polish)**
+* **Implementation support materials for DPIA – UODO**
+
+#### 🇵🇹 Portugal
+
+**Supervisory Authority:** Comissão Nacional de Proteção de Dados (CNPD)
+
+* **DPIA Guidance – CNPD (in Portuguese)**
+* **List of processing operations requiring a DPIA (PDF)**
+
+#### 🇭🇷 Croatia
+
+**Supervisory Authority:** Agencija za zaštitu osobnih podataka (AZOP)
+
+* **DPIA Guidance – AZOP (in Croatian)**
+* **Support material for conducting a DPIA – AZOP**
+
+#### 🇸🇰 Slovakia
+
+**Supervisory Authority:** Úrad na ochranu osobných údajov Slovenskej republiky (UOOU SR)
+
+* **DPIA Guidance – UOOU SR (in Slovak)**
+* **Examples of high-risk processing activities**
+
+#### 🇭🇺 Hungary
+
+**Supervisory Authority:** Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)
+
+* **DPIA Guidance – NAIH (in Hungarian)**
+* **DPIA-related chapter: pages 89 to 97**
+
+#### 🇷🇴 Romania
+
+**Supervisory Authority:** Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)
+
+* **DPIA Guidance – ANSPDCP (in Romanian)**
+* **DPIA Q\&A – ANSPDCP**
+
+#### 🇧🇬 Bulgaria
+
+**Supervisory Authority:** Commission for Personal Data Protection (CPDP)
+
+* **DPIA Guidelines – CPDP (in Bulgarian)**
+* **DPIA Template Form – CPDP**
+
+#### 🇱🇹 Lithuania
+
+**Supervisory Authority:** Valstybinė duomenų apsaugos inspekcija (VDAI)
+
+* **DPIA Guidance – VDAI (in Lithuanian)**
+
+#### 🇱🇻 Latvia
+
+**Supervisory Authority:** Datu valsts inspekcija (DVI)
+
+* **DPIA Guidance – DVI (in Latvian)**
+
+#### 🇱🇺 **Luxembourg**
+
+**Supervisory Authority:** Commission Nationale pour la Protection des Données (CNPD)
+
+* DPIA Guidance – CNPD
+* List of processing operations requiring a DPIA – CNPD (PDF)
+* FAQ DPIA – CNPD
+
+#### 🇬🇷 **Greece**
+
+**Supervisory Authority:** Hellenic Data Protection Authority (HDPA) – Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+
+* **DPIA Guidance (in Greek):**\
+  DPIA Guidelines – HDPA\
+  Published under Decision No. 65/2018, includes interpretation of GDPR Article 35 in the Greek legal context.
+* **List of processing operations requiring a DPIA (Blacklist):**\
+  DPIA Blacklist – HDPA (PDF, Greek)\
+  Covers high-risk scenarios including biometric processing, large-scale surveillance, and automated decision-making.
+* **DPIA Template (in Greek):**\
+  DPIA Report Template – HDPA (DOCX)\
+  Offers a structured document to support compliance and impact analysis under Greek law.
+
+#### 🇨🇭 **Switzerland**
+
+**Supervisory Authority:** Federal Data Protection and Information Commissioner (FDPIC / PFPDT / PFPDT)
+
+Although Switzerland is not part of the EU, it has **DPIA-equivalent requirements** under its revised Federal Act on Data Protection (FADP, 2023):
+
+* Data Protection Impact Assessment – FDPIC
+* Guide on DPIA under revised Swiss FADP
+
+> ✅ Required if a processing operation is likely to result in a high risk to personality or fundamental rights. Similar structure to Article 35 GDPR.
+
+
+
+[^1]: [https://www.vlaanderen.be/vlaamse-toezichtcommissie/machtigingen-en-adviezen-vlaamse-toezichtcommissie/lijst-vtc-criteria-geb-dpia](https://www.vlaanderen.be/vlaamse-toezichtcommissie/machtigingen-en-adviezen-vlaamse-toezichtcommissie/lijst-vtc-criteria-geb-dpia)

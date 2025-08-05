@@ -2,7 +2,7 @@
 
 * [What is Dastra](README.md)
 
-## 🇪🇺 USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
+## 💁‍♂️ USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
 
 * [What is GDPR ?](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
 * [GDPR key concepts](le-rgpd-en-bref/rgpd-en-bref/README.md)
@@ -18,6 +18,7 @@
   * [Definition of risks](le-rgpd-en-bref/risk-management/definition-of-risks.md)
   * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
   * [Vendor risk management](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
+* [DPIA Guidance](le-rgpd-en-bref/dpia-guidance.md)
 
 ## 🧑‍🎓 GETTING STARTED <a href="#commencer" id="commencer"></a>
 
@@ -87,7 +88,7 @@
   * [Create or modify an audit template or DPIA](features/audit/create-or-modify-an-audit-template-or-dpia.md)
   * [Scheduling an audit or a PIA](features/audit/scheduling-an-audit-or-a-pia.md)
   * [Share an audit report or PIA](features/audit/share-an-audit-report-or-pia.md)
-  * [FAQ](features/audit/faq.md)
+  * [Q\&A](features/audit/q-and-a.md)
 * [Privacy hubs](features/privacy-hubs/README.md)
   * [Create a Privacy hub](features/privacy-hubs/create.md)
   * [Configure your Privacy hub](features/privacy-hubs/configuration/README.md)
@@ -229,6 +230,5 @@
 
 ## Referentials
 
-* [DPIA Guidance](referentials/dpia-guidance.md)
 * [Other referentials](referentials/other/README.md)
   * [HR referential from CNIL](referentials/other/hr-referential-from-cnil.md)

@@ -1,6 +1,6 @@
-# FAQ
+# Q\&A
 
-## Can I do a PIA on multiple treatments?
+## Can I do a DPIA on multiple processing operations?
 
 A data protection impact assessment may relate to one processing operation or a set of similar processing operations. A single DPIA may be used to assess several processing operations that are similar in nature, scope, context, purposes and risks.&#x20;
 
@@ -29,11 +29,7 @@ Is it possible to publish an audit template for all Dastra users? Yes, you can d
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120534.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120534.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -46,21 +42,13 @@ Is it possible to publish an audit template for all Dastra users? Yes, you can d
 \
 This message indicates that one or more questions in the questionnaire have exactly the same “Variable's name”, which creates the error.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170633.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170633.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 Questions with the same “Variable's name” can be identified by the error message “The variable name is present in another question” displayed above them.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170725.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170725.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
