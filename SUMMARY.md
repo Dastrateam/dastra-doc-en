@@ -229,5 +229,6 @@
 
 ## Referentials
 
-* [CNIL referentials](referentials/cnil/README.md)
-  * [HR referential from CNIL](referentials/cnil/hr-referential-from-cnil.md)
+* [DPIA Guidance](referentials/dpia-guidance.md)
+* [Other referentials](referentials/other/README.md)
+  * [HR referential from CNIL](referentials/other/hr-referential-from-cnil.md)
