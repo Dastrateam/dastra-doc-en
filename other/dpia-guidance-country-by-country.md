@@ -45,7 +45,9 @@ This documentation page provides official resources and references from data pro
 * [Federal DPIA Criteria (BfDI)](https://www.bfdi.bund.de/DE/Fachthemen/Inhalte/Technik/Datenschutz-Folgenabschaetzungen.html)
   * [List of processing operations pursuant to Article 35(4) GDPR for processing activities carried out by federal public bodies](https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Muster/Liste_VerarbeitungsvorgaengeArt35.pdf?__blob=publicationFile\&v=7)
   * [List of processing activities for which a DSFA must be carried out (DSK)](https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Muster/Liste_VerarbeitungsvorgaengeDSK.pdf?__blob=publicationFile\&v=7)
-* [List of processing activities requiring DPIA (Baden-Württemberg DPA)](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/05/Liste-von-Verarbeitungsvorg%C3%A4ngen-nach-Art.-35-Abs.-4-DS-GVO-LfDI-BW.pdf) (in German)
+* By Land
+  * [List of processing activities requiring DPIA (Baden-Württemberg DPA)](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/05/Liste-von-Verarbeitungsvorg%C3%A4ngen-nach-Art.-35-Abs.-4-DS-GVO-LfDI-BW.pdf) (in German)
+  * [Data protection impact assessment – Bavarian blacklist (in German)](https://www.datenschutz-bayern.de/nav/1801.html)
 
 > 🛑 DPIA criteria vary slightly by **Land** (state) due to Germany’s federal structure.
 
@@ -106,33 +108,36 @@ This documentation page provides official resources and references from data pro
 * [DPIA Guidance (in Finnish)](https://tietosuoja.fi/vaikutustenarviointi)
 * [List of DPIA-requiring processing (in Finnish)](https://tietosuoja.fi/luettelo-vaikutustenarviointia-edellyttavista-kasittelytoimista)
 
-#### 🇦🇹 Austria
+### Austria
 
 **Supervisory Authority:** Datenschutzbehörde (DSB)
 
-* **DPIA Guidance – DSB (in German)**
-* **List of processing operations requiring a DPIA – DSB (PDF)**
+* [DPIA Guidance – WKO (in German)](https://ratgeber.wko.at/dsfa/)
+* [List of processing operations requiring a DPIA – DSB (PDF)](https://www.ris.bka.gv.at/eli/bgbl/II/2018/278/20181109)
+* [Exceptions to the data protection impact assessment (DPIA) - DSB (PDF)](https://www.ris.bka.gv.at/eli/bgbl/II/2018/108/20180525)
 
-#### 🇨🇿 Czech Republic
+### Czech Republic
 
 **Supervisory Authority:** Úřad pro ochranu osobních údajů (UOOU)
 
-* **DPIA Guidance – UOOU (in Czech)**
-* **DPIA FAQ – UOOU (in English)**
+* [DPIA Guidance - UOOU (in Czech)](https://uoou.gov.cz/profesional/metodiky-a-doporuceni-pro-spravce/posouzeni-vlivu-na-ochranu-osobnich-udaju)
+* [General Data Protection Impact Assessment Methodology (PDF document) – UOOU (in Czech)](https://uoou.gov.cz/media/profesional/metodika-obecneho-posouzeni-vlivu-na-ochranu-osobnich-udaju.pdf)
+* [List of types of processing operations (not) subject to the requirement for a Data Protection Impact Assessment (DPIA) (PDF document) - UOOU (in Czech)](https://uoou.gov.cz/media/profesional/seznam-operaci-zpracovani-nepodlehajicich-pozadavku-na-dpia.pdf)
 
-#### 🇵🇱 Poland
+### Poland
 
 **Supervisory Authority:** Urząd Ochrony Danych Osobowych (UODO)
 
-* **DPIA Guidance – UODO (in Polish)**
-* **Implementation support materials for DPIA – UODO**
+* [DPIA Guidance – UODO (in Polish)](https://uodo.gov.pl/pl/598/3617?mkt_tok=MTM4LUVaTS0wNDIAAAGZm5Te7KF5c_87ovOvFSvFlk8TT1HkKjhhYeegH3TbE8QJRvBLS2CpCfzokPMEBeuc49OMBxEHR-wUHla56YileVIl8xBAGkhX55NXHMT_LCc8)
+* [List of types of personal data processing operations requiring an assessment of the impact of processing on the protection of personal data – UODO (in Polish)](https://monitorpolski.gov.pl/MP/2019/666)
+* [Conference video "Risk assessment and personal data protection" - UODO (in Polish)](https://uodo.gov.pl/pl/138/3507)
 
-#### 🇵🇹 Portugal
+### Portugal
 
 **Supervisory Authority:** Comissão Nacional de Proteção de Dados (CNPD)
 
-* **DPIA Guidance – CNPD (in Portuguese)**
-* **List of processing operations requiring a DPIA (PDF)**
+* [DPIA Guidance – CNPD (in Portuguese)](https://www.cnpd.pt/organizacoes/outras-obrigacoes/avaliacao-de-impacto/)
+* [List of processing operations types requiring a DPIA (PDF)](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121818) - CNPD
 
 #### 🇭🇷 Croatia
 
