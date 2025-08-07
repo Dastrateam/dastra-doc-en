@@ -139,83 +139,75 @@ This documentation page provides official resources and references from data pro
 * [DPIA Guidance – CNPD (in Portuguese)](https://www.cnpd.pt/organizacoes/outras-obrigacoes/avaliacao-de-impacto/)
 * [List of processing operations types requiring a DPIA (PDF)](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121818) - CNPD
 
-#### 🇭🇷 Croatia
+### Croatia
 
 **Supervisory Authority:** Agencija za zaštitu osobnih podataka (AZOP)
 
-* **DPIA Guidance – AZOP (in Croatian)**
-* **Support material for conducting a DPIA – AZOP**
+* [DPIA Guidance – AZOP (in Croatian)](https://azop.hr/provodenje-procjene-ucinka-na-zastitu-podataka-dpia-postupci-obrade-koji-predstavljaju-mogucnost-visokog-rizika/)
+* [List of types of processing operations subject to the requirement for a data protection impact assessment - AZOP (in Croatian)](https://azop.hr/odluka-o-uspostavi-i-javnoj-objavi-popisa-vrsta-postupaka-obrade-koje-podlijezu-zahtjevu-za-procjenu-ucinka-na-zastitu-podataka/)
 
-#### 🇸🇰 Slovakia
+### Slovakia
 
 **Supervisory Authority:** Úrad na ochranu osobných údajov Slovenskej republiky (UOOU SR)
 
-* **DPIA Guidance – UOOU SR (in Slovak)**
-* **Examples of high-risk processing activities**
+* [List of processing operations subject to impact assessment on the protection of personal data of the Slovak Republic - UOOU SR (PDF) (in Slovakian)](https://dataprotection.gov.sk/files/metod-urad/3/zoznam_spracovatelskych_operacii_ktore_podliehaju_posudeniu_vplyvu.pdf)
+* [DPIA Guidelines  - UOOU SR (in Slovakian)](https://dataprotection.gov.sk/sk/aktuality/zoznam-spracovatelskych-operacii-ktore-podliehaju-poziadavke-posudenie-vplyvu.html)
 
-#### 🇭🇺 Hungary
+### Hungary
 
 **Supervisory Authority:** Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)
 
-* **DPIA Guidance – NAIH (in Hungarian)**
-* **DPIA-related chapter: pages 89 to 97**
+* [DPIA Guidance – NAIH (in Hungarian)](https://www.naih.hu/az-adatvedelmi-hatasvizsgalat-es-elozetes-konzultacioja)
+* [List of processing operations subject to impact assessment - NAIH (in Hungarian)](https://www.naih.hu/hatasvizsgalati-lista)
 
-#### 🇷🇴 Romania
+### Romania
 
 **Supervisory Authority:** Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)
 
-* **DPIA Guidance – ANSPDCP (in Romanian)**
-* **DPIA Q\&A – ANSPDCP**
+* [List of processing operations subject to impact assessment - ANSPDCP (PDF) (in Romanian)](https://www.dataprotection.ro/servlet/ViewDocument?id=1556)
+* [Decision no. 174 of the 18th of October 2018 on the list of kind of processing operations which  &#x20;are subject to the requirement for a data protection impact assessment (PDF) (in English)](https://www.dataprotection.ro/servlet/ViewDocument?id=1870)
 
-#### 🇧🇬 Bulgaria
+### Bulgaria
 
 **Supervisory Authority:** Commission for Personal Data Protection (CPDP)
 
-* **DPIA Guidelines – CPDP (in Bulgarian)**
-* **DPIA Template Form – CPDP**
+* [List of types of personal data processing operations for which an assessment of the impact on data protection is required (in Bulgarian)](https://cpdp.bg/home-default/%D0%BD%D0%B0%D1%81%D0%BE%D0%BA%D0%B8/%D1%81%D0%BF%D0%B8%D1%81%D1%8A%D0%BA-%D0%BD%D0%B0-%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE/)
 
 #### 🇱🇹 Lithuania
 
 **Supervisory Authority:** Valstybinė duomenų apsaugos inspekcija (VDAI)
 
-* **DPIA Guidance – VDAI (in Lithuanian)**
+* [List of data processing operations subject to data protection impact assessment - VDAI (PDF) (in Luthuanian)](https://vdai.lrv.lt/uploads/vdai/documents/files/06%20Poveikio%20duomen%C5%B3%20apsaugai%20vertinimas%202019-03-18.pdf)
 
 #### 🇱🇻 Latvia
 
 **Supervisory Authority:** Datu valsts inspekcija (DVI)
 
-* **DPIA Guidance – DVI (in Latvian)**
+* [Types of processing activities for which a data protection impact assessment must be carried out – DVI (in Latvian)](https://www.dvi.gov.lv/lv/media/92/download?attachment)
 
-#### 🇱🇺 **Luxembourg**
+## Luxembourg
 
 **Supervisory Authority:** Commission Nationale pour la Protection des Données (CNPD)
 
-* DPIA Guidance – CNPD
-* List of processing operations requiring a DPIA – CNPD (PDF)
-* FAQ DPIA – CNPD
+* [DPIA Guidance – CNPD](https://cnpd.public.lu/fr/professionnels/obligations/AIPD.html)
+* [List of processing operations requiring a DPIA – CNPD (in French)](https://cnpd.public.lu/fr/professionnels/obligations/AIPD/liste-dpia.html)
+* [DPIA infography - CNPD](https://cnpd.public.lu/dam-assets/fr/professionnels/aipd/Infographie-AIPD.pdf)
 
-#### 🇬🇷 **Greece**
+### Grèce
 
 **Supervisory Authority:** Hellenic Data Protection Authority (HDPA) – Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
 
-* **DPIA Guidance (in Greek):**\
-  DPIA Guidelines – HDPA\
-  Published under Decision No. 65/2018, includes interpretation of GDPR Article 35 in the Greek legal context.
-* **List of processing operations requiring a DPIA (Blacklist):**\
-  DPIA Blacklist – HDPA (PDF, Greek)\
-  Covers high-risk scenarios including biometric processing, large-scale surveillance, and automated decision-making.
-* **DPIA Template (in Greek):**\
-  DPIA Report Template – HDPA (DOCX)\
-  Offers a structured document to support compliance and impact analysis under Greek law.
+* [DPIA Guidelines – HDPA](https://www.dpa.gr/el/foreis/ektimisi_adiktipou_kai_diavouleush/ektimisi_adiktipou)
+* [List of processing operations requiring a DPIA (Blacklist) – HDPA (PDF,  English)](https://app.gitbook.com/o/uWrGLDLDipyYq3GpIuW2/s/1i0NSpf8ID0PXTpIyycA/)
 
-#### 🇨🇭 **Switzerland**
+### Switzerland
 
 **Supervisory Authority:** Federal Data Protection and Information Commissioner (FDPIC / PFPDT / PFPDT)
 
 Although Switzerland is not part of the EU, it has **DPIA-equivalent requirements** under its revised Federal Act on Data Protection (FADP, 2023):
 
-* Data Protection Impact Assessment – FDPIC
-* Guide on DPIA under revised Swiss FADP
+* [Checklist for data protection impact assessments (DPIA) pursuant to Articles 22 and 23 of the Data Protection Act (DPA)](https://backend.edoeb.admin.ch/fileservice/sdweb-docs-prod-edoebch-files/files/2024/11/05/eb84f377-103e-4e7f-9896-62ec970f2290.pdf)
+* [Guide to implementing DPIA](https://www.bj.admin.ch/bj/fr/home/staat/datenschutz/info-bundesbehoerden.html)
 
 > ✅ Required if a processing operation is likely to result in a high risk to personality or fundamental rights. Similar structure to Article 35 GDPR.
 
