@@ -23,7 +23,7 @@ To add an AI system, first click on "Create a new AI system". A window will appe
 
 Once you've entered the required information, you'll be redirected to a 10-step form. This form will enable you to give as much detail as possible about the AI system.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 ## The 11 Steps of the AI System Form
 
