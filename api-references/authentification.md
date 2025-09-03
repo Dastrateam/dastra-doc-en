@@ -59,7 +59,7 @@ https://account.dastra.eu/connect/authorize?
 
 API authentication is based on the [OAuth2 protocol](https://oauth.net/2/?utm_source=chatgpt.com) using the "Client credentials" flow. This authentication mode should only be used for server-to-server requests and must never be used on the client side (e.g., JavaScript SPA).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
 
 #### Getting the token
 

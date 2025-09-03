@@ -139,6 +139,7 @@
   * [Set up a data subject right request widget](features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits.md)
   * [Technical integration](features/gerer-les-exercices-des-droits/technical-integration.md)
   * [API integration](features/gerer-les-exercices-des-droits/api-integration.md)
+  * [Frequently asked questions](features/gerer-les-exercices-des-droits/frequently-asked-questions.md)
 * [Manage data breach notifications](features/notifier-les-violations-de-donnees/README.md)
   * [Report a data breach](features/notifier-les-violations-de-donnees/notifiez-une-violation-de-donnees.md)
   * [Export your data breach notifications](features/notifier-les-violations-de-donnees/exportez-vos-notifications-de-violation-de-donnees.md)
