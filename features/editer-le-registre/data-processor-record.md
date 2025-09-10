@@ -28,7 +28,7 @@ This record contains :&#x20;
 * the **transfers** outside the EEA&#x20;
 * the **security measures**
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-04-25 154507.png" alt=""><figcaption><p>The different sections of a "data processor" treatment in Dastra</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-04-25 154507.png" alt=""><figcaption><p>The different sections of a "data processor" processing activity in Dastra</p></figcaption></figure>
 
 
 

@@ -6,15 +6,15 @@ description: Learn how to visualize data mapping in Dastra.
 
 ## Introduction
 
-In Dastra, data can be visualized in several ways. One of them is the mapping of **the treatment record data**.&#x20;
+In Dastra, data can be visualized in several ways. One of them is the mapping of **the** processing activity **record data**.&#x20;
 
 This visualization allows in particular to explore, analyze and understand the relationships between the data in the record.
 
 ## View the record data map
 
-To view the mapping of the registry data, click on the "Record of processing activities" module and then click on the "**Graphs**" button above your treatment list.
+To view the mapping of the registry data, click on the "Record of processing activities" module and then click on the "**Graphs**" button above your processing activity list.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.44.03.png" alt=""><figcaption><p>Graphs tab above the treatments</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.44.03.png" alt=""><figcaption><p>Graphs tab above the processing activities</p></figcaption></figure>
 
 Thus, you will be able to **visualize the mapping of the registry data**.
 

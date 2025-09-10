@@ -21,5 +21,5 @@ In practice, this documentation is primarily reflected in the register of proces
 * conducting privacy impact assessments in certain circumstances;
 * implementation and supervision of verification procedures to ensure that all measures do not only exist on paper, but are also implemented and work in practice (internal or external audits, etc.).
 
-You can also store in this space any document useful for the understanding of the treatment, the training notes as well as the contracts framing the treatment if necessary.
+You can also store in this space any document useful for the understanding of the processing activity, the training notes as well as the contracts framing the processing activity if necessary.
 

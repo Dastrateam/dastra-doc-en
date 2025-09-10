@@ -6,13 +6,13 @@ description: Learn how to share the record of processing.
 
 ## Sharing the entire record
 
-From the "Record" section of DASTRA, click on the arrow in the upper right-hand corner of the registry next to the "create treatment" button, then in the drop-down menu, click on "Share".&#x20;
+From the "Record" section of DASTRA, click on the arrow in the upper right-hand corner of the registry next to the "New data processing" button, then in the drop-down menu, click on "Share".&#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.58.13.png" alt=""><figcaption></figcaption></figure>
 
 Once clicked, a window appears on the screen asking you the expiration date of the sharing link, then click on "Create a link".
 
-The sharing will take into account all the treatments with the status "published". Treatments in draft are not shared with this function. To share a treatment, in draft, it must be shared individually.
+The sharing will take into account all the processing activities with the status "published". Processing activities in draft are not shared with this function. To share a processing activity, in draft, it must be shared individually.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.59.59.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,11 +31,11 @@ The share link is a limited lifetime link that you can use to share the registry
 
 Repeat the process described above, but by clicking on the three-stroke button specific to the processing activity you wish to share, then click on "Share".
 
-Treatments can be shared regardless of the status (published or draft).
+Processing activities can be shared regardless of the status (published or draft).
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 11.01.39.png" alt=""><figcaption></figcaption></figure>
 
-It's also possible to share several treatments by selecting them in the Record menu and choosing the grouped action "Share".
+It's also possible to share several processing activities by selecting them in the Record menu and choosing the grouped action "Share".
 
 ## Manage share links
 

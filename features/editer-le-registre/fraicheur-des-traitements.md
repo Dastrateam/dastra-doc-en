@@ -68,4 +68,4 @@ Please note that we treat the date on which a processing record is updated (when
 
 ### Notifications&#x20;
 
-The owner of a processing that has become outdated will receive a warning email to remind them that one of their treatments has not been reviewed for a long time and that it is time to refresh it.
+The owner of a processing that has become outdated will receive a warning email to remind them that one of their processing activities has not been reviewed for a long time and that it is time to refresh it.

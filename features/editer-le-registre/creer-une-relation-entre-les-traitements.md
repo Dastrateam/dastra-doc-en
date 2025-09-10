@@ -68,7 +68,7 @@ Strict linkage between processing B and processing A. The pre-existing fields of
 
 The target process (B) automatically inherits the fields from the original process (A).&#x20;
 
-It's possible to add, delete or modify new fields in processing B, but cannot modify the fields inherited from processing A. Any modification in the fields of processing A is automatically reflected in the fields inherited from processing B. When the link is revoked, the fields inherited from processing A become editable again in processing B. The fields that existed in treatment B before the link was set up are kept after the link is created.
+It's possible to add, delete or modify new fields in processing B, but cannot modify the fields inherited from processing A. Any modification in the fields of processing A is automatically reflected in the fields inherited from processing B. When the link is revoked, the fields inherited from processing A become editable again in processing B. The fields that existed in processing B before the link was set up are kept after the link is created.
 
 ### Is tutor of (Soft inheritance):
 

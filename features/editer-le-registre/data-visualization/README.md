@@ -8,24 +8,24 @@ description: Learn how to visualize data in Dastra
 
 In Dastra, **data** can be **viewed** in several ways:&#x20;
 
-* The **treatment organizational tree**,&#x20;
-* The **data mapping** of the treatment register,&#x20;
+* The processing activity **organizational tree**,&#x20;
+* The **data mapping** of the processing activity register,&#x20;
 * Data **transfers**.
 
 ## Change the Record view
 
-To change the way treatments are displayed in your record, go to the "Record of processing activities" module in the left-hand banner of the screen. By default, the treatments are displayed in table mode. Click on the **arrow to the right** of the "List view" button.
+To change the way processing activities are displayed in your record, go to the "Record of processing activities" module in the left-hand banner of the screen. By default, the processing activities are displayed in table mode. Click on the **arrow to the right** of the "List view" button.
 
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-06 à 17.44.31.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The first choice "List view" refers to the standard view of the **treatment record.**
+The first choice "List view" refers to the standard view of the processing activity **record.**
 {% endhint %}
 
 In addition to the table view, a list view and a tree view are also available.
 
-{% content-ref url="view-the-treatment-tree.md" %}
-[view-the-treatment-tree.md](view-the-treatment-tree.md)
+{% content-ref url="view-the-processing-activity-tree.md" %}
+[view-the-processing-activity-tree.md](view-the-processing-activity-tree.md)
 {% endcontent-ref %}
 
 ## View the mapping of your record and transfers

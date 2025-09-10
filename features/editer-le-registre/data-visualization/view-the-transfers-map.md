@@ -12,9 +12,9 @@ This visualization allows in particular to explore, analyze and understand geogr
 
 ## View the transfers map
 
-To view the transfer map, click on the "Record of processing activities" module and then click on the "**Transfers**" button above your treatment list.
+To view the transfer map, click on the "Record of processing activities" module and then click on the "**Transfers**" button above your processing activity list.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.59.49.png" alt=""><figcaption><p>Transfers tab above the treatments</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.59.49.png" alt=""><figcaption><p>Transfers tab above the processing activities</p></figcaption></figure>
 
 Thus, you will be able **to visualize the transfers map**.
 
