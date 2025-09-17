@@ -78,7 +78,7 @@ This guide introduces three integration models (from lightweight to enterprise-g
 
 ### 📘 Typical Use Cases & API Endpoints
 
-Below are common integration scenarios, what they achieve, and the **Dastra API endpoints** to use ([API reference](https://doc.dastra.eu/api-references/liste-des-endpoints-dapi?utm_source=chatgpt.com)):
+Below are common integration scenarios, what they achieve, and the **Dastra API endpoints** to use ([API reference](https://dastra.readme.io/reference/rate-limiting)):
 
 #### 1. Data Subject Right Orchestration with External Tools
 
