@@ -23,7 +23,7 @@ This guide introduces three integration models (from lightweight to enterprise-g
 
 **Best for:** Simple automations with low–moderate data volumes.
 
-**Workflow:**
+**Workflow example:**
 
 1. **Trigger in Dastra** → DSAR or event triggers a webhook.
 2. **Zapier receives webhook** → calls external tool’s API.
@@ -39,7 +39,7 @@ This guide introduces three integration models (from lightweight to enterprise-g
 
 **Best for:** Mid-scale workflows requiring more flexibility than Zapier alone.
 
-**Workflow:**
+**Workflow example:**
 
 1. **Trigger in Dastra → Zapier.**
 2. **Zapier calls a custom microservice** (AWS Lambda, Azure Function, GCP Cloud Run).
@@ -54,7 +54,7 @@ This guide introduces three integration models (from lightweight to enterprise-g
 
 **Best for:** Enterprise-grade deployments with strict SLAs, high volumes, and advanced security requirements.
 
-**Workflow:**
+**Workflow example:**
 
 1. **Dastra calls the external API directly** when a trigger occurs.
 2. **External system executes workflow** (discovery, classification, redaction, etc.).
