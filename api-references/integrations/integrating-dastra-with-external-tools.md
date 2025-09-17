@@ -156,3 +156,7 @@ Below are common integration scenarios, what they achieve, and the **Dastra API 
 * **Hybrid models** (Zapier + microservices) handle mid-scale complexity reliably.
 * **Direct API integrations** are the gold standard for enterprise-grade compliance.
 * With these models, organizations can integrate Dastra seamlessly into IT, data, and business ecosystems.
+
+
+
+[Contact us](https://www.dastra.eu/en/contacts/demo) for more information.
