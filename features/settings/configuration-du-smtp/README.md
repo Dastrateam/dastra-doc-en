@@ -4,7 +4,7 @@
 
 By default, Dastra routes a significant number of email notifications for the following services:&#x20;
 
-* Real time [Notifications](notifications.md) (New comments, tasks, ...)
+* Real time [Notifications](../notifications.md) (New comments, tasks, ...)
 * Email exchanges as part of a rights exercise request
 * Invitations to audits for respondents
 * Invitations for new users
@@ -39,7 +39,7 @@ Note that your SMTP server must support a secure connection using SSL.
 
 Go to the SMTP [server configuration page](https://app.dastra.eu/general-settings/smtp).&#x20;
 
-Fill in the form fields using the data requested in the [prerequisites](configuration-du-smtp.md#prerequisites).
+Fill in the form fields using the data requested in the [prerequisites](./#prerequisites).
 
 Note that server connectivity is automatically tested to ensure that the server login credentials are correct. A test email will be automatically sent from our servers.&#x20;
 
