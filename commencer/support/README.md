@@ -4,14 +4,9 @@ description: Learn how to use the support offered by Dastra.
 
 # Support
 
-Here are the different ways to contact our support team:
-
-* Use the [support request form](https://app.dastra.eu/?modalId=modal-feedback)
-* [Online chat](https://app.dastra.eu/?openChat=1)
-* By email: [support@dastra.eu](mailto:support@dastra.eu)
-* By phone: [+33 1 76 31 05 47](tel:+33176310547) (9:00 AM/6:00 PM / GMT+2)&#x20;
-
-
+{% hint style="info" %}
+If you encounter any problems accessing the application, you can contact the Dastra support team directly by email at [support@dastra.com](mailto:support@dastra.com) or by phone at [+33 1 76 31 05 47](telto:+33176310547) (Availability : 9:00 / 18:00 GMT+2)&#x20;
+{% endhint %}
 
 In Dastra and beyond, support is available in several ways: the dastronaute assistant, online help or the support request form.
 
