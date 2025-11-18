@@ -152,7 +152,7 @@ All inbound applications use a uniform Dassian Asset type (`Software`), simplify
 
 ***
 
-### **Future Enhancements (Post-2026 Roadmap)**
+### **Future Enhancements**&#x20;
 
 Potential extensions under consideration:
 
@@ -160,3 +160,4 @@ Potential extensions under consideration:
 * Custom field mapping configurations
 * Support for additional Fact Sheet types (IT Component, Business Capability, etc.)
 * Real-time sync triggers instead of overnight batching
+
