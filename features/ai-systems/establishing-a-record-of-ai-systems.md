@@ -2,20 +2,8 @@
 
 To set up a record of your AI systems, you have two options:
 
-* Either you already have a registry that you can import directly into Dastra (go to the next section: [Import your AI systems](establishing-a-record-of-ai-systems.md#import-you-ai-systems))
+* Either you already have a registry that you can import directly into Dastra (go to the next section: [Import your AI systems](import-you-ai-systems.md))
 * Or you don't have one. In this case, you'll have to create one yourself
-
-## Import you AI Systems
-
-If you don't already have an AI system registry, skip ahead to the next section: [Create a record of AI Systems](establishing-a-record-of-ai-systems.md#create-a-record-of-ai-systems).
-
-You can easily upload your existing register directly into Dastra. This saves you having to fill in everything by hand.
-
-To do this, access the list view, entitled "AI systems". In the top right-hand corner, open the drop-down menu next to the "Create a new AI system" button, then click on "Import". A new page appears, at the bottom of which you can add your existing record.
-
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 172133.png" alt=""><figcaption><p>Import your AI Systems</p></figcaption></figure>
-
-We recommend that you follow the steps on the [Import your data (Excel, Csv, JSON)](../generalites/importer-vos-donnees-excel-csv.md) page for further details.
 
 ## Create a record of AI Systems
 
