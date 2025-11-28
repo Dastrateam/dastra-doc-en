@@ -1,8 +1,8 @@
 ---
 description: >-
-  Dastra is natively integrated with Google Tag Manager. This article will
-  explain how to integrate tag blocking or unblocking based on user consent
-  using GTM.
+  Dastra est nativement intégré à Google Tag Manager. Cet article vous
+  expliquera comment intégrer le blocage ou le déblocage de tags en fonction des
+  consentements de l'utilisateur à l'aide de GTM.
 ---
 
 # Google Tag Manager
