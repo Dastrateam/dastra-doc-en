@@ -18,17 +18,32 @@ Each user can be associated with 1 or more roles. The roles are themselves assoc
 To create your own roles associated with permissions, go to [this page](https://app.dastra.eu/general-settings/roles).&#x20;
 
 You can create a custom "new role" by clicking on the "Create a new role" button\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-23 145253.png" alt=""><figcaption></figcaption></figure>
 
 It is possible to select the boxes associated with permissions
 
-<div align="center">
+<div align="center"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-11-24 155552.png" alt=""><figcaption><p>Creating a role</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-23 145536.png" alt=""><figcaption><p>Creating a role</p></figcaption></figure>
+\
+**Read/Write own elements:** Users can only view and edit items assigned to them within the module.
 
-</div>
+**Read:** Users can view all items in the module.
 
+**Writing:** Allows modification of all items in the module.
+
+**Export:** Permits exporting all items.
+
+**Import:** Allows importing all items into the module.
+
+**Notification:** Users receive notifications for all items in the module.
+
+
+
+{% hint style="info" %}
+It is not possible to select both “Read/Write own elements” and permissions on all items for the same role in a module. Users can access either only their own items or all items.
+{% endhint %}
+
+\
 Once you've created your custom role, you can assign it to any workspace user within your organization.

@@ -86,8 +86,7 @@ Step 10: Check the box Open the Edit Claim Rules dialog before clicking on "fini
 
 <figure><img src="../../../.gitbook/assets/adfs7.png" alt=""><figcaption></figcaption></figure>
 
-**Step 11:** Click on Add Rule and choose the "Claim Rule": "Send LDAP Attributes as Claims".\
-
+**Step 11:** Click on Add Rule and choose the "Claim Rule": "Send LDAP Attributes as Claims".<br>
 
 
 

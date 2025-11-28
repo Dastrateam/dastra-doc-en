@@ -36,8 +36,7 @@ Message notifications are automatically sent whenever a message is posted on the
 * **Asynchronous notification:** A message is sent to all workspace members who have access to the item.
 * **Instant notification:** A message is sent to all users mentioned in the conversation.
 
-For more information, please refer to our notifications page.\
-
+For more information, please refer to our notifications page.<br>
 
 {% hint style="success" %}
 If you use Slack, you can enable automatic user notifications in Slack via the [integration page in your workspace](https://app.dastra.eu/workspace/0/settings/integrations).

@@ -79,4 +79,4 @@ To add a graph, click on "Add a graph".
 
 You can then define several chart categories.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F2dBxqRpOzX1JSwwIgqtn%2Fimage.png?alt=media\&token=71b01db5-beca-4df6-ab8a-41110af5ae6d)\
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F2dBxqRpOzX1JSwwIgqtn%2Fimage.png?alt=media\&token=71b01db5-beca-4df6-ab8a-41110af5ae6d)<br>

@@ -77,8 +77,7 @@ This error can occur occasionally and is often caused by:
 
 In most cases, this is a temporary issue, and we recommend waiting a few minutes before trying again.
 
-If the problem persists, please report a bug using the megaphone in Dastra so our teams can investigate the issue.\
-
+If the problem persists, please report a bug using the megaphone in Dastra so our teams can investigate the issue.<br>
 
 ##
 
@@ -93,8 +92,7 @@ This message typically appears when a field is left blank while answering a ques
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165456.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
 
 \
-This message means that HTML code (usually enclosed in angle brackets `< >`) is present in a field where HTML is not allowed (for security reasons).\
-
+This message means that HTML code (usually enclosed in angle brackets `< >`) is present in a field where HTML is not allowed (for security reasons).<br>
 
 \
 The following message makes it easy to identify the affected field:

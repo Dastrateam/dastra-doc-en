@@ -37,8 +37,7 @@ SAP LeanIX (Pathfinder API)
  Dastra (Assets)
 ```
 
-During the import process, selected fields from LeanIX Fact Sheets are **directly mapped** to Dastra Asset properties.\
-
+During the import process, selected fields from LeanIX Fact Sheets are **directly mapped** to Dastra Asset properties.<br>
 
 <figure><img src="../../.gitbook/assets/image Dastra SAP LeanIX (2).png" alt=""><figcaption></figcaption></figure>
 

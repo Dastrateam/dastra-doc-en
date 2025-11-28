@@ -60,7 +60,6 @@ Special Cases of External Users Only accounts that are internal to a subscriptio
 
 3. **Testing the SSO with OpenId**
 
-Once the configuration is complete, you can test the authentication by clicking on the test button at the bottom right. If you encounter any problems during the SSO configuration, do not hesitate to approach support by going to the support ticket [management page](https://app.dastra.eu/general-settings/support).\
-
+Once the configuration is complete, you can test the authentication by clicking on the test button at the bottom right. If you encounter any problems during the SSO configuration, do not hesitate to approach support by going to the support ticket [management page](https://app.dastra.eu/general-settings/support).<br>
 
 <figure><img src="../../../.gitbook/assets/openid3.png" alt=""><figcaption></figcaption></figure>

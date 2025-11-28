@@ -43,8 +43,7 @@ This will take you to a dedicated page where you can :&#x20;
 Select the main element to be retained after merging.
 
 \
-Select the fields of the elements to be deleted that you wish to retrieve from the main element.\
-
+Select the fields of the elements to be deleted that you wish to retrieve from the main element.<br>
 
 <figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
 

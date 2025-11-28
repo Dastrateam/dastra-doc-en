@@ -2,8 +2,7 @@
 
 ## 📌 Objective <a href="#objectif" id="objectif"></a>
 
-By default, all notifications sent by Dastra come from the address no-reply@dastra.eu. Thanks to integration with your external email providers (Office 365 or Gmail), you can configure sending via your own email addresses, allowing you to:\
-
+By default, all notifications sent by Dastra come from the address no-reply@dastra.eu. Thanks to integration with your external email providers (Office 365 or Gmail), you can configure sending via your own email addresses, allowing you to:<br>
 
 * Build trust with your recipients (emails sent with your domain).
 * Centralize your sending and deliverability logs directly in your email infrastructure.

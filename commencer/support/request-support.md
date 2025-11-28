@@ -20,8 +20,7 @@ Choose one of the six possible options, detail your response and click on the â€
 
 
 
-When creating your ticket, you can provide us with prior authorization to conduct tests on your workspace by leaving the\
-
+When creating your ticket, you can provide us with prior authorization to conduct tests on your workspace by leaving the<br>
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;Ã©cran 2025-05-15 101639.png" alt=""><figcaption><p>Pre-authorization test box</p></figcaption></figure>
 

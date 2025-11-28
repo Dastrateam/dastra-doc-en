@@ -7,8 +7,7 @@ description: Learn all about integrating webhooks into Dastra
 ## Concept 👓 <a href="#configuration" id="configuration"></a>
 
 Simply put, webhooks are used to trigger an action in response to an event. They are generally used to communicate between systems. This is the simplest way to receive an alert when something happens in Dastra. The aim is to notify third-party applications (APIs, CRM, serverless functions, etc.) in real time.\
-\
-
+<br>
 
 ## Configuration 🛠️
 
@@ -167,24 +166,24 @@ The webhook will be automatically blocked and considered in error when the thres
 
 Retrieve webhooks linked to your account (in all workspaces)
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="get" %}
+{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="get" %}
 [dastra api.json](<../../.gitbook/assets/dastra api.json>)
-{% endswagger %}
+{% endopenapi %}
 
 Create a new webhook url using the POST endpoint. Fill in the events to which you wish to subscribe your webhook with the subscribedEvents webhooks parameter.
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="post" %}
+{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="post" %}
 [dastra api.json](<../../.gitbook/assets/dastra api.json>)
-{% endswagger %}
+{% endopenapi %}
 
 
 
 A webhook ID will be returned to you
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="get" %}
+{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="get" %}
 [dastra api.json](<../../.gitbook/assets/dastra api.json>)
-{% endswagger %}
+{% endopenapi %}
 
-{% swagger src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="delete" %}
+{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="delete" %}
 [dastra api.json](<../../.gitbook/assets/dastra api.json>)
-{% endswagger %}
+{% endopenapi %}

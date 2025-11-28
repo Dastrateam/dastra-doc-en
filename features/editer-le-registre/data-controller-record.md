@@ -65,8 +65,7 @@ For each processing operation, the record of a controller shall indicate at leas
 
 * Technical and organizational measures implemented to secure each data processing&#x20;
 * For example, data encryption, pseudonymization, access limitation\
-  \
-
+  <br>
 
 
 

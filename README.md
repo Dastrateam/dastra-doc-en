@@ -48,12 +48,12 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 Start discovering Dastra right now, first with features and setup, then the tutorial:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-M31sWVv1XZAKK8InMY8" %}
+[Broken link](/broken/pages/-M31sWVv1XZAKK8InMY8)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-LvaGKB4EL4Jf4xLoJUG" %}
+[Broken link](/broken/pages/-LvaGKB4EL4Jf4xLoJUG)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -65,6 +65,6 @@ Don't hesitate to sign up, it's immediate and without obligation!
 
 ## For more information
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-M31sj-borK9qQfwBXwH" %}
+[Broken link](/broken/pages/-M31sj-borK9qQfwBXwH)
 {% endcontent-ref %}

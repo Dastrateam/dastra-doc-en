@@ -16,8 +16,7 @@ Audio players
 
 ## Method 1: Using the SDK
 
-Our SDK will allow you to block all iframes on the page by displaying a customizable blocking message:\
-
+Our SDK will allow you to block all iframes on the page by displaying a customizable blocking message:<br>
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
