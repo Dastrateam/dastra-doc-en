@@ -1,5 +1,5 @@
 ---
-description: Dastra integrates with Zapier automation platform
+description: Dastra integrates with Zapier automation platform and many other tools
 ---
 
 # Integrations
