@@ -2,7 +2,7 @@
 
 To set up a record of your AI systems, you have two options:
 
-* Either you already have a registry that you can import directly into Dastra (go to the next section: [Import your AI systems](import-you-ai-systems.md))
+* Either you already have a registry that you can import directly into Dastra (go to the next section: [Import your AI systems](import-your-ai-systems.md))
 * Or you don't have one. In this case, you'll have to create one yourself
 
 ## Create a record of AI Systems
@@ -120,7 +120,7 @@ Review a **comprehensive summary** of all information entered for this AI system
 
 [risk-analysis-and-business-value.md](risk-analysis-and-business-value.md "mention")\
 \
-[import-you-ai-systems.md](import-you-ai-systems.md "mention")
+[import-your-ai-systems.md](import-your-ai-systems.md "mention")
 
 [transparency-notice.md](transparency-notice.md "mention")
 

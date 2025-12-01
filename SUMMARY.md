@@ -175,7 +175,7 @@
 * [Custom Reporting](features/custom-reporting/README.md)
   * [Integration with data analysis tools (BI)](features/custom-reporting/bi-tools.md)
 * [AI Systems](features/ai-systems/README.md)
-  * [Import you AI Systems](features/ai-systems/import-you-ai-systems.md)
+  * [Import your AI Systems](features/ai-systems/import-your-ai-systems.md)
   * [Establishing a record of AI systems](features/ai-systems/establishing-a-record-of-ai-systems.md)
   * [Risk analysis and business value](features/ai-systems/risk-analysis-and-business-value.md)
   * [Transparency notice](features/ai-systems/transparency-notice.md)
