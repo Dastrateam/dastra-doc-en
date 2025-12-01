@@ -20,4 +20,9 @@ Please note that to use this Dastra feature, you must have subscribed to it in y
 
 This feature covers all the requirements of the AI Act regulations. It will enable you to draw up a list of all AI systems present within your organization. We've designed it so that every use of personal data with AI is well defined, evaluated, analyzed and documented.
 
-You'll learn how to set up a record of AI systems and create your own repository of AI models.
+You'll learn how to set up a record of AI systems and create your own repository of AI models.\
+\
+More information:\
+\
+[establishing-a-record-of-ai-systems.md](establishing-a-record-of-ai-systems.md "mention")\
+<br>
