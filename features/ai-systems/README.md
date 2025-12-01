@@ -49,11 +49,11 @@ In case you are wondering which AI governance framework applies to your organiza
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 171006.png" alt=""><figcaption><p>Dastra AI Systems record</p></figcaption></figure>
 
-This feature covers all the requirements of the AI Act regulations. It will enable you to draw up a list of all AI systems present within your organization. We've designed it so that every use of personal data with AI is well defined, evaluated, analyzed and documented.
+This feature is the s of all AI regulations such as the EU AI Act. It will enable you to draw up a **list of all AI systems present within your organization**. We've designed it so that every use of  data with AI is well defined, evaluated, analyzed and documented.
 
-You'll learn how to set up a record of AI systems and create your own repository of AI models.\
-\
-More information:\
+In the following links, you'll learn how to set up a record of AI systems and create your own repository of AI models :
+
+[ai-models-repository.md](ai-models-repository.md "mention")\
 \
 [establishing-a-record-of-ai-systems.md](establishing-a-record-of-ai-systems.md "mention")\
 \
@@ -62,8 +62,6 @@ More information:\
 [risk-analysis-and-business-value.md](risk-analysis-and-business-value.md "mention")
 
 [transparency-notice.md](transparency-notice.md "mention")
-
-[ai-models-repository.md](ai-models-repository.md "mention")
 
 \
 <br>
