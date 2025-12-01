@@ -117,3 +117,11 @@ Attach relevant **documents and information leaflets**, such as:
 Review a **comprehensive summary** of all information entered for this AI system before final validation and registration.
 
 ***
+
+[risk-analysis-and-business-value.md](risk-analysis-and-business-value.md "mention")\
+\
+[import-you-ai-systems.md](import-you-ai-systems.md "mention")
+
+[transparency-notice.md](transparency-notice.md "mention")
+
+[ai-models-repository.md](ai-models-repository.md "mention")
