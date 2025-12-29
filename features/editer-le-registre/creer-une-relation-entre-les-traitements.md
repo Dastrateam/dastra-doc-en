@@ -74,4 +74,12 @@ It's possible to add, delete or modify new fields in processing B, but cannot mo
 
 The original processing (A) automatically passes its fields to the target processing (B).&#x20;
 
-The target processing B automatically inherits the fields of the original processing A. The target processing B can add, delete or modify new fields, but cannot modify the fields inherited from processing A. Any changes to the fields in processing A are automatically reflected in the fields inherited from processing B. When the link is revoked, the inherited fields become editable again in processing B. The fields that existed in B before the link was created are kept after the link is created.
+The target processing B automatically inherits the fields of the original processing A. The target processing B can add, delete or modify new fields, but cannot modify the fields inherited from processing A. Any changes to the fields in processing A are automatically reflected in the fields inherited from processing B. When the link is revoked, the inherited fields become editable again in processing B. The fields that existed in B before the link was created are kept after the link is created.\
+\
+\
+\
+<br>
+
+{% hint style="info" %}
+For master/slave and inherited/tutor relationship, all fields are inherited (or transmitted) except those in the 1 "General" tab and the documents associated with the process in the 11 "Documentation" tab.
+{% endhint %}
