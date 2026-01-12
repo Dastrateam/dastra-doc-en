@@ -26,60 +26,122 @@ You can select the type of relationship between processing activities.
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.38.41.png" alt=""><figcaption></figcaption></figure>
 
-## Relationship details
+### Types of relationships
 
-### Is a child of:&#x20;
+There are two types of relationships:
 
-Hierarchical relationship enabling a structured reading. No slavishness between the fields.&#x20;
+1. **Declarative relationships :** Used to establish a simple link between two processes (without functional dependency).
+2. **Functional relationships :** Allow fields to be transferred or inherited from one process to another.
 
-The processing A is hierarchically under the processing B.
 
-### Is parent of:&#x20;
 
-Hierarchical relationship enabling a structured reading. No slavishness between the fields.&#x20;
+### **Declarative relationships** :
 
-Processing A is hierarchically above processing B.&#x20;
+#### Is the child of:
 
-### Is related to:
+Hierarchical relationship allowing structured reading of processes, **without functional dependency** between fields.
 
-Simple logical link between 2 processes, no slavishness between the two nor control rule.&#x20;
+> Treatment A is hierarchically linked to treatment B.
 
-### Has the following duplicated:
+#### Is parent of:
 
-This relationship allows to keep track of the duplicated elements from this processing. A relational link is created automatically when a processing is duplicated.&#x20;
+Hierarchical relationship allowing structured reading of processes, **without functional dependency** between fields.
 
-### Is copied from:
+> Treatment A is hierarchically above treatment B.
 
-This relationship is used to keep track of the source of the duplicate processing. A relational link is created automatically when a processing is duplicated.
+#### Is related to :&#x20;
 
-### Is master of:&#x20;
+Simple logical link between two processes, without functional dependency or interdependence between fields.
 
-The fields of the original processing (A) replace the fields of the target processing (B).&#x20;
+> Treatment A is related to treatment B.
 
-Strict linkage between processing A and processing B. The pre-existing fields of processing B are deleted when the link is set up. The fields in processing B that are slaved to processing A are not modifiable in processing B, and no new fields can be added, deleted or modified. As long as the referential elements are retained, the pre-existing fields in processing B are restored when the link is revoked.
+#### Is copied from :
 
-### Is slave of:
+This relationship allows you to keep track of items duplicated from this process. This relationship is created automatically when a process is duplicated.
 
-The fields of the target processing (B) replace the fields of the original processing (A).&#x20;
+> Treatment A is the source (of duplication) of treatment B.
 
-Strict linkage between processing B and processing A. The pre-existing fields of A are deleted when the link is set up. Fields in A that are slaved to B are not modifiable in A, and no new fields can be added, deleted or modified. As long as the referential elements are preserved, pre-existing fields in B are restored when the link is revoked.
+#### Has the following duplicate :&#x20;
 
-### Inherited from (Soft inheritance):
+This relationship allows you to keep track of the source of the treatment duplication. This relationship is created automatically when a treatment is duplicated.
 
-The target process (B) automatically inherits the fields from the original process (A).&#x20;
+> Treatment A is a duplicate of treatment B.
 
-It's possible to add, delete or modify new fields in processing B, but cannot modify the fields inherited from processing A. Any modification in the fields of processing A is automatically reflected in the fields inherited from processing B. When the link is revoked, the fields inherited from processing A become editable again in processing B. The fields that existed in processing B before the link was set up are kept after the link is created.
+###
 
-### Is tutor of (Soft inheritance):
+### **Functional relationships** :
 
-The original processing (A) automatically passes its fields to the target processing (B).&#x20;
+#### Is master of :
 
-The target processing B automatically inherits the fields of the original processing A. The target processing B can add, delete or modify new fields, but cannot modify the fields inherited from processing A. Any changes to the fields in processing A are automatically reflected in the fields inherited from processing B. When the link is revoked, the inherited fields become editable again in processing B. The fields that existed in B before the link was created are kept after the link is created.\
-\
-\
-\
-<br>
+The fields in target processing A completely replace those in original processing B.
 
-{% hint style="info" %}
-For master/slave and inherited/tutor relationship, all fields are inherited (or transmitted) except those in the 1 "General" tab and the documents associated with the process in the 11 "Documentation" tab.
+{% hint style="warning" %}
+With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
 {% endhint %}
+
+* Strict relationship between A and B.
+* Pre-existing fields in B are deleted when the link is created.
+* Fields inherited from A **cannot be modified or deleted**, and no new fields can be added to B.
+* If the link is deleted, the original fields in B are restored (the repository elements are retained).
+
+
+
+#### Is slave of :
+
+The fields in target treatment B completely replace those in the original treatment A.
+
+{% hint style="warning" %}
+With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
+{% endhint %}
+
+* Strict relationship between B and A.
+* Pre-existing fields in A are deleted when the link is created.
+* Fields inherited from B **cannot be modified or deleted**, and no new fields can be added to A.
+* If the link is deleted, the original fields in B are restored (the repository elements are retained).
+
+####
+
+#### **Is tutor of (soft inheritance) :**
+
+The source process A automatically transmits its fields to the target process B.
+
+{% hint style="warning" %}
+With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
+{% endhint %}
+
+* A transfers its fields to B.
+* The inherited fields cannot be modified in B.
+* B can add, modify, or delete its own fields.
+* Any modification to the fields in A is automatically reflected in B.
+* If the link is deleted, the inherited fields become modifiable again.
+* The pre-existing fields in B are retained.
+
+
+
+#### **Inherited from (soft inheritance) :**
+
+The source process B automatically transmits its fields to the target process A.
+
+{% hint style="warning" %}
+With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
+{% endhint %}
+
+* B inherits the fields from A.
+* The inherited fields cannot be modified in B.
+* B can add, modify, or delete its own fields.
+* Any modification to the fields in A is automatically reflected in B.
+* If the link is deleted, the inherited fields become modifiable again.
+* The pre-existing fields in B are retained.
+
+​
+
+### Summary table of relationships:
+
+| **Type of relationship**                                                           | **Tab 1 – “General”** | **Tabs 2 to 10** (business fields) | **Documentation uploaded in tab 11 – “Documentation”** | **Modifiability of fields specific to the target treatment** |
+| ---------------------------------------------------------------------------------- | --------------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| **Hierarchical/logical relationships** (Parent/Child/Related to/Copied by/Copy of) | No impact             | No impact                          | No impact                                              | No impact                                                    |
+| **Is master of**                                                                   | ❌ Not transmitted     | ✅ Transmitted                      | ❌ Not transmitted                                      | ❌ Unable to add/edit/delete                                  |
+| **Is slave of**                                                                    | ❌ Not inherited       | ✅ Inherited                        | ❌ Not inherited                                        | ❌ Unable to add/edit/delete                                  |
+| **Is tutor of (soft inheritance)**                                                 | ❌ Not transmitted     | ✅ Transmitted                      | ❌ Not transmitted                                      | ✅ Addition/modification/deletion possible                    |
+| **Hérite de (Héritage faible)**                                                    | ❌ Not inherited       | ✅ Inherited                        | ❌ Not inherited                                        | ✅ Addition/modification/deletion possible                    |
+
