@@ -41,31 +41,31 @@ There are two types of relationships:
 
 Hierarchical relationship allowing structured reading of processes, **without functional dependency** between fields.
 
-> Treatment A is hierarchically linked to treatment B.
+> Processing A is hierarchically linked to Processing B.
 
 #### Is parent of:
 
 Hierarchical relationship allowing structured reading of processes, **without functional dependency** between fields.
 
-> Treatment A is hierarchically above treatment B.
+> Processing A is hierarchically above Processing B.
 
 #### Is related to :&#x20;
 
 Simple logical link between two processes, without functional dependency or interdependence between fields.
 
-> Treatment A is related to treatment B.
+> Processing A is related to processing  B.
 
 #### Is copied from :
 
 This relationship allows you to keep track of items duplicated from this process. This relationship is created automatically when a process is duplicated.
 
-> Treatment A is the source (of duplication) of treatment B.
+> Processing A is the source (of duplication) of Processing B.
 
 #### Has the following duplicate :&#x20;
 
-This relationship allows you to keep track of the source of the treatment duplication. This relationship is created automatically when a treatment is duplicated.
+This relationship allows you to keep track of the source of the processing duplication. This relationship is created automatically when a processingt is duplicated.
 
-> Treatment A is a duplicate of treatment B.
+> Processing A is a duplicate of Processing B.
 
 ###
 
