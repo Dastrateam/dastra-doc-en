@@ -97,7 +97,9 @@ With the exception of the fields in tab 1 “General” and the documents associ
 * Strict relationship between B and A.
 * Pre-existing fields in A are deleted when the link is created.
 * Fields inherited from B **cannot be modified or deleted**, and no new fields can be added to A.
-* If the link is deleted, the original fields in B are restored (the repository elements are retained).
+*   If the link is deleted, the original fields in B are restored (the repository elements are retained).<br>
+
+    <div data-gb-custom-block data-tag="hint" data-style="danger" class="hint hint-danger"><p>A process can only be slave of one process at a time.</p></div>
 
 ####
 
@@ -133,7 +135,11 @@ With the exception of the fields in tab 1 “General” and the documents associ
 * If the link is deleted, the inherited fields become modifiable again.
 * The pre-existing fields in B are retained.
 
-​
+{% hint style="danger" %}
+A process can only inherit from one process at a time.
+{% endhint %}
+
+####
 
 ### Summary table of relationships:
 
