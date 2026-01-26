@@ -10,9 +10,9 @@ This feature is still in beta. It may still have some instabilities.
 
 ## When to use custom fields?
 
-There may be some information specific to your industry that is not present in the native fields of the treatment register, such as rights exercises, tasks, etc.&#x20;
+Some specific industry information may not be included in the default fields of the ROPA, like DSR and tasks.
 
-Dastra will allow you to create custom form fields that you can easily add to enrich the data entered.&#x20;
+With Dastra, you can create custom form fields to easily enhance the inputted data.
 
 ## Functionalities concerned
 
@@ -34,9 +34,9 @@ You can customize the following forms:&#x20;
 * [Risk assessments](../risk-management/attach-a-risk-to-a-processing-activity.md)
 
 {% hint style="warning" %}
-**Limitations on the number of fields**
+**Limitations on the number of custom fields**
 
-The amount of custom fields is limited depending on the plan you use. We invite you to consult the [application's pricing page](https://www.dastra.eu/en/pricing) for more information on this subject.
+The number of custom fields is limited depending on your chosen plan. Please visit the application's pricing page for more information.
 {% endhint %}
 
 ## Available field types
@@ -53,7 +53,7 @@ Dastra offers several types of custom fields:&#x20;
 * Check box (multiple response) (**unfilterable**)&#x20;
 * Check box (single response)&#x20;
 * Single selector&#x20;
-* Multiple selector&#x20;
+* Multiple selector (**unfilterable**)&#x20;
 * Check box (Yes/No)
 
 ## Using custom fields
@@ -96,9 +96,9 @@ Fill in all the information! Click on save and that's it!&#x20;
 
 ## Handling custom fields in APIs
 
-Dastra allows you to retrieve, modify and create via the Rest API all entity values that include custom fields.&#x20;
+### Dastra API Guide
 
-A "customFields" property will be available in all entities you retrieve in get in Dastra.c:
+Dastra allows you to retrieve, modify, and create entity values, including custom fields, via the REST API. A "customFields" property is available in all entities you retrieve using the GET method in Dastra.
 
 ```json
  {
@@ -115,16 +115,12 @@ A "customFields" property will be available in all entities you retrieve in get 
  }s
 ```
 
-To modify this property, you just have to post (POST) or modify (PUT) the element by updating the elements of the collection.
-
-To collect the name of the custom variables, you must go to the custom fields configuration page.
+To modify this property, you need to post (POST) or update (PUT) the element by modifying the elements of the collection. To gather the names of the custom variables, go to the custom fields configuration page.
 
 {% hint style="info" %}
-Attention, all custom fields will be validated by the server. If a colonen is not present in the configuration, it will be automatically deleted.&#x20;
-
-If a field is not valid (for example, if it's not filled in even though it's marked as mandatory), it will raise an exception with the code 400
+**Attention:** All custom fields will be validated by the server. If a column is not present in the configuration, it will be automatically deleted. If a field is not valid (for example, if it's not filled in even though it's marked as mandatory), an exception with the code 400 will be raised.
 {% endhint %}
 
 ## Limitations
 
-You cannot **filter custom fields of the multiple type (checkbox (Multiple) and selector (Multiple))**. This is a known limitation that we are working on.
+You cannot **filter custom fields of the multiple types (checkbox (Multiple) and selector (Multiple))**. This is a known limitation that we are working on.
