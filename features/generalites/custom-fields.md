@@ -118,7 +118,7 @@ Dastra allows you to retrieve, modify, and create entity values, including custo
 To modify this property, you need to post (POST) or update (PUT) the element by modifying the elements of the collection. To gather the names of the custom variables, go to the custom fields configuration page.
 
 {% hint style="info" %}
-**Attention:** All custom fields will be validated by the server. If a column is not present in the configuration, it will be automatically deleted. If a field is not valid (for example, if it's not filled in even though it's marked as mandatory), an exception with the code 400 will be raised.
+**Attention:** All custom fields will be validated by the server. If a colonen is not present in the configuration, it will be automatically deleted. If a field is not valid (for example, if it's not filled in even though it's marked as mandatory), an exception with the code 400 will be raised.
 {% endhint %}
 
 ## Limitations
