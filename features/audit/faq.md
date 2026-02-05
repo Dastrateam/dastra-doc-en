@@ -1,4 +1,4 @@
-# Q\&A
+# FAQ
 
 ## Can I do a DPIA on multiple processing operations?
 
@@ -56,4 +56,17 @@ To solve this problem, modify the “Variable's name” of each question with th
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170853.png" alt=""><figcaption></figcaption></figure>
 
-When the questionnaire no longer contains any duplicated “Variable's name”, it can be saved normally.
+When the questionnaire no longer contains any duplicated “Variable's name”, it can be saved normally.\
+\
+<br>
+
+### What to do when you get the error message “Blocked because of too many mails sent" ? <a href="#slug-error" id="slug-error"></a>
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-05 093157.png" alt=""><figcaption></figcaption></figure>
+
+\
+This message appears if 5 email invitations have already been sent to a respondent from the same questionnaire.
+
+When this message appears, you can still invite the respondent by sending them the questionnaire invitation link available here :
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-05 092814.png" alt=""><figcaption></figcaption></figure>

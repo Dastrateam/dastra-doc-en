@@ -73,7 +73,7 @@ Optional:&#x20;
 
 Here is a sample file for you to download and fill in:
 
-{% file src="../../.gitbook/assets/Template_import_users.csv" %}
+{% file src="../../.gitbook/assets/sample-admin-users_import.csv" %}
 Import file template
 {% endfile %}
 
