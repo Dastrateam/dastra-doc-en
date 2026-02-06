@@ -32,6 +32,9 @@ You can customize the following forms:&#x20;
 * Data fields&#x20;
 * [Incidents](../notifier-les-violations-de-donnees/)
 * [Risk assessments](../risk-management/attach-a-risk-to-a-processing-activity.md)
+* [AI Systems](../ai-systems/)
+* [Contrats and policies](../contrats/)
+* [Controls points](../risk-management/risk-management-process/4.-control.md)
 
 {% hint style="warning" %}
 **Limitations on the number of custom fields**
