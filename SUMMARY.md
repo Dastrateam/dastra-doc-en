@@ -200,7 +200,7 @@
   * [SMTP configuration](features/settings/configuration-du-smtp/README.md)
     * [Integration of external providers (Office 365 / Gmail)](features/settings/configuration-du-smtp/integration-of-external-providers-office-365-gmail.md)
   * [Workflow rules](features/settings/workflow-rules.md)
-  * [Message templates](features/settings/message-templates.md)
+  * [Message templates](features/settings/modeles-de-messages.md)
   * [Email domains](features/settings/domaines-emails.md)
 
 ## PARTNERS
