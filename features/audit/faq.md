@@ -56,11 +56,9 @@ To solve this problem, modify the “Variable's name” of each question with th
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170853.png" alt=""><figcaption></figcaption></figure>
 
-When the questionnaire no longer contains any duplicated “Variable's name”, it can be saved normally.\
-\
-<br>
+When the questionnaire no longer contains any duplicated “Variable's name”, it can be saved normally.<br>
 
-### What to do when you get the error message “Blocked because of too many mails sent" ? <a href="#slug-error" id="slug-error"></a>
+### What to do when you get the error message “Blocked because of too many mails sent" ? <a href="#what-to-do-when-you-get-the-error-message-blocked-because-of-too-many-mails-sent" id="what-to-do-when-you-get-the-error-message-blocked-because-of-too-many-mails-sent"></a>
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-05 093157.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,3 +68,11 @@ This message appears if 5 email invitations have already been sent to a responde
 When this message appears, you can still invite the respondent by sending them the questionnaire invitation link available here :
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-05 092814.png" alt=""><figcaption></figcaption></figure>
+
+### What should I do when I cannot “Review and validate the questionnaire” even though I am an owner of the questionnaire?
+
+This can happen when the respondent has not yet finalized their questionnaire by clicking on the “Finalize” button after completing it.
+
+In this case, as an owner, you can check the status of the questionnaire from the respondent's side using the respondent access link available here :
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-24 164715.png" alt=""><figcaption></figcaption></figure>

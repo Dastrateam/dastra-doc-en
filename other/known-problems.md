@@ -23,7 +23,7 @@ Selecting this option will cause you to lose your column settings in all Dastra 
 
 These two actions did not solve your problem? Contact the support directly from the application, via chat or the "megaphone" tab.
 
-##
+
 
 ## 401 error during connection
 
@@ -41,7 +41,7 @@ Preview of the page:
 2. **Use this address to access Dastra: https://app.dastra.eu** . You can save it to your favorites. This problem may occur when you try to access Dastra through urls with the domain account.dastra.eu (often automatically saved in your browser's url suggestions)
 3. **Clean up your browser's site data and cookies**
 
-##
+
 
 ## Error 403: Access Denied
 
@@ -53,7 +53,7 @@ The error message "Error 403: Access Denied" indicates that you are trying to ac
 
 **Contact a Workspace Administrator**: If in doubt, contact a workspace administrator to verify or update your access rights.
 
-##
+
 
 ## Error 404: Element Not Found
 
@@ -64,7 +64,7 @@ The error message "Error 404: Element Not Found" indicates that you are trying t
 * **Check the URL**
 * **Search for the element using a search engine**
 
-##
+
 
 ## Error 500
 
@@ -79,30 +79,6 @@ In most cases, this is a temporary issue, and we recommend waiting a few minutes
 
 If the problem persists, please report a bug using the megaphone in Dastra so our teams can investigate the issue.<br>
 
+
+
 ##
-
-## Error Message: "Label field is required."&#x20;
-
-This message typically appears when a field is left blank while answering a questionnaire.
-
-
-
-## Error message : "Prohibited HTML content is present in a field !"
-
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165456.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
-
-\
-This message means that HTML code (usually enclosed in angle brackets `< >`) is present in a field where HTML is not allowed (for security reasons).<br>
-
-\
-The following message makes it easy to identify the affected field:
-
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165525.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
-
-
-
-## Error message: "The user ID does not exist in your organization." when recording a data processing.
-
-This message means that a user who has been removed from your workspace is still set as an Accountable in the stakeholders of the data processing.
-
-The deleted user must be removed from the stakeholders of the data processing to resolve this issue.

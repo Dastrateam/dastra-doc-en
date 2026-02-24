@@ -42,10 +42,28 @@ You can change the type of processing by clicking on “Switch to processor reco
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-16 123010.png" alt=""><figcaption></figcaption></figure>
 
+## Error Message: "Label field is required."&#x20;
+
+This message typically appears when a field is left blank while answering a questionnaire.
 
 
 
+## Error message : "Prohibited HTML content is present in a field !"
 
-{% hint style="info" %}
-If you can't find the answer in this guide, you can contact us via the support
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165456.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
+
+\
+This message means that HTML code (usually enclosed in angle brackets `< >`) is present in a field where HTML is not allowed (for security reasons).<br>
+
+\
+The following message makes it easy to identify the affected field:
+
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165525.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
+
+
+
+## Error message: "The user ID does not exist in your organization." when recording a data processing.
+
+This message means that a user who has been removed from your workspace is still set as an Accountable in the stakeholders of the data processing.
+
+The deleted user must be removed from the stakeholders of the data processing to resolve this issue.
