@@ -24,8 +24,6 @@ Next, you will need to select a relationship type.
 
 You can select the type of relationship between processing activities.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.38.41.png" alt=""><figcaption></figcaption></figure>
-
 ### Types of relationships
 
 There are two types of relationships:
@@ -67,87 +65,109 @@ This relationship allows you to keep track of the source of the processing dupli
 
 > Processing A is a duplicate of Processing B.
 
-###
-
 ### **Functional relationships** :
 
-#### Is master of :
+Functional relationships allow fields to be transferred or inherited from one processing to another.
 
-The fields in target processing A completely replace those in original processing B.
+**Is source of (strict inheritance)**
+
+{% hint style="warning" %}
+The source processing **A** transmits all its fields to the dependent processing **B**, except for the fields in tab 1 **“General”** and the documents associated with the processing in tab 11 **“Documentation.”**
+{% endhint %}
+
+This creates a strict relationship between **A (source)** and **B (dependent)**.
+
+When the relationship is created:
+
+* Pre-existing fields in **B** are deleted.
+* Fields inherited from **A** cannot be modified or deleted in **B**.
+* No new fields can be added in **B**.
+
+Any modification made in **A** is automatically reflected in **B**.
+
+If the relationship is removed:
+
+* The inherited fields become editable again.
+* The original fields in **B** are restored (repository elements are retained).
+
+***
+
+**Is dependent on (strict inheritance)**
+
+Processing **A** depends on processing **B** and inherits its fields.
+
+{% hint style="warning" %}
+All fields from **B** replace those in **A**, except for the fields in tab 1 **“General”** and the documents associated with the processing in tab 11 **“Documentation.”**
+{% endhint %}
+
+This creates a strict relationship between **B (source)** and **A (dependent)**.
+
+When the relationship is created:
+
+* Pre-existing fields in **A** are deleted.
+* Fields inherited from **B** cannot be modified or deleted in **A**.
+* No new fields can be added in **A**.
+
+Any modification made in **B** is automatically reflected in **A**.
+
+If the relationship is removed:
+
+* The inherited fields become editable again.
+* The original fields in **A** are restored (repository elements are retained).
+
+{% hint style="info" %}
+A processing can only be **dependent on one source processing at a time**.
+{% endhint %}
+
+#### **Is source of (soft inheritance) :**
+
+The source processing **A** automatically transmits its fields to the dependent processing **B**, except for the fields in tab 1 **“General”** and the documents associated with the processing in tab 11 **“Documentation.”**
 
 {% hint style="warning" %}
 With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
 {% endhint %}
 
-* Strict relationship between A and B.
-* Pre-existing fields in B are deleted when the link is created.
-* Fields inherited from A **cannot be modified or deleted**, and no new fields can be added to B.
-* If the link is deleted, the original fields in B are restored (the repository elements are retained).
+This creates a soft inheritance relationship between **A (source)** and **B (dependent)**.
 
+* Fields inherited from **A** cannot be modified in **B**.
+* **B** can add, modify, or delete its own fields.
+* Any modification made in **A** is automatically reflected in **B**.
 
+If the relationship is removed:
 
-#### Is slave of :
+* The inherited fields become editable again.
+* The pre-existing fields in **B** are retained.
 
-The fields in target treatment B completely replace those in the original treatment A.
+#### Is dependent on (soft inheritance)
 
-{% hint style="warning" %}
-With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
-{% endhint %}
-
-* Strict relationship between B and A.
-* Pre-existing fields in A are deleted when the link is created.
-* Fields inherited from B **cannot be modified or deleted**, and no new fields can be added to A.
-*   If the link is deleted, the original fields in B are restored (the repository elements are retained).<br>
-
-    <div data-gb-custom-block data-tag="hint" data-style="danger" class="hint hint-danger"><p>A process can only be slave of one process at a time.</p></div>
-
-####
-
-#### **Is tutor of (soft inheritance) :**
-
-The source process A automatically transmits its fields to the target process B.
+Processing **A** depends on processing **B** and inherits its fields, except for the fields in tab 1 **“General”** and the documents associated with the processing in tab 11 **“Documentation.”**
 
 {% hint style="warning" %}
 With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
 {% endhint %}
 
-* A transfers its fields to B.
-* The inherited fields cannot be modified in B.
-* B can add, modify, or delete its own fields.
-* Any modification to the fields in A is automatically reflected in B.
-* If the link is deleted, the inherited fields become modifiable again.
-* The pre-existing fields in B are retained.
+This creates a soft inheritance relationship between **B (source)** and **A (dependent)**.
 
+* Fields inherited from **B** cannot be modified in **A**.
+* **A** can add, modify, or delete its own fields.
+* Any modification made in **B** is automatically reflected in **A**.
 
+If the relationship is removed:
 
-#### **Inherited from (soft inheritance) :**
+* The inherited fields become editable again.
+* The pre-existing fields in **A** are retained.
 
-The source process B automatically transmits its fields to the target process A.
-
-{% hint style="warning" %}
-With the exception of the fields in tab 1 “General” and the documents associated with processing in tab 11 “Documentation.”
+{% hint style="info" %}
+A processing can only be **dependent on one source processing at a time**.
 {% endhint %}
-
-* B inherits the fields from A.
-* The inherited fields cannot be modified in B.
-* B can add, modify, or delete its own fields.
-* Any modification to the fields in A is automatically reflected in B.
-* If the link is deleted, the inherited fields become modifiable again.
-* The pre-existing fields in B are retained.
-
-{% hint style="danger" %}
-A process can only inherit from one process at a time.
-{% endhint %}
-
-####
 
 ### Summary table of relationships:
 
-| **Type of relationship**                                                           | **Tab 1 – “General”** | **Tabs 2 to 10** (business fields) | **Documentation uploaded in tab 11 – “Documentation”** | **Modifiability of fields specific to the target treatment** |
-| ---------------------------------------------------------------------------------- | --------------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| **Hierarchical/logical relationships** (Parent/Child/Related to/Copied by/Copy of) | No impact             | No impact                          | No impact                                              | No impact                                                    |
-| **Is master of**                                                                   | ❌ Not transmitted     | ✅ Transmitted                      | ❌ Not transmitted                                      | ❌ Unable to add/edit/delete                                  |
-| **Is slave of**                                                                    | ❌ Not inherited       | ✅ Inherited                        | ❌ Not inherited                                        | ❌ Unable to add/edit/delete                                  |
-| **Is tutor of (soft inheritance)**                                                 | ❌ Not transmitted     | ✅ Transmitted                      | ❌ Not transmitted                                      | ✅ Addition/modification/deletion possible                    |
-| **Inherited from (soft inheritance)**                                              | ❌ Not inherited       | ✅ Inherited                        | ❌ Not inherited                                        | ✅ Addition/modification/deletion possible                    |
+| Type of relationship                                                                   | Tab 1 – “General” | Tabs 2 to 10 (business fields) | Documentation uploaded in tab 11 “Documentation” | Modifiability of fields specific to the target processing |
+| -------------------------------------------------------------------------------------- | ----------------- | ------------------------------ | ------------------------------------------------ | --------------------------------------------------------- |
+| Hierarchical / logical relationships (Parent/Child / Related to / Copied by / Copy of) | No impact         | No impact                      | No impact                                        | No impact                                                 |
+| **Is source of (strict inheritance)**                                                  | ❌ Not transmitted | ✅ Transmitted                  | ❌ Not transmitted                                | ❌ Unable to add/edit/delete                               |
+| **Is dependent on (strict inheritance)**                                               | ❌ Not inherited   | ✅ Inherited                    | ❌ Not inherited                                  | ❌ Unable to add/edit/delete                               |
+| **Is source of (soft inheritance)**                                                    | ❌ Not transmitted | ✅ Transmitted                  | ❌ Not transmitted                                | ✅ Addition / modification / deletion possible             |
+| **Is dependent on (soft inheritance)**                                                 | ❌ Not inherited   | ✅ Inherited                    | ❌ Not inherited                                  | ✅ Addition / modification / deletion possible             |
 
