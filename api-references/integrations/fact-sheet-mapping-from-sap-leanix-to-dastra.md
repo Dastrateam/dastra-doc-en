@@ -1,5 +1,5 @@
 ---
-description: '(Planned release: Q1 2026)'
+description: '(Planned release: 2026)'
 ---
 
 # Fact Sheet Mapping from SAP LeanIX to Dastra
