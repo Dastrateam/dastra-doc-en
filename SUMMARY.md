@@ -178,6 +178,7 @@
   * [Import your AI Systems](features/ai-systems/import-your-ai-systems.md)
   * [Establishing a record of AI systems](features/ai-systems/establishing-a-record-of-ai-systems.md)
   * [Risk analysis and business value](features/ai-systems/risk-analysis-and-business-value.md)
+  * [Fundamental Rights Impact Assessment for High-Risk AI Systems](features/ai-systems/fundamental-rights-impact-assessment-for-high-risk-ai-systems.md)
   * [Transparency notice](features/ai-systems/transparency-notice.md)
   * [AI Models repository](features/ai-systems/ai-models-repository.md)
 * [Advanced configuration](features/settings/README.md)
