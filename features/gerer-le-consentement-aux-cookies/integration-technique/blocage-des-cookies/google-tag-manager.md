@@ -30,7 +30,7 @@ In this example, we will trigger the Google Optimize tag when the user gives the
 In your GTM container, create an event trigger on the dataLayer named “dastra:consent:google-optimize.”\
 The Google Optimize tag will then only trigger on this event. Here is what it looks like in the GTM interface:
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Specific case of “blocking triggers”
 

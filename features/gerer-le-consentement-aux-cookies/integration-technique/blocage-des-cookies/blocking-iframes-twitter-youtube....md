@@ -18,7 +18,7 @@ Audio players
 
 Our SDK will allow you to block all iframes on the page by displaying a customizable blocking message:<br>
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on “I accept,” consent to the specific service will be automatically dispatched. The system also allows you to capture a refusal of cookies in the Dastra CMP.\
 A simple example with YouTube video player iframes:

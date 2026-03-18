@@ -219,6 +219,7 @@
   * [Integrating Dastra with External Tools](api-references/integrations/integrating-dastra-with-external-tools-1.md)
   * [Frequently asked questions](api-references/integrations/frequently-asked-questions.md)
   * [Filerskeepers](api-references/integrations/filerskeepers.md)
+  * [ServiceNow](api-references/integrations/servicenow.md)
 
 ## 🛡️ Security
 

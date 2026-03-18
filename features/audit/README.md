@@ -28,4 +28,4 @@ In Dastra, DPIAs are considered as a specific audit model.
 
 To access the “Audit” function, click on the “Audit” function on the left of the screen.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
