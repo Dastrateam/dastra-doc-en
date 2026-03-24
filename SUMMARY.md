@@ -233,6 +233,7 @@
 ## 🤖 Other
 
 * [Q\&A](other/faq.md)
+* [Accessibility](other/accessibility.md)
 * [DPIA Guidance - country by country](other/dpia-guidance-country-by-country.md)
 * [Known problems](other/known-problems.md)
 * [Changelog](https://www.dastra.eu/en/category/release/10)
