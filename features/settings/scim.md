@@ -80,5 +80,93 @@ You should see your AD user accounts automatically synchronized in Dastra. If th
 
 If SSO is enabled and forced for all users, they will be automatically redirected to your identity provider's login form (Azure AD, Google Workspace, Okta...).
 
+### SCIM Synchronization Behavior and Limitations
 
+#### User Lifecycle Management
+
+**User Disabled in Entra ID**
+
+When a user is disabled in Entra ID:
+
+* Their profile is **anonymized in Dastra**
+* If the user is later re-enabled:
+  * A **new user account is created**
+  * The previous anonymized account is not restored
+
+***
+
+**Full Deletion in Entra ID**
+
+When a user is permanently deleted from Entra ID:
+
+* Their profile is **fully anonymized in Dastra**
+* All past actions are **preserved**
+* The user appears as **"deleted user"**
+
+**Impact on related data:**
+
+* Linked objects (e.g. processing activities, risks, requests, etc.) are **not deleted**
+* Relationships (e.g. owner, assignee) are **preserved**
+* Only the user’s identity is anonymized
+
+***
+
+#### Group (Team) Management
+
+**Group Removal in Entra ID**
+
+If a group is removed in Entra ID:
+
+* The corresponding **team is deleted in Dastra**
+* **User accounts remain active**
+* No impact on individual users
+
+***
+
+#### Mapping and Synchronization Scope
+
+**Groups and Workspaces**
+
+* SCIM supports synchronization of **multiple groups**
+* Current limitation:
+  * Only **one workspace per organization** can be synchronized
+  * Multi-workspace synchronization is **not supported**
+
+***
+
+**Supported Attributes**
+
+Currently, Dastra synchronizes:
+
+* Group **name (`displayName`)**
+
+Not supported at this stage:
+
+* Mapping to **organizational units**
+* Synchronization of attributes such as:
+  * organization
+  * country
+
+> This could be supported in the future via a specific attribute containing a reference identifier compatible with Dastra.
+
+***
+
+#### Local Management in Dastra
+
+After SCIM synchronization:
+
+* Administrators can still:
+  * **modify roles**
+  * **adjust permissions**
+* Fine-grained access control remains **manageable locally in Dastra**
+
+***
+
+#### Licensing Impact
+
+* SCIM synchronization is limited by:
+  * the **number of users included in your subscription**
+* If the quota is exceeded:
+  * The SCIM server returns an **error**
+  * Additional users are **not provisioned**
 
