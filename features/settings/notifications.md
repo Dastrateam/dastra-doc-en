@@ -4,71 +4,119 @@ description: Learn how to manage notifications in Dastra.
 
 # Notifications
 
-## Introduction
+#### 🧭 Overview
 
-In Dastra, there are two types of notifications:
+In Dastra, notifications help you stay informed about important activities related to your processing records, audits, tasks, or data subject requests.
 
-## Notifications from the Dastra notification center
+There are two types of notifications:
 
-They are accessible via the bell icon ![](<../../.gitbook/assets/image (7) (2).png>) at the top right of the screen and are not customizable:<br>
+* The notification center — built directly into the application
+* Email notifications — customizable based on your preferences
 
-<figure><img src="../../.gitbook/assets/image (330).png" alt=""><figcaption><p>Notification Center</p></figcaption></figure>
+***
 
-## Dastra notifications that you receive in your email inbox
+#### 🔔 Notification Center (in-app)
 
-It is possible to customize the notifications you receive from the application in your email inbox based on their category or nature.
+The notification center groups alerts accessible via the bell icon in the top-right corner of your screen.
 
-To do this, click on your profile at the top right of the application, then select the "Notification Center" button. This will take you to the notification management page of your user profile.
+* Accessible to all workspace users
+* Not individually customizable (shared across the entire workspace)
+* Contains general notifications about recent activity: creation, modification, or deletion of items
 
-{% hint style="info" %}
-Notification management is personal to each user.
-{% endhint %}
+> 💡 Example: "A new processing activity has been created in your workspace."
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-03 102159.png" alt=""><figcaption><p>"Notification Center" button</p></figcaption></figure>
+***
 
-Once in the center, you have the option to enable or disable the notifications you receive.
+#### ✉️ Email Notifications (customizable)
 
-The different categories of notifications available are as follows:
+Each user can choose which notifications to receive by email from their user profile.
 
-* Push Notifications
-* Marketing
-* Activities on Data Processing
-* Activities on Data Subject Rights Requests
-* Activities on Data Breaches
-* Activities on Tasks
-* Activities on Cookie Consent
-* Activities on Comments
-* Activities on Audits
-* Activities on Audit Templates
-* Activities on Analysis Reports
+**🔧 How to customize your notifications**
 
-For each functionality, you will have the option to choose whether to keep different types of notifications enabled or not :
+1. Click on your **avatar** in the top-right corner of Dastra
+2. Select **Notification Center**
+3. Enable or disable categories as needed
+4. Save your preferences
 
-## For example, in the case of processing activity:
+> ✅ Email notifications are ideal for staying on top of actions requiring a quick response (audits, requests, data breaches, etc.)
 
-* Modification of a processing activity
-* Change of status of a processing activity
-* Deletion of a relationship to a processing activity
+***
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-03 103329.png" alt=""><figcaption></figcaption></figure>
+#### 🔐 Prerequisite: the "Notification" permission in roles
 
-## Regarding questionnaires:
+Email notification customization only works if the user's **role** allows it.
 
-* Questionnaire response rejected
-* Questionnaire response validated
-* Invitation to respond to a questionnaire
-* Questionnaire annotation added
+In the role configuration (**Settings → Roles**), each module has a **Notification** checkbox. If this box is not checked, users with that role will not receive any email notifications for that module — regardless of their personal preferences.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-03 103749.png" alt=""><figcaption></figcaption></figure>
+> ℹ️ The role opens or closes the right to receive notifications. Users can then fine-tune their preferences — but only within the limits set by their role.
 
-## Notifications outside the scope of the management center
+| Level        | What can be configured                                   |
+| ------------ | -------------------------------------------------------- |
+| Role         | Enable or disable the right to receive notifications     |
+| User profile | Disable specific notifications (if the role allows them) |
 
-In the case of questionnaires, certain types of notifications are outside the scope of the notification management center.
+***
 
-When you schedule a questionnaire and select "send invitations immediately," the questionnaire invitation email will be received even if you have deselected the "Questionnaires : response invitation creation" notification.
+#### 📚 Notification Categories
 
-This happens because the questionnaire is e**xplicitly submitted to you**, which **does not fall within the considerations of the notification management center.**
+Email notifications are organized by category. Each category contains several sub-types of events that can be individually enabled.
 
-The same type of exception applies to "invite users to complete the data processing" a feature found in your data processing records that allows you to **send a customizable invitation to a user**, asking them to **complete a specific step of the data processing record.**
+| Category                    | Example notification                             | Customizable? |
+| --------------------------- | ------------------------------------------------ | ------------- |
+| Processing activities       | A processing record has been modified or deleted | ✅             |
+| Data Subject Requests (DSR) | A new request has been assigned to you           | ✅             |
+| Data breaches               | A breach has been reported or closed             | ✅             |
+| Tasks                       | You have been assigned to a task                 | ✅             |
+| Audits                      | A response has been validated or rejected        | ✅             |
+| Audit templates             | A template has been updated                      | ✅             |
+| Comments                    | Someone has mentioned you (@)                    | ✅             |
+| Consent / cookies           | A change has been made to the cookie banner      | ✅             |
+| Reports / analytics         | A new report is available                        | ✅             |
+| Marketing / Push            | Product updates or Dastra news                   | ✅             |
 
-This exception also applies if a user assigns a task to you or mentions you directly in a discussion (using the @ symbol).<br>
+***
+
+#### ⚠️ Automatic Notifications
+
+Some notifications are considered **systemic**: they are sent automatically, even if you have disabled the corresponding category.
+
+These notifications are deemed essential for collaboration:
+
+* Invitation to an audit
+* Assignment to a task or a request
+* Direct mention in a comment (@your-name)
+* Invitation to complete a processing record
+* Immediate sending of a scheduled invitation (if the option is enabled)
+
+***
+
+#### 💬 Best Practices
+
+> ✅ **Tips:**
+>
+> * Enable email notifications for activities requiring action on your part (audits, DSRs, data breaches).
+> * Check the bell icon regularly for an overall view of workspace activity.
+> * Check your "Notifications" folder in your inbox if you think you are no longer receiving certain messages.
+> * **For a DPO:** enable all categories.
+> * **For a contributor:** focus on tasks, comments, and audits.
+
+***
+
+#### ❓ FAQ
+
+**I am no longer receiving notifications — what should I do?**
+
+Check your preferences in your user profile → **Notification Center**. Also make sure that emails from Dastra are not being redirected to your "Promotions" or "Spam" folder.
+
+> ⚠️ Note: you do not receive notifications for items that you yourself have created or modified.
+
+**Can I receive a monthly summary?**
+
+You can receive a monthly summary of your workspace activity. Click on the notification preference: **Subscribe to monthly report**.
+
+***
+
+#### 🔗 See Also
+
+* [Set up roles and permissions](roles-et-permissions.md)
+* [Track your audits](../privacy-hubs/configuration/questionnaires.md)
