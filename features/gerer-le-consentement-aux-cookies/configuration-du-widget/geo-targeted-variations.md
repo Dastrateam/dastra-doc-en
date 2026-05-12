@@ -20,6 +20,8 @@ From the **Cookies** module, select your widget, then go to the **Variations** t
 
 Click **"Create a geo-targeted variation"**.
 
+<figure><img src="../../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+
 #### 2. Name the variation
 
 Enter a descriptive **label** (up to 80 characters). Choose a clear name to make management easier, for example: `Banner – California (CCPA)` or `Banner – EEA Zone`.
