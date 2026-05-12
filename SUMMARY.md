@@ -154,6 +154,7 @@
     * [The purposes of cookies](features/gerer-le-consentement-aux-cookies/configuration-du-widget/the-purposes-of-cookies.md)
     * [Implement a cookie consent widget](features/gerer-le-consentement-aux-cookies/configuration-du-widget/implementez-un-widget-de-consentement-aux-cookies.md)
     * [Collect proof of cookie consent](features/gerer-le-consentement-aux-cookies/configuration-du-widget/collectez-les-preuves-de-consentement-cookies.md)
+    * [Geo-targeted variations](features/gerer-le-consentement-aux-cookies/configuration-du-widget/geo-targeted-variations.md)
     * [Go further on cookie consent](features/gerer-le-consentement-aux-cookies/configuration-du-widget/allez-plus-loin-sur-le-consentement-des-cookies.md)
     * [In case of unavailability](features/gerer-le-consentement-aux-cookies/configuration-du-widget/in-case-of-unavailability.md)
   * [Technical integration](features/gerer-le-consentement-aux-cookies/integration-technique/README.md)
