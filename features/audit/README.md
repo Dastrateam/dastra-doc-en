@@ -1,31 +1,45 @@
 ---
-description: Learn how to perform audits and DPIAs with Dastra.
+description: Learn how to perform questionnaires and DPIAs with Dastra.
 ---
 
-# Audits and DPIA
+# Questionnaires
 
-## Introduction <a href="#introduction" id="introduction"></a>
+Dastra's questionnaire module enables you to collect all the information you need to manage your compliance: DPIAs, subcontractor questionnaires, compliance questionnaires, transfer impact assessments, and more.
 
-As an organization, you need to carry out Data Protection Impact Assessments (DPIA) and ensure that your data processing operations are compliant. Dastra's audit module enables you to collect all the information you need to manage your compliance: DPIAs, subcontractor audits, compliance audits, security audits, etc.
+To access the module, click on the **"Questionnaires"** icon on the left of the screen. The module is organised into three tabs: **Questionnaire templates**, **View questionnaires**, and **My responses**.
 
-With the Dastra Audit module, you can :
+## Create a template
 
-* Create audit questionnaires, including DPIAs
-* Link your audits to assets, processes, actors, measures, violations, claims and risks.
-* Automatically notify participants
-* Respond to the audit with a simple, intuitive interface
-* Track audit validation
-* Evaluate risks
-* Generate an action plan
+{% content-ref url="create-or-modify-an-audit-template-or-dpia.md" %}
+[create-or-modify-an-audit-template-or-dpia.md](create-or-modify-an-audit-template-or-dpia.md)
+{% endcontent-ref %}
 
-{% hint style="info" %}
-In Dastra, DPIAs are considered as a specific audit model.
-{% endhint %}
+## Schedule a questionnaire
 
+{% content-ref url="scheduling-an-audit-or-a-pia.md" %}
+[scheduling-an-audit-or-a-pia.md](scheduling-an-audit-or-a-pia.md)
+{% endcontent-ref %}
 
+## Monitor questionnaires
 
-## How do I access Dastra's “Audit” function?
+{% content-ref url="monitor-questionnaires.md" %}
+[monitor-questionnaires.md](monitor-questionnaires.md)
+{% endcontent-ref %}
 
-To access the “Audit” function, click on the “Audit” function on the left of the screen.
+## Export a report
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="export-questionnaire-report.md" %}
+[export-questionnaire-report.md](export-questionnaire-report.md)
+{% endcontent-ref %}
+
+## Questionnaire types
+
+{% content-ref url="questionnaire-types/" %}
+[questionnaire-types](questionnaire-types/)
+{% endcontent-ref %}
+
+## FAQ
+
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}

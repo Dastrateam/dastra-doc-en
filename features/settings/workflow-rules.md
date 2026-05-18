@@ -90,16 +90,3 @@ To display only the 1st value of an array variable: (1st accountable)
 {{accountable.displayName}}
 ```
 
-### Workflow Rule Templates Library
-
-Dastra now includes a **workflow rule templates library**. You can save any existing rule as a template, find it in the library, and reuse it as much as you like (processing records, assets, AI systems, data breaches…).
-
-This feature allows for the harmonization of automation rules across the organization, without manually reconfiguring identical workflows on each object.
-
-To save a template, open an existing workflow rule and click **"Save as template"**. The template will be available in the library for reuse on any compatible entity type.
-
-<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>

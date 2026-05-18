@@ -1,6 +1,5 @@
 ---
 description: '(Planned release: 2026)'
-hidden: true
 ---
 
 # Fact Sheet Mapping from SAP LeanIX to Dastra
