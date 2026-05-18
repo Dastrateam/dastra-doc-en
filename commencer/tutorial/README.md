@@ -65,6 +65,6 @@ Finally, centralize your compliance documentation, in particular to deal with an
 
 Congratulations on completing the tutorial! Don't hesitate to explore Dastra's other functionalities, starting with the treatment record:
 
-{% content-ref url="../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md" %}
-[registre-de-traitement.md](../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
+{% content-ref url="../../useful-reminders/gdpr-key-concepts/record-of-processing-activities.md" %}
+[record-of-processing-activities.md](../../useful-reminders/gdpr-key-concepts/record-of-processing-activities.md)
 {% endcontent-ref %}
