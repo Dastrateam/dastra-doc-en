@@ -1,8 +1,32 @@
----
-description: Learn how to manage notifications in Dastra.
+## 🧭 Overview
+
+In Dastra, notifications help you stay informed about important activities 
+related to your processing records, audits, tasks, or data subject requests.
+
+There are two types of notifications:
+
+- **The notification center** — built directly into the application
+- **Email notifications** — customizable based on your preferences
+
 ---
 
-# Notifications
+## 🔔 Notification Center (in-app)
+
+The notification center groups alerts accessible via the **bell icon** 
+in the top-right corner of your screen.
+
+- Accessible to all workspace users
+- Not individually customizable (shared across the entire workspace)
+- Contains general notifications about recent activity: creation, 
+modification, or deletion of items
+
+{% hint style="info" %}
+Example: "A new processing activity has been created in your workspace."
+{% endhint %}
+
+---
+
+## ✉️ Email Notifications (customizable)
 
 #### 🧭 Overview
 
