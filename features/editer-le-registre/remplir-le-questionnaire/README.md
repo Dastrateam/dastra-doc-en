@@ -54,8 +54,8 @@ The 12 steps are:
 
 * **Data subjects rights (DSR)** - Detail the methods available to the data subjects to exercise each of their rights.
 
-{% content-ref url="droits-des-personnes.md" %}
-[droits-des-personnes.md](droits-des-personnes.md)
+{% content-ref url="data-subject-rights.md" %}
+[data-subject-rights.md](data-subject-rights.md)
 {% endcontent-ref %}
 
 * **Recipients** - This section lists the recipients of the processing data. This is where you can declare a data transfer outside the EU.
@@ -70,8 +70,8 @@ The 12 steps are:
 
 * **Security measures** - Describes the organizational and technical security measures planned to preserve the security of data.
 
-{% content-ref url="mesures-de-securite.md" %}
-[mesures-de-securite.md](mesures-de-securite.md)
+{% content-ref url="security-measures.md" %}
+[security-measures.md](security-measures.md)
 {% endcontent-ref %}
 
 * **High risk processing assessment**  - Assess the risk of the processing. If it's a high risk, you need a Privacy Impact Assessment (PIA).

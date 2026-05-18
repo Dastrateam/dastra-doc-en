@@ -8,8 +8,8 @@ All organizations that process personal data must put in place measures to preve
 
 For more information on what is a data breach and the obligations for companies:
 
-{% content-ref url="../../le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md" %}
-[violations-de-donnees.md](../../le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)
+{% content-ref url="../../useful-reminders/gdpr-key-concepts/data-breaches.md" %}
+[data-breaches.md](../../useful-reminders/gdpr-key-concepts/data-breaches.md)
 {% endcontent-ref %}
 
 ## Why implement a data breach register?

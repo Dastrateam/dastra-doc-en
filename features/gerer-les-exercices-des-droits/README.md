@@ -6,8 +6,8 @@ description: Learn how to respond to data subject right requests.
 
 With the GDPR, European citizens are able to ask a company or organization processing personal data about them to exercise their rights.
 
-{% content-ref url="../../le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md" %}
-[droits-des-personnes.md](../../le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
+{% content-ref url="../../useful-reminders/gdpr-key-concepts/data-subject-rights.md" %}
+[data-subject-rights.md](../../useful-reminders/gdpr-key-concepts/data-subject-rights.md)
 {% endcontent-ref %}
 
 To do this, the company or organization must set up a register of requests to exercise rights as well as a dedicated process.

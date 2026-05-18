@@ -85,8 +85,8 @@ If you want to learn how to share the record of processing, click here:
 
 ## For more information
 
-{% content-ref url="../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md" %}
-[registre-de-traitement.md](../../le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
+{% content-ref url="../../useful-reminders/gdpr-key-concepts/record-of-processing-activities.md" %}
+[record-of-processing-activities.md](../../useful-reminders/gdpr-key-concepts/record-of-processing-activities.md)
 {% endcontent-ref %}
 
 {% content-ref url="../risk-management/attach-a-risk-to-a-processing-activity.md" %}

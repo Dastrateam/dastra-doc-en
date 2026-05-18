@@ -2,22 +2,22 @@
 
 * [What is Dastra](README.md)
 
-## 💁‍♂️ USEFUL REMINDERS <a href="#le-rgpd-en-bref" id="le-rgpd-en-bref"></a>
+## 💁‍♂️ USEFUL REMINDERS <a href="#useful-reminders" id="useful-reminders"></a>
 
-* [What is GDPR ?](le-rgpd-en-bref/quest-ce-que-le-rgpd.md)
-* [GDPR key concepts](le-rgpd-en-bref/rgpd-en-bref/README.md)
-  * [Personal data](le-rgpd-en-bref/rgpd-en-bref/donnee-personnelle.md)
-  * [Record of processing activities (ROPA)](le-rgpd-en-bref/rgpd-en-bref/registre-de-traitement.md)
-  * [Privacy impact assessment](le-rgpd-en-bref/rgpd-en-bref/impact-assessment.md)
-  * [Data retention period](le-rgpd-en-bref/rgpd-en-bref/data-retention-period.md)
-  * [Data Subject Rights (DSR)](le-rgpd-en-bref/rgpd-en-bref/droits-des-personnes.md)
-  * [Privacy by design and by default](le-rgpd-en-bref/rgpd-en-bref/confidentialite-des-la-conception-et-par-defaut.md)
-  * [Security measures](le-rgpd-en-bref/rgpd-en-bref/mesures-de-securite.md)
-  * [Data breach notifications](le-rgpd-en-bref/rgpd-en-bref/violations-de-donnees.md)
-* [Risk management](le-rgpd-en-bref/risk-management/README.md)
-  * [Definition of risks](le-rgpd-en-bref/risk-management/definition-of-risks.md)
-  * [Risk assessment](le-rgpd-en-bref/risk-management/risk-assessment.md)
-  * [Vendor risk management](le-rgpd-en-bref/risk-management/risques-sous-traitants.md)
+* [What is GDPR ?](useful-reminders/introduction-to-privacy.md)
+* [GDPR key concepts](useful-reminders/gdpr-key-concepts/README.md)
+  * [Personal data](useful-reminders/gdpr-key-concepts/personal-data.md)
+  * [Record of processing activities (ROPA)](useful-reminders/gdpr-key-concepts/record-of-processing-activities.md)
+  * [Privacy impact assessment](useful-reminders/gdpr-key-concepts/impact-assessment.md)
+  * [Data retention period](useful-reminders/gdpr-key-concepts/data-retention-period.md)
+  * [Data Subject Rights (DSR)](useful-reminders/gdpr-key-concepts/data-subject-rights.md)
+  * [Privacy by design and by default](useful-reminders/gdpr-key-concepts/privacy-by-design.md)
+  * [Security measures](useful-reminders/gdpr-key-concepts/security-measures.md)
+  * [Data breach notifications](useful-reminders/gdpr-key-concepts/data-breaches.md)
+* [Risk management](useful-reminders/risk-management/README.md)
+  * [Definition of risks](useful-reminders/risk-management/definition-of-risks.md)
+  * [Risk assessment](useful-reminders/risk-management/risk-assessment.md)
+  * [Vendor risk management](useful-reminders/risk-management/processor-risks.md)
 
 ## 🧑‍🎓 GETTING STARTED <a href="#commencer" id="commencer"></a>
 
@@ -70,10 +70,10 @@
     * [Dataset](features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md)
     * [Assets](features/editer-le-registre/remplir-le-questionnaire/applications.md)
     * [Data subjects](features/editer-le-registre/remplir-le-questionnaire/personnes-concernees.md)
-    * [Data subjects rights (DSR)](features/editer-le-registre/remplir-le-questionnaire/droits-des-personnes.md)
+    * [Data subjects rights (DSR)](features/editer-le-registre/remplir-le-questionnaire/data-subject-rights.md)
     * [Recipients](features/editer-le-registre/remplir-le-questionnaire/destinataires/README.md)
       * [Data transfers outside the EU](features/editer-le-registre/remplir-le-questionnaire/destinataires/transferts-de-donnees-hors-ue.md)
-    * [Security measures](features/editer-le-registre/remplir-le-questionnaire/mesures-de-securite.md)
+    * [Security measures](features/editer-le-registre/remplir-le-questionnaire/security-measures.md)
     * [Impact analysis](features/editer-le-registre/remplir-le-questionnaire/analyse-dimpact.md)
     * [Documentation](features/editer-le-registre/remplir-le-questionnaire/documents.md)
   * [Create relationships between processing activities](features/editer-le-registre/creer-une-relation-entre-les-traitements.md)

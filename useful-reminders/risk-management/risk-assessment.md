@@ -62,6 +62,6 @@ A "**net**" (or residual) risk, on the other hand, is evaluated by taking into a
 [attach-a-risk-to-a-processing-activity.md](../../features/risk-management/attach-a-risk-to-a-processing-activity.md)
 {% endcontent-ref %}
 
-{% content-ref url="risques-sous-traitants.md" %}
-[risques-sous-traitants.md](risques-sous-traitants.md)
+{% content-ref url="processor-risks.md" %}
+[processor-risks.md](processor-risks.md)
 {% endcontent-ref %}
