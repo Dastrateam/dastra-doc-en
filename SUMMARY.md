@@ -160,6 +160,7 @@
     * [Implement a cookie consent widget](features/gerer-le-consentement-aux-cookies/configuration-du-widget/implementez-un-widget-de-consentement-aux-cookies.md)
     * [Collect proof of cookie consent](features/gerer-le-consentement-aux-cookies/configuration-du-widget/collectez-les-preuves-de-consentement-cookies.md)
     * [Go further on cookie consent](features/gerer-le-consentement-aux-cookies/configuration-du-widget/allez-plus-loin-sur-le-consentement-des-cookies.md)
+    * [Geo-targeted variants](features/gerer-le-consentement-aux-cookies/configuration-du-widget/geo-targeted-variants.md)
     * [In case of unavailability](features/gerer-le-consentement-aux-cookies/configuration-du-widget/in-case-of-unavailability.md)
   * [Technical integration](features/gerer-le-consentement-aux-cookies/integration-technique/README.md)
     * [Functioning of the widget](features/gerer-le-consentement-aux-cookies/integration-technique/integration-dans-les-cms.md)
