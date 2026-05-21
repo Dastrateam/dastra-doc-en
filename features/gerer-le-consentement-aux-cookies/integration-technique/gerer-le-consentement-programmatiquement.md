@@ -31,13 +31,14 @@ dastra.push(['cookieReady',function(manager){
 
 In manager.consent, you have the following methods:
 
-* open(): opens the consent widget&#x20;
-* close(): close the consent widget&#x20;
-* getAllConsents() : retrieve all consents&#x20;
-* getPurposeConsent(purposeId:number): get consent for a category of cookies&#x20;
-* setPurposeConsent(purposeId:number, consent:bool): set the consent for a category&#x20;
-* getServiceConsent(serviceShortName:string): Retrieves consent for a particular service
-* setServiceConsent(serviceShortName:string, consent:bool): Sets the consent for a particular element
+* open(): opens the consent widget
+* close(): closes the consent widget
+* getAllConsents(): retrieve all consents
+* hasConsented(): returns `true` if the user has already recorded an explicit consent
+* getPurposeConsent(purposeLabel:string): get consent for a cookie category
+* setPurposeConsent(purposeLabel:string, consent:bool): set the consent for a category
+* getServiceConsent(serviceShortName:string): retrieves consent for a particular service
+* setServiceConsent(serviceShortName:string, consent:bool): sets the consent for a particular service
 
 ### Get the list of user's consents (getAllConsents)
 
@@ -73,24 +74,30 @@ The above method returns a list of all the user's consents
 
 ### Query consents by category (getPurposeConsent/setPurposeConsent)
 
-The categories of cookies are represented by the following ids:
+Cookie categories are identified by the following string labels:
 
-| Type        | Id |
-| ----------- | -- |
-| Necessary   | 0  |
-| Preferences | 1  |
-| Analytical  | 2  |
-| Marketing   | 3  |
-| Other       | 4  |
+| Category     | Label          |
+| ------------ | -------------- |
+| Necessary    | `Necessary`    |
+| Preferences  | `Preference`   |
+| Analytics    | `Analytical`   |
+| Marketing    | `Marketing`    |
+| Other        | `Other`        |
+| Unclassified | `Unclassified` |
+
+{% hint style="warning" %}
+Always use the **string labels** (e.g. `'Analytical'`) — numeric values are not supported by the API.
+{% endhint %}
 
 ```javascript
 <script>
 dastra = dastra || []
 dastra.push(['cookieReady',function(manager){
-    // Get the complete consent services list
-    let cookiePurpose = 2; // 2 = Analytic
-    let consents = manager.consent.getPurposeConsent(cookiePurpose);
-    manager.consent.setPurposeConsent(cookiePurpose, false)
+    let consents = manager.consent.getPurposeConsent('Analytical');
+    manager.consent.setPurposeConsent('Analytical', false);
+
+    // persist consent
+    manager.consent.save();
 });
 </script>
 ```
