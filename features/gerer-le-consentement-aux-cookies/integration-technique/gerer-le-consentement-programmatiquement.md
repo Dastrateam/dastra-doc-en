@@ -127,11 +127,43 @@ dastra.push(['cookieReady',function(manager){
 
 ### Example of use
 
-To illustrate this, here is a complete example that allows you to manipulate consents in the browser without using the widget :
-
-
+The following example shows how to apply a full opt-out programmatically — for instance when the user clicks a "Reject all" button you have built yourself, or when honouring a browser privacy signal.
 
 ```javascript
-todo
+<script>
+dastra = dastra || [];
+dastra.push(['cookieReady', function(manager) {
+
+  // Only act if the user hasn't already made an explicit choice
+  if (!manager.consent.hasConsented()) {
+
+    // Opt out of all non-essential categories
+    manager.consent.setPurposeConsent('Preference',   false);
+    manager.consent.setPurposeConsent('Analytical',   false);
+    manager.consent.setPurposeConsent('Marketing',    false);
+    manager.consent.setPurposeConsent('Other',        false);
+    manager.consent.setPurposeConsent('Unclassified', false);
+
+    // Persist the choice in the browser
+    manager.consent.save();
+  }
+
+}]);
+</script>
+```
+
+You can equally opt-in selectively — for example to accept analytics only:
+
+```javascript
+<script>
+dastra = dastra || [];
+dastra.push(['cookieReady', function(manager) {
+
+  manager.consent.setPurposeConsent('Analytical', true);
+  manager.consent.setPurposeConsent('Marketing',  false);
+  manager.consent.save();
+
+}]);
+</script>
 ```
 
