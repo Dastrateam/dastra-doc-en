@@ -66,3 +66,33 @@ All objects generated from a collection box are tagged with "inbound email," mak
 Upon successful creation of an object from an email received at the collection box, an email notification is automatically sent to the address that triggered the integration. This notification confirms that the object has been successfully created in Dastra, providing immediate assurance that the request or action has been processed.
 
 The language of the confirmation email corresponds to the default language of the workspace where the integration is installed (Workspace settings > Default language).
+
+***
+
+### Automatically forwarding your existing email address to Dastra
+
+If you already have a dedicated email address for data subject requests (e.g. `privacy@yourcompany.com`), you do not need to replace it. You can configure a **forwarding rule** in your mail server to automatically redirect incoming emails to the Dastra collection mailbox.
+
+Requests will then arrive directly in Dastra without any manual action, while keeping your usual address for your contacts.
+
+#### With Microsoft Exchange / Office 365
+
+Go to the **Exchange Admin Center** > **Mail flow** > **Rules**, then click **"+ Add a rule"**.
+
+Configure the rule as follows:
+
+1. **Condition**: "The sender is located" > "Outside the organisation" — optionally add a subject keyword filter to only redirect relevant requests (e.g. subject contains "request" or "erasure").
+2. **Action**: "Redirect the message to" > enter the Dastra collection address generated in the previous step.
+3. **Mode**: Enforce.
+
+{% hint style="info" %}
+You can add subject-line filters to redirect only specific request types (erasure, access, portability…) to the corresponding Dastra collection mailbox, while keeping other messages in your usual inbox.
+{% endhint %}
+
+{% hint style="warning" %}
+Make sure your rule does not create a forwarding loop if the Dastra address itself redirects emails. Use the condition "Received from outside the organisation" to prevent loops.
+{% endhint %}
+
+#### With Google Workspace (Gmail)
+
+In the **Google Admin Console** > **Apps** > **Google Workspace** > **Gmail** > **Routing**, add an inbound routing rule with the action "Change route" and enter the Dastra collection address as the destination.
