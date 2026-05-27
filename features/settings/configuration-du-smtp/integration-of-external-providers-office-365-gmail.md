@@ -96,3 +96,45 @@ The message will look like this :
 ***
 
 👉 Once integration is enabled, Dastra will no longer use no-reply@dastra.eu: all your notification emails will be sent via your configured provider.
+
+***
+
+## 🔧 Technical FAQ for IT administrators
+
+This section answers common questions from IT and security teams when setting up the Office 365 integration.
+
+#### What authentication model is used?
+
+The Office 365 integration uses **application consent** (global admin consent), not delegated consent on behalf of a user. No active Exchange licence per user is required for the integration to work.
+
+#### What Microsoft Graph scopes are requested?
+
+Dastra requests the following permissions during OAuth consent:
+
+| Permission         | Usage                                                      |
+| ------------------ | ---------------------------------------------------------- |
+| `Mail.Send`        | Sending emails from the configured mailbox                 |
+| `Mail.Send.Shared` | Sending from a shared mailbox                              |
+
+#### Are shared mailboxes supported?
+
+Yes. To use a shared mailbox (e.g. `privacy@yourcompany.com`):
+
+1. Sign in with your **personal account** that has send permissions on the shared mailbox.
+2. In the **Sender email** field, enter the shared mailbox address.
+
+No Exchange policy change (ApplicationAccessPolicy) is required for this to work.
+
+{% hint style="info" %}
+Make sure your personal account has the **"Send As"** or **"Send on Behalf"** permission on the shared mailbox in Active Directory / Exchange.
+{% endhint %}
+
+#### Do I need to whitelist Dastra's outbound IP addresses?
+
+Dastra uses **Microsoft Graph API** to send emails, not a traditional SMTP server. Calls go through Microsoft's Azure infrastructure, which has a large number of IP ranges (~100 ranges) that change over time.
+
+**IP-based filtering is not recommended** for this integration: it would be difficult to maintain and could cause service interruptions when Azure IP ranges are updated. Security is handled by OAuth 2.0 and admin consent.
+
+{% hint style="info" %}
+If your security policy requires IP restrictions, you can refer to the IP ranges published by Microsoft for Azure services: [https://www.microsoft.com/en-us/download/details.aspx?id=56519](https://www.microsoft.com/en-us/download/details.aspx?id=56519). Note that this list is updated regularly.
+{% endhint %}
