@@ -27,7 +27,7 @@ _The combination of these filters is cumulative. For example: if I filter on one
 
 * If you don't find any filters that suit you, you can click on the "Add filter" button. There you can edit the combination of filters that best suits your needs.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
 By default, Dastra persists the filters you select, which means that if you change pages or refresh your browser, the filters are retained. These filters are specific to your browser and workspace (they are stored in **LocalStorage**).
 
