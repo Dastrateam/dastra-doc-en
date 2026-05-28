@@ -11,7 +11,10 @@ description: >-
 Advanced filters allow you to filter your data on almost any field in your entities.
 
 * Go to a Dastra module (for example, the data subject rights module)
-* Click on the "Filters" button at the top right of the data table.![](<../../.gitbook/assets/image (10).png>)
+* Click on the "Filters" button at the top right of the data table.
+
+<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+
 * A small window will appear, showing you a list of the most commonly used standard filters, by applying one of these filters, the table will update automatically.
 
 <figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption><p><em><mark style="color:$info;">Advanced filter combo for data subject requests</mark></em></p></figcaption></figure>
