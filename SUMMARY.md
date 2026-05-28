@@ -2,7 +2,7 @@
 
 * [What is Dastra](README.md)
 
-## 💁‍♂️ USEFUL REMINDERS <a href="#useful-reminders" id="useful-reminders"></a>
+## 💁‍♂️ USEFUL REMINDERS
 
 * [What is GDPR ?](useful-reminders/introduction-to-privacy.md)
 * [GDPR key concepts](useful-reminders/gdpr-key-concepts/README.md)
@@ -73,7 +73,7 @@
     * [Dataset](features/editer-le-registre/remplir-le-questionnaire/categorie-de-donnees.md)
     * [Assets](features/editer-le-registre/remplir-le-questionnaire/applications.md)
     * [Data subjects](features/editer-le-registre/remplir-le-questionnaire/personnes-concernees.md)
-    * [Data subjects rights (DSR)](features/editer-le-registre/remplir-le-questionnaire/data-subject-rights.md)
+    * [Data subjects rights (DSR)](features/editer-le-registre/remplir-le-questionnaire/data-subjects-rights-dsr.md)
     * [Recipients](features/editer-le-registre/remplir-le-questionnaire/destinataires/README.md)
       * [Data transfers outside the EU](features/editer-le-registre/remplir-le-questionnaire/destinataires/transferts-de-donnees-hors-ue.md)
     * [Security measures](features/editer-le-registre/remplir-le-questionnaire/security-measures.md)

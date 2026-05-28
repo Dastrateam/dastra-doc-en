@@ -17,12 +17,10 @@ The Privacy hub offers modular and flexible configuration, enabling you to selec
 
 #### How to Access the Feature
 
-To access the feature, your subscription must include the [Privacy hubs feature](./).&#x20;
+To access the feature, your subscription must include the [Privacy hubs feature](./).
 
 You can access the Privacy Hubs from the application's side navigation bar.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 230130.png" alt=""><figcaption><p>Access the Privacy hubs from Dastra's sidebar</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Access the Privacy hubs from Dastra's sidebar</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 230356.png" alt=""><figcaption><p>Preview of a Privacy hub with all features enabled</p></figcaption></figure>

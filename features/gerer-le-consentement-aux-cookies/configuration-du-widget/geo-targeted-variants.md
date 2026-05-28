@@ -26,8 +26,6 @@ From the **Cookies** module, select your widget, then go to the **Variants** tab
 
 Click **"Create a geo-targeted variant"**.
 
-<figure><img src="../../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
-
 ### 2. Name the variant
 
 Enter a descriptive **label** (80 characters max). Choose an explicit name to make management easier, for example: `Banner – California (CCPA)` or `Banner – EEA zone`.
@@ -78,11 +76,11 @@ The "default consent" for each service can be configured in the widget settings,
 
 ## Typical use cases
 
-| Situation                                          | Recommended configuration                                                           |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| European site with US traffic                      | EEA variant (strict opt-in) + US/California variant (CCPA opt-out)                 |
-| French site with a German subsidiary               | France variant + Germany variant with texts adapted to BfDI requirements            |
-| Global site with minimal compliance outside the EEA | Default global widget + EEA-compliant GDPR variant                               |
+| Situation                                           | Recommended configuration                                                |
+| --------------------------------------------------- | ------------------------------------------------------------------------ |
+| European site with US traffic                       | EEA variant (strict opt-in) + US/California variant (CCPA opt-out)       |
+| French site with a German subsidiary                | France variant + Germany variant with texts adapted to BfDI requirements |
+| Global site with minimal compliance outside the EEA | Default global widget + EEA-compliant GDPR variant                       |
 
 ***
 

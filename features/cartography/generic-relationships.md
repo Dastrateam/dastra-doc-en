@@ -36,9 +36,6 @@ They are primarily used in the **Assets** module and the **referentials** (carto
 
 1. Open an element (e.g. an asset).
 2. Click the **"Linked elements"** icon in the top toolbar — it shows the current count of linked elements.
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
-
 3. Click **"Add a relationship"** and select the type of object to link to (Stakeholder, Security measure, Data breach, Asset, Dataset or Risk).
 4. In the dialog:
    * Toggle **"Inverse relationship"** if the direction should be reversed.
@@ -47,16 +44,12 @@ They are primarily used in the **Assets** module and the **referentials** (carto
    * Optionally add a **Relation label** and a **Summary**.
 5. Click **"Add"** to save the relationship.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (4).png" alt=""><figcaption></figcaption></figure>
-
 ## Visualising relationships
 
 Once relationships are created, they appear in:
 
 * The **"Linked elements"** panel of each element, showing all direct links.
 * The **node graph** in the cartography view, where all relationships are displayed as a connected network.
-
-<figure><img src="../../.gitbook/assets/image (4) (7).png" alt=""><figcaption><p>Example of a generic relationship visualised in the cartography graph</p></figcaption></figure>
 
 ## Go further
 

@@ -8,10 +8,10 @@ description: Learn how to create and set up entities and departments in Dastra.
 
 ## Introduction
 
-Organizational units allow you to structure your workspace. Two types of organizational units can be created:&#x20;
+Organizational units allow you to structure your workspace. Two types of organizational units can be created:
 
-* **entities**, which correspond to legal entities and represent a data controller,&#x20;
-* **departments**, which are used to organize entities.&#x20;
+* **entities**, which correspond to legal entities and represent a data controller,
+* **departments**, which are used to organize entities.
 
 In Dastra, the notion of workspace is decoupled from that of legal entity. A **workspace can therefore refer to several distinct legal entities** (as in a group, for example). On the other hand, there can only be one legal representative per legal entity.
 
@@ -73,7 +73,7 @@ After filling in the file, drop it in the drop box and follow the instructions.
 
 ## View and configure entities and departments from the organizational chart
 
-In Dastra, you can also view entities and departments graphically, and set their parameters directly from the organization chart.&#x20;
+In Dastra, you can also view entities and departments graphically, and set their parameters directly from the organization chart.
 
 To do this, click on the "Organization chart" view in the "Entities and departments" module.
 
@@ -81,7 +81,7 @@ To do this, click on the "Organization chart" view in the "Entities and departme
 
 In this way, you can visualize your group's organizational chart graphically:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.13.04 (1).png" alt=""><figcaption><p>Example of an organization chart in Dastra</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 15.13.04.png" alt=""><figcaption><p>Example of an organization chart in Dastra</p></figcaption></figure>
 
 {% hint style="info" %}
 In the "Organization chart" view, you can perform most of the operations available in the "Entities / Departments" view.
@@ -89,9 +89,9 @@ In the "Organization chart" view, you can perform most of the operations availab
 
 ## Restrict access to an organizational unit's content
 
-You can use the user team system to restrict access to content attached to an organizational unit.&#x20;
+You can use the user team system to restrict access to content attached to an organizational unit.
 
-To do this, you need to attach teams to organizational units.&#x20;
+To do this, you need to attach teams to organizational units.
 
 The system is tree-based. This means that, for a team to access a child UO, it must access the parent UO.
 
