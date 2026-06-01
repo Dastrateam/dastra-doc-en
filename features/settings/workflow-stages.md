@@ -19,11 +19,9 @@ Each object type (processing activities, data subject requests, data breaches, t
 
 Go to **Workspace Settings → Workflow stages**.
 
-<figure><img src="../../.gitbook/assets/etapes-processus01.png" alt=""><figcaption></figcaption></figure>
 
 You will see the available stages for each object type. Customise them to match your organisation's processes, then click **"Save"**.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Can you delete a workflow stage?
 
@@ -33,11 +31,10 @@ Any objects currently attached to the deleted stage are automatically reassigned
 
 For example, if you delete the **"In Progress"** stage in the task workflow:
 
-<figure><img src="../../.gitbook/assets/image (9) (2) (2).png" alt=""><figcaption></figcaption></figure>
+
 
 Objects attached to it will move to the next available stage — for example **"Needs info"**:
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
