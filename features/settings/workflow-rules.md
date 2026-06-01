@@ -1,92 +1,210 @@
 ---
-description: Integrate complex processes using customised workflow rules
+description: Automate compliance processes using customised workflow rules in Dastra.
 ---
 
 # Workflow rules
 
-### How it works&#x20;
-
-Workflow Rules in Dastra are a set of actions (email notifications, audit scheduling, tasks and field updates) that are executed when certain conditions are met. These rules automate the process of sending email notifications, assigning tasks and updating certain fields in a record when a rule is triggered.
-
-<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption><p>Diagram of the basic principle</p></figcaption></figure>
-
-### How do I create a workflow rule in Dastra?&#x20;
-
-* Go to the [Workflow rules configuration page in your workspace ](https://app.dastra.eu/workspace/0/settings/workflow-rules)
-* Click on "New workflow rule".&#x20;
-* Choose a name and the type of entity concerned (Processing, Violations, etc.)
-* You are now in the rules designer
-
-#### Defining the trigger
-
-You can trigger a workflow rule on two events:
-
-* When **an action is taken on the entity concerned**: creation, modification, state change or recycle bin (if available) .&#x20;
-* **When a specific date for the entity is reached**. For example: send a notification 10 days after the publication date.
-
-Only one trigger can be defined per workflow rule.
-
-Note that you can choose whether the workflow can be run more than once per entity. **It is strongly recommended that workflows are executed only once per entity**, as executing a workflow several times can easily lead to problems of repetitive task creation or duplicate notifications.
-
-#### Defining conditions
-
-You can configure one or more execution conditions per rule.
-
-#### Defining actions
-
-To add a new action, click on the "**Add an action**" button and choose the model you wish to set up
-
-Here are the **different types of action** you can trigger:
-
-* Email notification&#x20;
-* Update a field in the entity concerned&#x20;
-* Add a tag to the entity&#x20;
-* Automatic audit scheduling&#x20;
-* Define the owner of the item (the assigned person, for example)&#x20;
-* Automatic creation of a task
-
-Conditions can be chained together. You can add several actions per condition by clicking on "add an action" again.
-
 {% hint style="info" %}
-Example: send a notification to several people when a task is created. To do this, select the "tasks" trigger and, depending on the conditions of the task (for example, adding a tag), add a "notification" action.
+**Workflow stages vs workflow rules**
+
+[Workflow stages](workflow-stages.md) define the steps an object moves through (e.g. New → In Progress → Done). **Workflow rules** automate actions when those steps or other events occur. The two features work together.
 {% endhint %}
 
-#### Custom variables
+## How it works
 
-Very often, in personalised notifications for example, it will be useful to inject information from the object that is entered in the workflow: the name of the processing, its publication date, etc. are all variables that you can easily inject into the text of your notifications using the variable injection system.&#x20;
+Workflow rules in Dastra are a set of automated actions — email notifications, questionnaire scheduling, task creation, field updates — that are executed when specific conditions are met. They allow you to automate repetitive processes and ensure that nothing falls through the cracks across your compliance programme.
 
-Internally, Dastra uses a templating engine based on [LiquidJS ](https://shopify.github.io/liquid/basics/introduction/)
+Each rule follows a simple **Trigger → Conditions → Actions** logic:
 
-**To access the different variables in the trigger object, type "\{{"**. This will display a list of suggested variables that you can inject into the content.
+<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption><p>Trigger → Conditions → Actions</p></figcaption></figure>
 
+Workflow rules can be applied to the following object types:
 
+| Object type               |
+| ------------------------- |
+| Processing activity       |
+| Request (DSR)             |
+| Data breach               |
+| Task                      |
+| Asset                     |
+| Stakeholder               |
+| Data field                |
+| Security measure          |
+| Category of data subjects |
+| AI system                 |
+| Contract                  |
 
-Example\
-To display a string variable (the processing reference)
+{% hint style="info" %}
+The number of workflow rules available depends on your plan, ranging from **25 to 100 rules**. If you need more, additional capacity can be purchased. Contact your account manager for details.
+{% endhint %}
+
+***
+
+## Creating a workflow rule
+
+Go to **Workspace Settings → Workflow rules**, then click **"Create a workflow rule"**.
+
+You can start in two ways:
+
+* **From scratch** — build the rule from a blank canvas.
+* **From a template** — pick a pre-built template from the Dastra default library and customise it.
+
+<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+
+### Template library
+
+The template library brings together two sources of templates:
+
+* **Dastra's default library** — ready-to-use rules covering the most common automation scenarios: data breach handling, contract expiration, supplier reviews, DSR lifecycle, and more. Maintained and updated by Dastra.
+* **Your organisation's custom templates** — any rule your team has saved as a template. These are stored alongside Dastra's templates and available for reuse across your entire workspace.
+
+Templates can be filtered by object type and language.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Saving a rule as a template**
+
+Open any existing workflow rule and click **"Save as template"**. The template is immediately available in the library and can be reused on any compatible object type — without having to reconfigure it from scratch each time.
+
+This is particularly useful for organisations that want to standardise their automation rules and roll out the same workflows across multiple entities or workspaces.
+
+***
+
+## Configuring the rule
+
+### 1. Trigger
+
+Two trigger types are available:
+
+**Action** — the rule fires when a specific event occurs on the object:
+
+| Event                | Description                                       |
+| -------------------- | ------------------------------------------------- |
+| Created              | A new object is created                           |
+| Created or Modified  | A new object is created or an existing one is changed |
+| Modified             | An existing object is changed                     |
+| Moved to bin         | The object is moved to the recycle bin            |
+| Step changed         | The workflow stage of the object changes          |
+
+**Recurring date control** — the rule is evaluated every day at a configured time and fires based on a date field on the object. Configure the following:
+
+* **Run every day at** — the time at which the daily check runs (timezone-aware, e.g. 00:00 Europe/Paris).
+* **Date field to check** — the date field to evaluate (e.g. Closed date, Creation date, Review date…).
+* **Date condition** — choose one of:
+  * **Has passed** — fires on the day the date is reached.
+  * **Date modifiers** — add an offset relative to the date:
+    * **Will occur in** — fires N hours / days / months / years *before* the date (e.g. 30 days before contract expiry).
+    * **Has passed for** — fires N hours / days / months / years *after* the date (e.g. 1 day after closure).
+
+A **"View elements as if today"** button lets you preview which objects would currently match the rule, useful for testing before enabling it.
+
+Only **one trigger** can be defined per rule.
+
+{% hint style="warning" %}
+It is strongly recommended to configure rules to run **only once per object**. Running a rule multiple times on the same object can easily result in duplicate tasks or repeated notifications.
+{% endhint %}
+
+### 2. Conditions
+
+Conditions define which objects the rule applies to. You can choose:
+
+* **Apply to all** — the rule runs on every object matching the trigger, with no further filtering.
+* **Apply some conditions** — filter by one or more field values (e.g. "Step is equal to New", "Awareness date is before 01/01/2025").
+
+Conditions can be combined using **And / Or** logic, and grouped together to cover complex scenarios. Use **"Add a condition"** to add a line within a group, and **"Add a group of conditions"** to create a separate logical block.
+
+### 3. Actions
+
+Actions define what happens when the trigger fires and conditions are met. You can chain multiple actions within a single rule.
+
+**Actions available for all object types:**
+
+| Action                              | Description                                            |
+| ----------------------------------- | ------------------------------------------------------ |
+| Edit a field                        | Update one or more fields on the object                |
+| Define owner                        | Assign a user or team as owner of the object           |
+| Add a task                          | Automatically create a task linked to the object       |
+| Send notification                   | Send an email notification to one or more recipients   |
+| Add tag(s)                          | Apply one or more tags to the object                   |
+| Schedule a response to a questionnaire | Assign a questionnaire to the object automatically  |
+
+**Additional actions for Requests (DSR) only:**
+
+| Action                      | Description                                                    |
+| --------------------------- | -------------------------------------------------------------- |
+| Send a message to the requester | Send a message directly to the data subject                |
+| Close the request           | Automatically close the DSR                                    |
+| Move to recycle bin         | Move the request to the recycle bin                            |
+| Anonymise the request       | Anonymise the request (only available if the request is closed)|
+
+***
+
+## Custom variables in notifications
+
+When writing notification content or field updates, you can inject dynamic values from the trigger object using the variable syntax. Dastra uses a templating engine based on [LiquidJS](https://shopify.github.io/liquid/basics/introduction/).
+
+Type `{{` to display a list of available variables for the current object type.
+
+Display a string variable (e.g. the processing reference):
 
 ```
 {{ref}}
 ```
 
-
-
-To display all the values of an array variable (tags)
+Display all values of an array variable (e.g. tags):
 
 ```
 {% for tag in tags %}
-
- {{ tag.label }}
-
+  {{ tag.label }}
 {% endfor %}
 ```
 
-
-
-To display only the 1st value of an array variable: (1st accountable)
+Display only the first value of an array (e.g. first accountable person):
 
 ```
 {% assign accountable = accountables | first %}
-
 {{accountable.displayName}}
 ```
 
+***
+
+## Execution history
+
+Each rule maintains a full execution history. Click **"History"** from the rule editor to view:
+
+* **Date of last execution**
+* **Status**: Processed / Error
+* **Number of executions**
+* **Message**: Success or error detail
+
+From the history panel, you can also:
+
+* **See linked object** — navigate to the object that triggered the rule.
+* **Restart rule execution** — re-run the rule on the same object.
+* **Reset** — clear the execution record for that entry.
+
+***
+
+## Manual execution
+
+You can trigger a rule manually at any time using the **"Execute"** button in the rule editor. This opens a modal where you select the target object on which the rule should run. The trigger is ignored — only the conditions and actions are applied.
+
+This is useful for testing a rule, or for applying it to an existing object that was created before the rule was set up.
+
+***
+
+## Examples
+
+**Action-based rule** — notify approvers of a processing activity whenever the workflow stage changes (excluding the "New" stage):
+
+<figure><img src="../../.gitbook/assets/workflow_stateChange01-fr (1).png" alt=""><figcaption></figcaption></figure>
+
+**Date-based rule** — automatically close and anonymise DSRs whose identity has not been validated within one month of creation:
+
+<figure><img src="../../.gitbook/assets/workflow_anon01-fr.png" alt=""><figcaption><p>Every day, close and anonymise requests where the requester's identity has not been validated within one month of creation</p></figcaption></figure>
+
+***
+
+## Video tutorial
+
+{% embed url="https://www.youtube-nocookie.com/embed/FqPmGdk2nTI" %}
