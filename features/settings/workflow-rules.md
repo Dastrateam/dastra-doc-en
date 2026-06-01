@@ -49,7 +49,7 @@ You can start in two ways:
 * **From scratch** — build the rule from a blank canvas.
 * **From a template** — pick a pre-built template from the Dastra default library and customise it.
 
-<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+
 
 ### Template library
 
@@ -60,7 +60,6 @@ The template library brings together two sources of templates:
 
 Templates can be filtered by object type and language.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Saving a rule as a template**
 
