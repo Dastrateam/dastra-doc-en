@@ -16,13 +16,13 @@ It's composed of 3 main sections:&#x20;
 * The last release note (for a review of the new features)
 * The section in the center containing the tiles summarizing the news and the watch of your space, and the different features.
 
-<figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sans-titre.png" alt=""><figcaption></figcaption></figure>
 
 ## The tiles of the dashboard
 
 In the section containing the tiles, you can change the order of appearance of these tiles by clicking on the drag and drop button to move the order of appearance of the tile.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>An example of tile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-43.png" alt=""><figcaption><p>An example of tile</p></figcaption></figure>
 
 There are several **categories of tiles** available in the dashboard:&#x20;
 
@@ -40,7 +40,7 @@ There are several **categories of tiles** available in the dashboard:&#x20;
 
 You can also print the dashboard or invite a user directly by clicking on one of the buttons at the top right of the tiles section.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-06-07 à 11.03.28.png" alt="" width="257"><figcaption><p>The print and invite a user buttons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/capture-d-e-cran-2023-06-07-a-11.03.28.png" alt="" width="257"><figcaption><p>The print and invite a user buttons</p></figcaption></figure>
 
 ## For more information
 

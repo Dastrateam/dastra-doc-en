@@ -28,7 +28,7 @@ To help you determine whether your processing is likely to give rise to high ris
 
 These criteria are directly integrated into our data processing creation workflow, and you can indicate for each of your processes whether or not an PIA has been carried out on it.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-07 à 10.01.48.png" alt="" width="563"><figcaption><p>Example of a treatment potentially requiring an PIA</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-07-a-10.01.48.png" alt="" width="563"><figcaption><p>Example of a treatment potentially requiring an PIA</p></figcaption></figure>
 
 ## Risk identification and assessment
 

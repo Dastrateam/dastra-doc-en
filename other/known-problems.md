@@ -15,7 +15,7 @@ To solve these problems, we provide you with several solutions:
 
 To activate it, go to the "profile" tab in your personal settings:
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-02-17 à 16.01.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshot-2023-02-17-160114.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Selecting this option will cause you to lose your column settings in all Dastra tables and re-trigger the display of tutorials in all modules.
@@ -31,7 +31,7 @@ These two actions did not solve your problem? Contact the support directly from 
 
 Preview of the page:
 
-<figure><img src="../.gitbook/assets/MicrosoftTeams-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/microsoftteams-image.png" alt=""><figcaption></figcaption></figure>
 
 **Solutions**:&#x20;
 

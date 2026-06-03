@@ -14,7 +14,7 @@ It is possible to re-invite those who did not respond to the questionnaire.
 
 It is possible to attach the questionnaire to another specific module. To do this, when configuring your questionnaire template, after giving it a name and a description, attach an element to it which will be the object of the questionnaire.
 
-<figure><img src="../../.gitbook/assets/Element audité.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/element-audite.png" alt=""><figcaption></figcaption></figure>
 
 If your questionnaire has already been created, it is still possible to attach an element to it afterwards. Go to the questionnaire, click on the "Modify template" button, then on the "Configure" button located below the "Save" button. This will take you back to the initial template configuration tab.
 
@@ -22,4 +22,4 @@ These objects can be actors, assets, applications, data processing, data breache
 
 Then, when you schedule your questionnaire, a new box "Object related to the questionnaire" will appear. The selector will allow you to choose more precisely to which object you will link the questionnaire.
 
-<figure><img src="../../.gitbook/assets/exemple élément audité.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/exemple-element-audite.png" alt=""><figcaption></figcaption></figure>

@@ -14,11 +14,11 @@ This visualization allows in particular to explore, analyze and understand the r
 
 To view the mapping of the registry data, click on the "Record of processing activities" module and then click on the "**Graphs**" button above your processing activity list.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.44.03.png" alt=""><figcaption><p>Graphs tab above the processing activities</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-10-144403.png" alt=""><figcaption><p>Graphs tab above the processing activities</p></figcaption></figure>
 
 Thus, you will be able to **visualize the mapping of the registry data**.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.46.14.png" alt=""><figcaption><p>Mapping example</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-10-144614.png" alt=""><figcaption><p>Mapping example</p></figcaption></figure>
 
 {% hint style="info" %}
 Once the map is displayed, it is possible to modify it by **double clicking** on the elements to add filters.&#x20;

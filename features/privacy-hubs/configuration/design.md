@@ -4,7 +4,7 @@ description: Learn how to configure the design of your Privacy hub
 
 # Appearance and design
 
-<figure><img src="../../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 235339.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2024-11-18-235339.png" alt=""><figcaption></figcaption></figure>
 
 
 

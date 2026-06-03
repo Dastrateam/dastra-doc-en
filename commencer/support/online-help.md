@@ -2,11 +2,11 @@
 
 Dastra's online help can be accessed at any time in your workspace by clicking on the "Help" button at the bottom left of the screen.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-07 à 10.43.17.png" alt="" width="157"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-07-a-10.43.17.png" alt="" width="157"><figcaption></figcaption></figure>
 
 A window appears with all the options:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-07 à 10.49.05.png" alt="" width="370"><figcaption><p>Opening the help panel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-07-a-10.49.05.png" alt="" width="370"><figcaption><p>Opening the help panel</p></figcaption></figure>
 
 ## The First Connection Guide
 

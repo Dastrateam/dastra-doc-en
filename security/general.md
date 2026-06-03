@@ -63,7 +63,7 @@ Use of the role-base-access-control (RBAC) access management model. The person i
 
 ## Secure authentication based on OpenIdConnect for all of our sites
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/image-68.png>)
 
 The authentication authority is [https://account.dastra.eu](https://account.dastra.eu) uses IdentityServer4 technology to ensure the authentication of all our users.
 

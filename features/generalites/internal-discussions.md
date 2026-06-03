@@ -23,7 +23,7 @@ Below is a diagram explaining the workflow of internal discussions:
 
 You can **mention** relevant users by using the “@” shortcut on your keyboard. A list of users will be suggested. You can search all users within your workspace.
 
-<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-381.png" alt=""><figcaption></figcaption></figure>
 
 The purpose of a mention is to automatically send an email notification to the mentioned user.
 
@@ -48,11 +48,11 @@ If you use Slack, you can enable automatic user notifications in Slack via the [
 
 When a message is sent to an item that does not have an existing conversation, or if the discussion was previously closed, the conversation status changes to “Open.” It will then appear in the interface with a small red dot, as well as in the general conversation hub.
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-380.png" alt=""><figcaption></figcaption></figure>
 
 Once the conversation is finished, if you have the rights to close conversation topics, you can click the “Close Conversation” button. This will display the conversation indicator in green.
 
-<figure><img src="../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-379.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -61,6 +61,6 @@ Once the conversation is finished, if you have the rights to close conversation 
 To centralize all open conversations in Dastra, you can access the central conversation hub.\
 You can find it by clicking this link in the navigation bar.
 
-<figure><img src="../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-378.png" alt=""><figcaption></figcaption></figure>
 
 This hub brings together all conversations within your workspace. You can answer all your users’ questions while accessing the records of the relevant items.

@@ -111,7 +111,7 @@ To manipulate consents by service, you will need the simplified service name ava
 Go to the service management interface, when editing a service, the simplified name (slug) of the service appears below the cookie name.
 {% endhint %}
 
-![Location of simplified cookie name](<../../../.gitbook/assets/image (218).png>)
+![Location of simplified cookie name](<../../../.gitbook/assets/image-218.png>)
 
 ```javascript
 <script> 

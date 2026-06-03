@@ -6,7 +6,7 @@ description: Learn how to export and share a questionnaire report in Dastra.
 
 Once answers have been collected and the questionnaire validated, you can export or share the report in several ways.
 
-<figure><img src="../../.gitbook/assets/reponde audit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reponde-audit.png" alt=""><figcaption></figcaption></figure>
 
 From the response view, the following actions are available:
 

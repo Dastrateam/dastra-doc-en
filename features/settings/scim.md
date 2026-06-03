@@ -48,11 +48,11 @@ You define groups in your Azure Directory, and Dastra can synchronize these user
 
 Log on to Dastra as administrator. Go to Organization configuration > click on Security / SCIM
 
-![](<../../.gitbook/assets/image (196).png>)
+![](<../../.gitbook/assets/image-196.png>)
 
 Click on the "Configure" button
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-2-1-1-1-2-1-1.png" alt=""><figcaption></figcaption></figure>
 
 Configure your SCIM. Select the workspace you wish to synchronize (teams and users will be automatically provisioned in this workspace). Then choose the default role you wish to give to new users. Note that roles will be managed locally by the Dastra account administrator.&#x20;
 
@@ -68,11 +68,11 @@ Click on "**Test connection**" and "**Save**".  If you encounter an error during
 
 #### 9. Activate provisioning
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-182.png" alt=""><figcaption></figcaption></figure>
 
 #### 10. Add users and/or groups to the created application
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-201.png" alt=""><figcaption></figcaption></figure>
 
 ### Let your users log in to Dastra
 

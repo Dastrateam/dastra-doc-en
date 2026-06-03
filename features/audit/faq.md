@@ -27,35 +27,35 @@ Yes, it is possible from the "long text" question type by checking the box "Auto
 
 Yes, you can do so from the questionnaire template editor by clicking on "Contribute":
 
-<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-07-26 120534.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/screenshot-2024-07-26-120534.png" alt=""><figcaption></figcaption></figure></div>
 
 ## What to do when you get the error message "Error: there is a duplicate slug for the following questions" when saving a questionnaire? <a href="#slug-error" id="slug-error"></a>
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-11-04-170330.png" alt=""><figcaption></figcaption></figure>
 
 This message indicates that one or more questions in the questionnaire have exactly the same "Variable's name", which creates the error.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170633.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/screenshot-2024-11-04-170633.png" alt=""><figcaption></figcaption></figure></div>
 
 Questions with the same "Variable's name" can be identified by the error message "The variable name is present in another question" displayed above them.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170725.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/screenshot-2024-11-04-170725.png" alt=""><figcaption></figcaption></figure></div>
 
 To solve this problem, modify the "Variable's name" of each duplicate question to make it unique, for example by adding an incremented number at the end of each "Variable's name".
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-11-04 170853.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-11-04-170853.png" alt=""><figcaption></figcaption></figure>
 
 When the questionnaire no longer contains any duplicated "Variable's name", it can be saved normally.
 
 ## What to do when you get the error message "Blocked because of too many mails sent"? <a href="#what-to-do-when-you-get-the-error-message-blocked-because-of-too-many-mails-sent" id="what-to-do-when-you-get-the-error-message-blocked-because-of-too-many-mails-sent"></a>
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-05 093157.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-05-093157.png" alt=""><figcaption></figcaption></figure>
 
 This message appears if 5 email invitations have already been sent to a respondent from the same questionnaire.
 
 When this message appears, you can still invite the respondent by sending them the questionnaire invitation link available here:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-05 092814.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-05-092814.png" alt=""><figcaption></figcaption></figure>
 
 ## What should I do when I cannot "Review and validate the questionnaire" even though I am an owner of the questionnaire?
 
@@ -63,4 +63,4 @@ This can happen when the respondent has not yet finalized their questionnaire by
 
 In this case, as an owner, you can check the status of the questionnaire from the respondent's side using the respondent access link available here:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-24 164715.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-24-164715.png" alt=""><figcaption></figcaption></figure>

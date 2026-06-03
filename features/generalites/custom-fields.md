@@ -80,17 +80,17 @@ You can:&#x20;
 * Choose the module in which you want to add a custom field
 * Fields must be created in groups. These groups can be positioned in a certain way in the form Click on "**Create a group of fields**"
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 15.06.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-150651.png" alt=""><figcaption></figcaption></figure>
 
 **Fill in the name and location** in the form that you want
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 15.08.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-150823.png" alt=""><figcaption></figcaption></figure>
 
 For some elements, it is possible to define the location you want in the form!&#x20;
 
 * Once the group is created, you can now **drag and drop the field types** you want to set up!
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 15.11.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-151117.png" alt=""><figcaption></figcaption></figure>
 
 Fill in all the information! Click on save and that's it!&#x20;
 

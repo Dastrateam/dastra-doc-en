@@ -10,11 +10,11 @@ You can invite someone to collaborate on your workspaces by inviting them to the
 
 You can invite users to your workspace by clicking on the "settings" button at the bottom left of the screen, then "access management / users" and finally "invite a user":
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.30.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.30.07.png" alt=""><figcaption></figcaption></figure>
 
 Enter the e-mail address of the person you wish to invite in your Dastra space. If this address is not already attached to the organization, click on it to send an invitation link.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.35.11.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.35.11.png" alt="" width="563"><figcaption></figcaption></figure>
 
 A form appears. Enter your surname, first name, role and team, then click on the "Send invitation" button. The invited person will receive an e-mail containing a link which, once clicked, will enable that person to access the space, at this time a notification mail will be sent to you.
 
@@ -24,13 +24,13 @@ That's it, the user has been invited!
 
 You can control current invitations in the "Users" section of the workspace settings.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.37.02.png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.37.02.png" alt="" width="360"><figcaption></figcaption></figure>
 
 ## Resend invitation link
 
 If the invited user has not clicked on the invitation link and the link has expired (after 10 days), you can resend the invitation link by clicking on the "Resend invitation" button.
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-75.png" alt=""><figcaption></figcaption></figure>
 
 ## Create and assign teams
 
@@ -53,11 +53,11 @@ The steps to follow:&#x20;
 * Go to this link: [https://app.dastra.eu/general-settings/users](https://app.dastra.eu/general-settings/users?q=\&page=1\&size=20)
 * Click on the button "Import"
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.48.20.png" alt="" width="186"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.48.20.png" alt="" width="186"><figcaption></figcaption></figure>
 
 * Create a file for each workspace in CSV format with the following columns separated by " , " (comma):
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.49.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.49.11.png" alt=""><figcaption></figcaption></figure>
 
 Mandatory fields:
 
@@ -73,7 +73,7 @@ Optional:&#x20;
 
 Here is a sample file for you to download and fill in:
 
-{% file src="../../.gitbook/assets/sample-admin-users_import.csv" %}
+{% file src="../../.gitbook/assets/sample-admin-users-import.csv" %}
 Import file template
 {% endfile %}
 
@@ -99,13 +99,13 @@ To open the console on Microsoft Edge, you can use the following shortcut: Ctrl 
 
 Please note that roles must be created in advance.
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Here the role identifier is number 115</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-95.png" alt=""><figcaption><p>Here the role identifier is number 115</p></figcaption></figure>
 
 **For team identifiers:**
 
 These can be set when adding a team.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-76.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Please note that teams must first be created in the workspace.

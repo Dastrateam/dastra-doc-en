@@ -8,13 +8,13 @@ description: Learn how to share the record of processing.
 
 From the "Record" section of DASTRA, click on the arrow in the upper right-hand corner of the registry next to the "New data processing" button, then in the drop-down menu, click on "Share".&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.58.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-06-105813.png" alt=""><figcaption></figcaption></figure>
 
 Once clicked, a window appears on the screen asking you the expiration date of the sharing link, then click on "Create a link".
 
 The sharing will take into account all the processing activities with the status "published". Processing activities in draft are not shared with this function. To share a processing activity, in draft, it must be shared individually.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.59.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-06-105959.png" alt=""><figcaption></figcaption></figure>
 
 The lifetimes of the links are as follows:&#x20;
 
@@ -33,7 +33,7 @@ Repeat the process described above, but by clicking on the three-stroke button s
 
 Processing activities can be shared regardless of the status (published or draft).
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 11.01.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-06-110139.png" alt=""><figcaption></figcaption></figure>
 
 It's also possible to share several processing activities by selecting them in the Record menu and choosing the grouped action "Share".
 
@@ -43,4 +43,4 @@ All the sharing links created in your workspace are centralized in the managemen
 
 You can view them and delete them if necessary.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 11.05.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-06-110534.png" alt=""><figcaption></figcaption></figure>

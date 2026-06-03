@@ -54,7 +54,7 @@ A "**net**" (or residual) risk, on the other hand, is evaluated by taking into a
 
 ## Visualization of a risk
 
-<figure><img src="../../.gitbook/assets/Example of risk visualization in Dastra.jpg" alt=""><figcaption><p>Example of risk visualization in Dastra</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/example-of-risk-visualization-in-dastra.jpg" alt=""><figcaption><p>Example of risk visualization in Dastra</p></figcaption></figure>
 
 ## For more information
 

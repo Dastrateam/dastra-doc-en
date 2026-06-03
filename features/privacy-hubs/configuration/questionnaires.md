@@ -4,7 +4,7 @@
 
 To activate the 'Questionnaires' feature in your Privacy Hub, refer to the general configuration section where you can enable or disable this option. Once enabled, a new public page titled 'Questionnaires' will be added to your Privacy Hub.
 
-<figure><img src="../../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 232946.png" alt=""><figcaption><p>The Questionnaires configuration accordion</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2024-11-18-232946.png" alt=""><figcaption><p>The Questionnaires configuration accordion</p></figcaption></figure>
 
 
 
@@ -14,7 +14,7 @@ To add a questionnaire, select the questionnaires to share in your Privacy Hub b
 
 You can remove or add additional questionnaires to your Privacy Hub at any time. Added questionnaires will be displayed on the 'Questionnaires' page of your Privacy Hub.
 
-<figure><img src="../../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 233109.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2024-11-18-233109.png" alt=""><figcaption></figcaption></figure>
 
 #### Instructions for Questionnaires&#x20;
 
@@ -32,5 +32,5 @@ Once you’ve selected your questionnaires, you can reorder their display using 
 
 To highlight specific questionnaires, click the pin icon. Pinned questionnaires will always appear at the top of the list, regardless of their configuration order. Additionally, they will also be accessible from the homepage sidebar of your hub, as well as from the 'Questionnaires' page.
 
-<figure><img src="../../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 233515.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2024-11-18-233515.png" alt=""><figcaption></figcaption></figure>
 

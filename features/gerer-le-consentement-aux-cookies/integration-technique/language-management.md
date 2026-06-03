@@ -8,7 +8,7 @@ description: This page explains how to manage the languages of the consent widge
 
 Go to the settings page of the desired widget, then to the "Texts and translations" tab. You can add one or more languages.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-28 à 14.55.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-28-145555.png" alt=""><figcaption></figcaption></figure>
 
 ## How is the widget language detected?&#x20;
 

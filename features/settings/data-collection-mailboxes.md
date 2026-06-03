@@ -20,19 +20,19 @@ Five types of objects can be associated with these collection email boxes:
 
 To set up a collection email for any of the objects listed above, go to your workspace settings, under the Integrations tab, and select the "Incomin mail data collection" card.
 
-<figure><img src="../../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-373.png" alt=""><figcaption></figcaption></figure>
 
 Then, choose the type of object for which you want to set up the integration by clicking on "Add Integration." Note that you can only have one collection email per object type and per workspace.
 
-<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-371.png" alt=""><figcaption></figcaption></figure>
 
 You have the option to specify the destination organizational unit for the objects created through this collection box during the integration setup. If this field is left empty, objects will be created in the default organizational unit.
 
-<figure><img src="../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-374.png" alt=""><figcaption></figcaption></figure>
 
 By clicking "Create," Dastra finalizes the integration setup and provides you with the email address to use.
 
-<figure><img src="../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-375.png" alt=""><figcaption></figcaption></figure>
 
 ### **Key Features**
 

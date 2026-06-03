@@ -8,7 +8,7 @@ description: Learn how to export and import a complete existing record into Dast
 
 To export the entire record, simply go to the "Record of processing activities" module, click on the arrow at the top right next to the creation of a processing activity, then select "Export".
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.12.33.png" alt=""><figcaption><p>Register drop-down menu with export functionality</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-111233.png" alt=""><figcaption><p>Register drop-down menu with export functionality</p></figcaption></figure>
 
 Then choose the export format as well as the type of export desired (complete or article 30 format), and click on "Download file". That's it, your record is exported !
 
@@ -44,15 +44,15 @@ Don't hesitate to consult our library of data processing models: [https://www.da
 
 To import your existing processing activity labels, click on the "Import" tab in the Record section:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.27.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-112732.png" alt=""><figcaption></figcaption></figure>
 
 Next, download a sample of our file as shown on the screen.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.31.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-113136.png" alt=""><figcaption></figcaption></figure>
 
 Indicate the organizational unit:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.32.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-113235.png" alt=""><figcaption></figcaption></figure>
 
 That's it, your treatment labels are imported!
 
@@ -60,7 +60,7 @@ That's it, your treatment labels are imported!
 
 To import your existing applications/assets, click on the "Import" tab in the Data mapping module, Assets tab:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.40.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-114035.png" alt=""><figcaption></figcaption></figure>
 
 That's it, your assets are imported!
 

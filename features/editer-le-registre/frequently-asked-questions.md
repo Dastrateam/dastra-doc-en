@@ -10,7 +10,7 @@ For all the processing activities, you can display the history of the modificati
 
 Just click on the icon at the top of the page representing a clock.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-10 à 15.09.57.png" alt=""><figcaption><p>History access button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-10-150957.png" alt=""><figcaption><p>History access button</p></figcaption></figure>
 
 Please note that changes in organizational units are not tracked.
 
@@ -26,21 +26,21 @@ To delete a processing activity, it's necessary to archive the processing activi
 
 To archive a processing activity, click on the three small dots on the processing activity to display the menu.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-10 à 15.14.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-10-151433.png" alt=""><figcaption></figcaption></figure>
 
 And finally, display the archives
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-10 à 15.16.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-10-151622.png" alt=""><figcaption></figcaption></figure>
 
 and to remove
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-10 à 15.18.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-10-151813.png" alt=""><figcaption></figcaption></figure>
 
 ## How can I change my type of processing activity (from one created as a data controller to one created as a processor, and vice versa)?
 
 You can change the type of processing by clicking on “Switch to processor record” or “Switch to responsible of the processing”:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-10-16 123010.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-10-16-123010.png" alt=""><figcaption></figcaption></figure>
 
 ## Error Message: "Label field is required."&#x20;
 
@@ -50,7 +50,7 @@ This message typically appears when a field is left blank while answering a ques
 
 ## Error message : "Prohibited HTML content is present in a field !"
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165456.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-03-04-165456.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
 
 \
 This message means that HTML code (usually enclosed in angle brackets `< >`) is present in a field where HTML is not allowed (for security reasons).<br>
@@ -58,7 +58,7 @@ This message means that HTML code (usually enclosed in angle brackets `< >`) is 
 \
 The following message makes it easy to identify the affected field:
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-04 165525.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-03-04-165525.png" alt=""><figcaption><p>Prohibited HTML content is present in a field !</p></figcaption></figure>
 
 
 

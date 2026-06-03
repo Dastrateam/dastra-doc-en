@@ -16,11 +16,11 @@ This is often the case for processing relating to the group's general administra
 
 To do this, go to a processing and select the "Relationships" tab located at the top of the record.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.34.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-06-103430.png" alt=""><figcaption></figcaption></figure>
 
 Next, you will need to select a relationship type.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-06 à 10.37.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-06-103745.png" alt=""><figcaption></figcaption></figure>
 
 You can select the type of relationship between processing activities.
 

@@ -20,17 +20,17 @@ In Dastra, a user can have several different roles. To assign several roles to a
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-06 à 11.18.57.png" alt="" width="76"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-06-a-11.18.57.png" alt="" width="76"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-06 à 11.19.10.png" alt="" width="175"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-06-a-11.19.10.png" alt="" width="175"><figcaption></figcaption></figure>
 
 </div>
 
 then display user-related options
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-06 à 11.19.49.png" alt="" width="357"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-06-a-11.19.49.png" alt="" width="357"><figcaption></figcaption></figure>
 
 and select the "role" corresponding to the user in question.
 
@@ -40,7 +40,7 @@ However, it's possible to create customized roles, potentially more suited to yo
 
 To create a custom role, you must be the owner of the organization. Simply go to Organization settings, and "Roles and permissions".
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-06 à 11.24.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-06-a-11.24.56.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Only the organization's owners can access the roles and permissions management screen.

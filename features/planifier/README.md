@@ -18,11 +18,11 @@ At Dastra, we believe that keeping a **clear, collaborative** and **auditable** 
 
 To access the planning module, go to the application and click on the "planning" module on the left of the screen
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-136.png" alt=""><figcaption></figcaption></figure>
 
 This will take you to the planning module:
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-100.png" alt=""><figcaption></figcaption></figure>
 
 ## Go further
 

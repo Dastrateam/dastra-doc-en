@@ -10,11 +10,11 @@ Freshness is an indicator of when an item was last reviewed in Dastra. It can be
 
 To activate the freshness of an object type, go to your workspace settings and select the Regular reviews tab.
 
-<figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption><p>The configuration menu for the reg</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-366.png" alt=""><figcaption><p>The configuration menu for the reg</p></figcaption></figure>
 
 From this menu, you can activate freshness for the various objects that have this feature by clicking on the object selection drop-down menu.
 
-<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption><p>The list of objects for which you can activate freshness</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-367.png" alt=""><figcaption><p>The list of objects for which you can activate freshness</p></figcaption></figure>
 
 Tick the option to activate regular review of the item and set the **desired time interval between each review**.&#x20;
 
@@ -34,11 +34,11 @@ All objects with this functionality have a freshness column that you can add to 
 
 Please note that freshness is only displayed for **published items**.
 
-<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption><p>The freshness column</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-368.png" alt=""><figcaption><p>The freshness column</p></figcaption></figure>
 
 You will also find this indicator in the item shortcut menu.
 
-<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption><p>the freshness indicator in an item's shortcut menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-369.png" alt=""><figcaption><p>the freshness indicator in an item's shortcut menu</p></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ You can decide to review an item at any time, without necessarily waiting for th
 
 This takes you to the item review window. Note that it is possible to consult old reviews from this window.
 
-<figure><img src="../.gitbook/assets/image (370).png" alt=""><figcaption><p>The item review window</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-370.png" alt=""><figcaption><p>The item review window</p></figcaption></figure>
 
 By reviewing an item, you restart a freshness cycle from the current date until the next review date. The review date is calculated by default according to the item's review interval setting (see above). You can decide to ignore this default date and apply a specific expiry date to this item by ticking the "Change next review date" option and selecting a new date (the next review date must be at least D+1).
 

@@ -12,11 +12,11 @@ Creating or modifying a questionnaire template in Dastra is a breeze. To do so, 
 
 To create a questionnaire template, click the "Create Template" button on the "Questionnaires" tab. Then you can select one of the template types available in Dastra: automated, custom, or import from file.
 
-<figure><img src="../../.gitbook/assets/Create audit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create-audit.png" alt=""><figcaption></figcaption></figure>
 
 This brings you to the template type selection interface:
 
-<figure><img src="../../.gitbook/assets/Audit type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/audit-type.png" alt=""><figcaption></figcaption></figure>
 
 * By clicking on the "Automated Questionnaire" tab, you will choose an existing predefined questionnaire template from the Dastra Questionnaire Library.
 * By clicking on "Custom Questionnaire" you can build your own questionnaire template.
@@ -29,7 +29,7 @@ Unlike automated questionnaires, custom questionnaires are fully customisable. B
 
 Dastra offers a number of automated questionnaire templates to document compliance and drive processes. These include templates for privacy impact analysis (PIA/DPIA), legitimate interests assessment (LIA), transfer impact assessment (TIA), processor assessments, and more.
 
-<figure><img src="../../.gitbook/assets/automatic audit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/automatic-audit.png" alt=""><figcaption></figcaption></figure>
 
 Once you have selected a template, you will be taken to the planning screen where you can either:
 
@@ -46,13 +46,13 @@ In Dastra, you can create your own custom questionnaire template. To do this, cl
 
 Build the questionnaire template you want and click on "Save and Continue".
 
-<figure><img src="../../.gitbook/assets/Creation assessement template 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/creation-assessement-template-2.png" alt=""><figcaption></figcaption></figure>
 
 ## Items assessed
 
 You can link questionnaires to items in Dastra. By choosing the type of item being assessed, you force all questionnaire responses based on that template to be linked to an object of the chosen type. For example, you can choose that this questionnaire template will always be linked to a process.
 
-<figure><img src="../../.gitbook/assets/Element audité.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/element-audite.png" alt=""><figcaption></figcaption></figure>
 
 You can choose not to link a questionnaire to a particular object. In this case, the response will always be linked to an organisational unit. This may be the case for global compliance questionnaires for example.
 
@@ -60,7 +60,7 @@ You can choose not to link a questionnaire to a particular object. In this case,
 
 When creating a custom template, you will need to choose a template type.
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-183.png" alt=""><figcaption></figcaption></figure>
 
 These types allow for some customisation of questionnaire models.
 
