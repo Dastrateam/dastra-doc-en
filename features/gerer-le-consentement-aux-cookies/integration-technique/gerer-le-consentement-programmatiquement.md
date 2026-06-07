@@ -20,8 +20,9 @@ The dastra consent service can be accessed in this way:
 
 ```javascript
 <script>
-  dastra = dastra || [] dastra.push(['cookieReady',function(manager)
-  {console.log(manager.consent)});
+  window.dastra = window.dastra || [];
+  window.dastra.push(['cookieReady',function(manager)
+  {console.log(manager.consent)}]);
 </script>
 ```
 
@@ -44,11 +45,11 @@ Once you access the consent manager, it is very easy to retrieve the consents of
 
 ```javascript
 <script>
-dastra = dastra || []
-dastra.push(['cookieReady', function(manager){
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady', function(manager){
     // Get the complete consent services list
     var consents = manager.consent.getAllConsents()
-});
+}]);
 </script>
 ```
 
@@ -89,14 +90,14 @@ Always use the **string labels** (e.g. `'Analytical'`) — numeric values are no
 
 ```javascript
 <script>
-dastra = dastra || []
-dastra.push(['cookieReady',function(manager){
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady',function(manager){
     let consents = manager.consent.getPurposeConsent('Analytical');
     manager.consent.setPurposeConsent('Analytical', false);
 
     // persist consent
     manager.consent.save();
-});
+}]);
 </script>
 ```
 
@@ -113,13 +114,13 @@ Go to the service management interface, when editing a service, the simplified n
 
 ```javascript
 <script>
-dastra = dastra || []
-dastra.push(['cookieReady',function(manager){
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady',function(manager){
     // Get the complete consent services list
     let cookiePurpose = 'google-analytics'; // 2 = Analytic
     let consents = manager.consent.getServiceConsent(cookiePurpose );
     manager.consent.setServicePurpose(cookiePurpose, false)
-});
+}]);
 </script>
 ```
 
