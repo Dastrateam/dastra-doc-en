@@ -8,7 +8,7 @@ description: Learn how to export and import a complete existing record into Dast
 
 To export the entire record, simply go to the "Record of processing activities" module, click on the arrow at the top right next to the creation of a processing activity, then select "Export".
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.12.33 (1).png" alt=""><figcaption><p>Register drop-down menu with export functionality</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 11.12.33.png" alt=""><figcaption><p>Register drop-down menu with export functionality</p></figcaption></figure>
 
 Then choose the export format as well as the type of export desired (complete or article 30 format), and click on "Download file". That's it, your record is exported !
 
@@ -16,10 +16,10 @@ Then choose the export format as well as the type of export desired (complete or
 
 The so-called article 30 format corresponds to what is required by the GDPR. The export will take into account the mandatory fields according to the GDPR. Indeed, the GDPR requires the creation of the record of processing activities. The information contained is:
 
-* Name of the processing activity&#x20;
-* Purposes (without legal basis)&#x20;
-* Data and storage&#x20;
-* Recipients and possible transfers&#x20;
+* Name of the processing activity
+* Purposes (without legal basis)
+* Data and storage
+* Recipients and possible transfers
 * Security measures
 
 ### Complete format
@@ -68,7 +68,7 @@ That's it, your assets are imported!
 
 Repeat the procedure similar to the previous ones from the Data mapping module, Actors tab.
 
-Your actors referential refers to all the parties involved in a processing operation. Legal entities such as data processor, customers or joint controllers, or natural persons such as processing contact persons.&#x20;
+Your actors referential refers to all the parties involved in a processing operation. Legal entities such as data processor, customers or joint controllers, or natural persons such as processing contact persons.
 
 This referential serves as an internal directory in the workspace. For each actor, you can define a type that characterizes him. For example, if you want to add your subcontractor repository, you add all the actors and each subcontractor will have to be associated with a processing.
 

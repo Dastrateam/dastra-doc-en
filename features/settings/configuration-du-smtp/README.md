@@ -2,7 +2,7 @@
 
 ## Introduction
 
-By default, Dastra routes a significant number of email notifications for the following services:&#x20;
+By default, Dastra routes a significant number of email notifications for the following services:
 
 * Real time [Notifications](../notifications.md) (New comments, tasks, ...)
 * Email exchanges as part of a rights exercise request
@@ -25,9 +25,9 @@ Dastra strives to ensure maximum availability and security for transactional ema
 
 You need to have the configuration details of your SMTP server:
 
-* SMTP Host (e.g., smtp.yourservice.com)&#x20;
-* SMTP Port (default is to use port 25)&#x20;
-* Username&#x20;
+* SMTP Host (e.g., smtp.yourservice.com)
+* SMTP Port (default is to use port 25)
+* Username
 * Password
 * A valid sender email address (e.g., [noreply@yourservice.com](mailto:noreply@yourservice.com)): this address must be properly validated by your SMTP provider.
 
@@ -37,21 +37,21 @@ Note that your SMTP server must support a secure connection using SSL.
 
 ### Configuration
 
-Go to the SMTP [server configuration page](https://app.dastra.eu/general-settings/smtp).&#x20;
+Go to the SMTP [server configuration page](https://app.dastra.eu/general-settings/smtp).
 
 Fill in the form fields using the data requested in the [prerequisites](./#prerequisites).
 
-Note that server connectivity is automatically tested to ensure that the server login credentials are correct. A test email will be automatically sent from our servers.&#x20;
+Note that server connectivity is automatically tested to ensure that the server login credentials are correct. A test email will be automatically sent from our servers.
 
 ### Testing
 
 Once you have submitted the form, your SMTP server should be operational. You can verify that the notification emails are indeed coming from your SMTP server. To do this, for example, create a comment in a process and see if you receive the notification email in your mailbox.
 
-* **If you do not receive an email**: either you failed to trigger the notification, or there is a problem with your SMTP configuration.&#x20;
+* **If you do not receive an email**: either you failed to trigger the notification, or there is a problem with your SMTP configuration.
 * **If you receive an email**: verify that your SMTP and sender are properly displayed in the email details.
 
 {% hint style="info" %}
-[How to view email details in GMAIL](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-2584506019/)
+[How to view email details in GMAIL](https://app.gitbook.com/o/uWrGLDLDipyYq3GpIuW2/s/-LvBxs22wUMicv9uWp6C-2584506019/)
 
 [How to view email details in Outlook](https://support.microsoft.com/fr-fr/office/afficher-les-en-t%C3%AAtes-de-message-internet-dans-outlook-cd039382-dc6e-4264-ac74-c048563d212c)
 {% endhint %}

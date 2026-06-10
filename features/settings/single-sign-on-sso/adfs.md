@@ -10,8 +10,6 @@ description: >-
 
 Active Directory Federation Services (commonly abbreviated as ADFS) are a single sign-on (SSO) solution designed by Microsoft. These services, a component of Windows Server operating systems, allow users to authenticate via Active Directory (AD) when they want to access an application that cannot use Integrated Windows Authentication (IWA).
 
-
-
 **Configuration of ADFS in Dastra**
 
 **Step 1: Create a SAML login in Dastra.**
@@ -26,8 +24,6 @@ Active Directory Federation Services (commonly abbreviated as ADFS) are a single
 
 * Go to the "Certificates" directory of the ADFS server
 * Retrieve the .CER certificate of your ADFS server using the "Token-Signing" certificate.
-
-
 
 <figure><img src="../../../.gitbook/assets/adfs1.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,8 +42,6 @@ Copy the X509 Certificate code by opening the CER file with a text editor. Inser
 
 These two values will be used to configure the ADFS server to accept SSO requests from Dastra.
 
-
-
 **Configuration of Dastra Client in ADFS**
 
 Here's how to configure Dastra SSO with ADFS SSO SAML2P:
@@ -56,13 +50,9 @@ Here's how to configure Dastra SSO with ADFS SSO SAML2P:
 
 **Step 2**: Right-click on "Relying Party Trusts" and select "Add Relying Party Trust". This will launch the Relying Party Trust addition wizard.
 
-
-
 <figure><img src="../../../.gitbook/assets/adfs4.png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** In the Select Data Source screen, choose Enter data about the relying party manually.
-
-
 
 <figure><img src="../../../.gitbook/assets/adfs5.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,19 +72,15 @@ Step 9: Click next until the end of the process.
 
 Step 10: Check the box Open the Edit Claim Rules dialog before clicking on "finish". An "Edit Claim Rules" window will then appear.
 
-
-
 <figure><img src="../../../.gitbook/assets/adfs7.png" alt=""><figcaption></figcaption></figure>
 
 **Step 11:** Click on Add Rule and choose the "Claim Rule": "Send LDAP Attributes as Claims".<br>
-
-
 
 <figure><img src="../../../.gitbook/assets/adfs8 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 12:** Map the claims as follows, the names of the claims may vary depending on the configuration of your server. Dastra needs three attributes to function: Email (Mandatory), User's First and Last Name.
 
-<figure><img src="../../../.gitbook/assets/adfs9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adfs8.png" alt=""><figcaption></figcaption></figure>
 
 **Step 13:** Click on "Finish" and then click again on "Add Rule". This time, choose the type "Transform an Incoming Claim" and click next.
 

@@ -51,7 +51,7 @@ At least 8 characters comprising 3 of the 4 types of characters (uppercase, lowe
 
 Delay in accessing the account after several failures.
 
-&#x20;Encryption of passwords in databases with strong encryption rule&#x73;**.**
+Encryption of passwords in databases with strong encryption rule&#x73;**.**
 
 ## API token controls
 
@@ -63,9 +63,8 @@ Use of the role-base-access-control (RBAC) access management model. The person i
 
 ## Secure authentication based on OpenIdConnect for all of our sites
 
-![](<../.gitbook/assets/image (293).png>)
+![](<../.gitbook/assets/image (68).png>)
 
 The authentication authority is [https://account.dastra.eu](https://account.dastra.eu) uses IdentityServer4 technology to ensure the authentication of all our users.
 
 OpenID is a decentralized authentication system that enables single sign-on, as well as attribute sharing. It allows a user to authenticate with several sites (having to support this technology) without having to remember an identifier for each of them but by using each time a unique OpenID identifier.
-

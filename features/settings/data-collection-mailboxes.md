@@ -24,9 +24,7 @@ To set up a collection email for any of the objects listed above, go to your wor
 
 Then, choose the type of object for which you want to set up the integration by clicking on "Add Integration." Note that you can only have one collection email per object type and per workspace.
 
-<figure><img src="../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 You have the option to specify the destination organizational unit for the objects created through this collection box during the integration setup. If this field is left empty, objects will be created in the default organizational unit.
 

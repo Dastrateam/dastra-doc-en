@@ -8,8 +8,6 @@ Once your contract is created, you will be redirected to the contract editing vi
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>A new contact</p></figcaption></figure>
 
-
-
 ### Structure of the contract's edit page
 
 #### The title
@@ -44,4 +42,4 @@ A contract currently consists of four sections: Documents, Assets, Signatories, 
 
 An area where you can preview the documents of your contract (the main contract and any annexes).
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Documents preview area</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Documents preview area</p></figcaption></figure>

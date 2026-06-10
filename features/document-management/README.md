@@ -48,17 +48,11 @@ With Dastra, you can quickly create a document for note-taking directly in the p
 
 Go to the document management module and click **"Write a document"**.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 104431.png" alt=""><figcaption><p>Write a new document</p></figcaption></figure>
-
 The new document is saved in **Markdown format** (.md) and can be edited directly in Dastra.
-
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Creating folders
 
 You can organise your documents into folders for easy retrieval. Sub-folders are supported.
-
-<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Access rights management
 
@@ -69,8 +63,6 @@ It is possible to restrict access to specific folders and files. Permissions can
 {% endhint %}
 
 The workspace owner (or administrator) can configure access rights by clicking the settings icon on the relevant row, then adding teams and users with the appropriate permission level.
-
-<figure><img src="../../.gitbook/assets/select-permission.gif" alt=""><figcaption><p>Access rights management interface</p></figcaption></figure>
 
 Permissions are applied to all **child elements** (i.e. all items contained within the folder, including sub-folders).
 
