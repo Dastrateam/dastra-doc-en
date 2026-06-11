@@ -12,7 +12,7 @@ To optimize your time and increase efficiency, you can set up message templates 
 
 ### Types of Accessible Message Templates"
 
-<figure><img src="../../.gitbook/assets/MT_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mt-1.png" alt=""><figcaption></figcaption></figure>
 
 The types of models are as follows:
 
@@ -47,7 +47,7 @@ For example, in the invitation to respond to an audit, it will be possible to au
 
 
 
-<figure><img src="../../.gitbook/assets/MT_2.png" alt=""><figcaption><p>Custom fields of the invitation message to respond to an audit</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mt-2.png" alt=""><figcaption><p>Custom fields of the invitation message to respond to an audit</p></figcaption></figure>
 
 You can easily add dynamic fields directly into the template. As a template creation language, we use LiquidJS syntax.
 

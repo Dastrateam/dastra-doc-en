@@ -10,7 +10,7 @@ description: >-
 
 To activate the ' Data subject requests' feature in your Privacy hub, refer to the general configuration section where you can enable or disable this option. Once enabled, a new public page titled  'Data subject requests' will be added to your Privacy Hub.
 
-<figure><img src="../../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 233858.png" alt=""><figcaption><p>The Data subject requests configuration accordion</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2024-11-18-233858.png" alt=""><figcaption><p>The Data subject requests configuration accordion</p></figcaption></figure>
 
 
 

@@ -39,17 +39,17 @@ Dastra supports the following data formats:&#x20;
 
 To access the data import menu, click on the "import" button under each arrow of the create button.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-18 102334.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-12-18-102334.png" alt=""><figcaption></figcaption></figure>
 
 Select Excel if asked:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.16.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-101633.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Download the template file
 
 Then, download a file template by clicking on the "Download file template" button:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.18.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-101834.png" alt=""><figcaption></figcaption></figure>
 
 The template file is a **CSV file** that you can easily edit with a Libre Office, Wordpad, Excel or Google Sheet.
 
@@ -57,7 +57,7 @@ This will contain all the necessary columns with sample data.&#x20;
 
 Example file (for the record):
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption><p>Line 2 contains example data that must be replaced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-150.png" alt=""><figcaption><p>Line 2 contains example data that must be replaced</p></figcaption></figure>
 
 #### Fill in the file template
 
@@ -65,7 +65,7 @@ Fill the downloaded file with your data.&#x20;
 
 For each data file, you will be able to display the expected values on the columns:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.22.43.png" alt=""><figcaption><p>Expected values for the record import file</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-102243.png" alt=""><figcaption><p>Expected values for the record import file</p></figcaption></figure>
 
 #### Load the file
 
@@ -85,7 +85,7 @@ By default, the import will create new objects. If the object already exists (an
 
 It's possible to update an existing object (for example an actor). In this case, select the "Update to existing data" box and choose the matching field. This field will be the key to identify the fields to be updated.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.38.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-103849.png" alt=""><figcaption></figcaption></figure>
 
 By clicking on the "Overwrite matched row" button, the corresponding data will be replaced by the data from the import.
 
@@ -93,7 +93,7 @@ By clicking on the "Overwrite matched row" button, the corresponding data will b
 
 Send the file by clicking in the zone:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.40.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-104056.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also upload your files by dragging and dropping them into the file upload area
@@ -103,7 +103,7 @@ You can also upload your files by dragging and dropping them into the file uploa
 
 The following utility allows you to validate and possibly choose the columns of your Excel file on the columns expected in import format.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.43.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-104316.png" alt=""><figcaption></figcaption></figure>
 
 If everything seems to be in order, you can start the data import.
 
@@ -111,7 +111,7 @@ If everything seems to be in order, you can start the data import.
 
 Start the data import by clicking on the continue button. The import process will then start.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-02-17 à 10.45.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-02-17-104522.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. That's it!
 

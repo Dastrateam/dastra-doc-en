@@ -14,7 +14,7 @@ Click on "Settings" and then "Process Flow." ​ ​&#x20;
 
 This will give you access to the different available workflow stages per process. Customize them according to your preferences and then click "Save."&#x20;
 
-<figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-340.png" alt=""><figcaption></figcaption></figure>
 
 ### Can you delete a workflow stage?&#x20;
 
@@ -22,4 +22,4 @@ To delete stages, click on the trash bin. Elements attached to the deleted stage
 
 For example, if **you delete the "In Progress" stage** in task workflows,
 
-<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-339.png" alt=""><figcaption></figcaption></figure>

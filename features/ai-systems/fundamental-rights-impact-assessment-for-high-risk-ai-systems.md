@@ -27,7 +27,7 @@ The Fundamental Rights Impact Assessment aims to:
 
 In Dastra, when you define an AI system as **high-risk**, you will see an alert prompting you to perform an **impact assessment**.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-23 123218.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-23-123218.png" alt=""><figcaption></figcaption></figure>
 
 If you have the **Dastra Questionnaires module**, this alert banner will provide a button labeled “Perform an impact assessment”. Clicking it will open a window containing questionnaires.
 
@@ -40,6 +40,6 @@ You can then:
 
 To import our ready-to-use template, click “**Create a template**”, then "**Automated questionnaires**”. This will redirect you to a list of templates. In the filters, select “**Dastra default library**” and choose the type “**Privacy impact assessment (DPIA)**”. You can also type “DPIA Template for AI Systems - GDPR and EU AI Act Compliance” in the search bar.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2026-02-23 123054.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2026-02-23-123054.png" alt=""><figcaption></figcaption></figure>
 
 You can now carry out your impact assessment.

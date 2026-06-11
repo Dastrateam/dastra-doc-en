@@ -16,7 +16,7 @@ Dastra's record of processing activities log functionality meets all regulatory 
 
 processing activities can be duplicated and processing activities models are available in a library freely accessible to all our users. A workflow is integrated, a search function is natively present and it's possible to import / export treatment sheets in different formats (pdf, word, html, excel, csv, json). It's possible to attach attachments, violations or risks to these treatments.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-24 à 17.39.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-24-173945.png" alt=""><figcaption></figcaption></figure>
 
 ## Record "Data controller" versus "Subcontractor"
 

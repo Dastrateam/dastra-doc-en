@@ -16,7 +16,7 @@ In Dastra, **data** can be **viewed** in several ways:&#x20;
 
 To change the way processing activities are displayed in your record, go to the "Record of processing activities" module in the left-hand banner of the screen. By default, the processing activities are displayed in table mode. Click on the **arrow to the right** of the "List view" button.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-06 à 17.44.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-06-174431.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The first choice "List view" refers to the standard view of the processing activity **record.**

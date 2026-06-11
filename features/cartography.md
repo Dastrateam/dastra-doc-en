@@ -8,7 +8,7 @@ description: Learn how to map your organization's personal data in Dastra
 
 Before you start creating your treatment sheets, we recommend that you map the company's data as accurately as possible. The diagram below shows you the structure of the mapping that you can set up.
 
-<figure><img src="../.gitbook/assets/Editor.png" alt=""><figcaption><p>Diagram of the data mapping</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/editor.png" alt=""><figcaption><p>Diagram of the data mapping</p></figcaption></figure>
 
 To inventory all the personal data of your IS, here is the procedure to follow:&#x20;
 

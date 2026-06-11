@@ -42,7 +42,7 @@ This information will allow Dastra to generate a secure access token to communic
 
 4. After validation, a configuration window will appear. This step is mandatory to complete the installation.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1.png" alt=""><figcaption></figcaption></figure>
 
 **Configuration**
 

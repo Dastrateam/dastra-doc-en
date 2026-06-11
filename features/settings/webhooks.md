@@ -11,7 +11,7 @@ Simply put, webhooks are used to trigger an action in response to an event. They
 
 ## Configuration 🛠️
 
-To configure your webhooks, go to : [https://app.dastra.eu/general-settings/webhooks](https://app.dastra.eu/general-settings/webhooks)​![](<../../.gitbook/assets/Capture d'écran 2024-12-16 122808.png>)​
+To configure your webhooks, go to : [https://app.dastra.eu/general-settings/webhooks](https://app.dastra.eu/general-settings/webhooks)​![](<../../.gitbook/assets/screenshot-2024-12-16-122808.png>)​
 
 * Click on "create a webhook url ”
 * Enter your webhook reception url.
@@ -21,7 +21,7 @@ To configure your webhooks, go to : [https://app.dastra.eu/general-settings/webh
 
 This takes you to the webhook details screen.
 
-![](<../../.gitbook/assets/Capture d'écran 2024-12-16 123229.png>)​
+![](<../../.gitbook/assets/screenshot-2024-12-16-123229.png>)​
 
 ## How to receive the webhook 🛬 <a href="#comment-receptionner-le-webhook" id="comment-receptionner-le-webhook"></a>
 
@@ -166,24 +166,24 @@ The webhook will be automatically blocked and considered in error when the thres
 
 Retrieve webhooks linked to your account (in all workspaces)
 
-{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="get" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% openapi src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls" method="get" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endopenapi %}
 
 Create a new webhook url using the POST endpoint. Fill in the events to which you wish to subscribe your webhook with the subscribedEvents webhooks parameter.
 
-{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls" method="post" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% openapi src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls" method="post" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endopenapi %}
 
 
 
 A webhook ID will be returned to you
 
-{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="get" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% openapi src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls/{id}" method="get" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endopenapi %}
 
-{% openapi src="../../.gitbook/assets/dastra api.json" path="/v1/WebHookUrls/{id}" method="delete" %}
-[dastra api.json](<../../.gitbook/assets/dastra api.json>)
+{% openapi src="../../.gitbook/assets/dastra-api.json" path="/v1/WebHookUrls/{id}" method="delete" %}
+[dastra api.json](<../../.gitbook/assets/dastra-api.json>)
 {% endopenapi %}

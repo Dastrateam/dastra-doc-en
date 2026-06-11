@@ -14,11 +14,11 @@ This visualization allows you to understand to which entities and/or departments
 
 To view the processing activity tree, click on the "Record of processing activities" module and then click on the arrow to the right of the button, to select the "Tree view" option.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-06 à 17.44.31.png" alt=""><figcaption><p>Arrow on the right of the button &#x26; drop down menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-06-174431.png" alt=""><figcaption><p>Arrow on the right of the button &#x26; drop down menu</p></figcaption></figure>
 
 Thus, you will be able to visualize **the tree of** processing activities.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.22.59.png" alt=""><figcaption><p>The processing activity tree in Dastra</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-10-142259.png" alt=""><figcaption><p>The processing activity tree in Dastra</p></figcaption></figure>
 
 {% hint style="info" %}
 The filters and the settings button will allow you to modify the tree view to your liking.

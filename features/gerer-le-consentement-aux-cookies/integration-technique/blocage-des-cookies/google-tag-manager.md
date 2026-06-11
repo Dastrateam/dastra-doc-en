@@ -30,7 +30,7 @@ In this example, we will trigger the Google Optimize tag when the user gives the
 In your GTM container, create an event trigger on the dataLayer named “dastra:consent:google-optimize.”\
 The Google Optimize tag will then only trigger on this event. Here is what it looks like in the GTM interface:
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-1-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Specific case of “blocking triggers”
 
@@ -49,13 +49,13 @@ In this case, it is necessary to configure certain settings in order to directly
 Name your tag “DastraConsents,” for example. In the cookie name field, enter the name of the consent cookie (default: **consent-eu**).\
 Remember to **select the “URI-decode cookie” option**.
 
-<figure><img src="../../../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-389.png" alt=""><figcaption></figcaption></figure>
 
 #### Then configure your trigger as follows:
 
 In this case, our tag fires if the scroll depth on the page is > 20%. We want this tag to fire only if the Google Analytics service has been authorized by the user. Here's how to configure the tag trigger.
 
-<figure><img src="../../../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-390.png" alt=""><figcaption></figcaption></figure>
 
 In the “Some Pages” section, if you want to activate the tag only when consent has been given to use a service, enter the formula **DastraConsents contains “{serviceName}”:true** (example “crisp”:true) without spaces
 
@@ -68,7 +68,7 @@ If you want to trigger the tag in the event of a refusal, enter the formula:
 If you have many different triggers for the same tag, it is also possible to create an exception in this way.\
 Example of a tag with multiple triggers:
 
-<figure><img src="../../../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-391.png" alt=""><figcaption></figcaption></figure>
 
 In this case, we want to add an exception: if the Google Ads tag (google-ads) is not accepted, we do not want the tag to trigger.
 
@@ -86,11 +86,11 @@ If you also want to disable the default tag even if the user has not clicked on 
 **DastraConsents Does not contain “google-ads”:true**
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-392.png" alt=""><figcaption></figcaption></figure>
 
 Click “Save.” You should have this:
 
-<figure><img src="../../../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-393.png" alt=""><figcaption></figcaption></figure>
 
 Save your changes and you should see that your tags are disabled on the relevant pages if consent is not given.
 

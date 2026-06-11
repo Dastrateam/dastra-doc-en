@@ -4,7 +4,7 @@
 
 The **'Configuration'** tab on a Privacy hub's editing page allows you to set up the essential options for your Privacy hub.
 
-<figure><img src="../../../.gitbook/assets/Capture d&#x27;écran 2024-11-18 232606.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2024-11-18-232606.png" alt=""><figcaption></figcaption></figure>
 
 
 

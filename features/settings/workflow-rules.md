@@ -16,7 +16,7 @@ Workflow rules in Dastra are a set of automated actions — email notifications,
 
 Each rule follows a simple **Trigger → Conditions → Actions** logic:
 
-<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption><p>Trigger → Conditions → Actions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-328.png" alt=""><figcaption><p>Trigger → Conditions → Actions</p></figcaption></figure>
 
 Workflow rules can be applied to the following object types:
 

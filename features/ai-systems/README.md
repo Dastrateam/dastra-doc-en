@@ -10,7 +10,10 @@ An AI system represents the use of personal data using software developed with o
 
 
 
-> The[ OECD AI System definition](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf) states that "An AI system is a machine-based system that, for explicit or implicit objectives, infers, from> &#x20;the input it receives, how to generate outputs such as predictions, content,> &#x20;recommendations, or decisions that can influence physical or virtual environments.> &#x20;Different AI systems vary in their levels of autonomy and adaptiveness after deployment."
+> The[ OECD AI System definition](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf) states that "An AI system is a machine-based system that, for explicit or implicit objectives, infers, from
+> &#x20;the input it receives, how to generate outputs such as predictions, content,
+> &#x20;recommendations, or decisions that can influence physical or virtual environments.
+> &#x20;Different AI systems vary in their levels of autonomy and adaptiveness after deployment."
 
 This definition aims to frame and regulate the development and use of artificial intelligence to ensure that it is used in a way that is safe, ethical and respects the fundamental rights of individuals.
 
@@ -47,7 +50,7 @@ In case you are wondering which AI governance framework applies to your organiza
 
 ## AI Systems in Dastra
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 171006.png" alt=""><figcaption><p>Dastra AI Systems record</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-06-14-171006.png" alt=""><figcaption><p>Dastra AI Systems record</p></figcaption></figure>
 
 This feature is the s of all AI regulations such as the EU AI Act. It will enable you to draw up a **list of all AI systems present within your organization**. We've designed it so that every use of  data with AI is well defined, evaluated, analyzed and documented.
 

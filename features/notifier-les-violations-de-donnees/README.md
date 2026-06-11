@@ -24,11 +24,11 @@ See: [https://www.dastra.eu/fr/data-breach](https://www.dastra.eu/fr/data-breach
 
 DASTRA allows you to establish a register of data breach notifications. To do this, go to the DASTRA application, then click on the Incident report module available in the banner on the left of the screen:
 
-![Symbol of the Incident Report module](<../../.gitbook/assets/image (202).png>)
+![Symbol of the Incident Report module](<../../.gitbook/assets/image-202.png>)
 
 The data breach notification registry appears.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-20 à 18.34.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-20-183434.png" alt=""><figcaption></figcaption></figure>
 
 ## Go further :&#x20;
 

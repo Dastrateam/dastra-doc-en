@@ -10,7 +10,7 @@ description: >-
 
 to get a public key from the Dastra SDK, go to this page: [https://app.dastra.eu/general-settings/api](https://app.dastra.eu/general-settings/api)
 
-<figure><img src="../../../../.gitbook/assets/Capture d’écran 2023-02-21 à 17.13.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/screenshot-2023-02-21-171348.png" alt=""><figcaption></figcaption></figure>
 
 ## Configure your widget
 

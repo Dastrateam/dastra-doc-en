@@ -34,7 +34,7 @@ This configuration applies to all notification emails sent by Dastra within your
 
 You can also access the configuration from this URL: [https://app.dastra.eu/general-settings/smtp](https://app.dastra.eu/general-settings/smtp)
 
-![](<../../../.gitbook/assets/Capture d'écran 2025-09-19 110910.png>)
+![](<../../../.gitbook/assets/screenshot-2025-09-19-110910.png>)
 
 * Select the provider you want to use :
   * **Microsoft 365 (Office 365)**
@@ -48,7 +48,7 @@ You can also access the configuration from this URL: [https://app.dastra.eu/gene
 
 ### Step 2: Fill in the requested information
 
-![](<../../../.gitbook/assets/Capture d'écran 2025-09-19 111634.png>)
+![](<../../../.gitbook/assets/screenshot-2025-09-19-111634.png>)
 
 Two mandatory fields must be filled in:
 

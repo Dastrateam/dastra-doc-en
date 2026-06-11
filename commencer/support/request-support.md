@@ -8,7 +8,7 @@ Sometimes the problem you're experiencing can't be solved through this documenta
 
 In this case, Dastra gives you the option of contacting us directly from the application, either via the "Help" button at the bottom left of the screen, or by accessing the support request questionnaire at the top right of the screen:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>The support button at the top right of the screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-6.png" alt=""><figcaption><p>The support button at the top right of the screen</p></figcaption></figure>
 
 ## Support request questionnaire
 
@@ -16,13 +16,13 @@ After clicking on the support button, a window appears in the application, allow
 
 Choose one of the six possible options, detail your response and click on the “Send request” button.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-07 à 10.55.13.png" alt="" width="563"><figcaption><p>Support request form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-07-a-10.55.13.png" alt="" width="563"><figcaption><p>Support request form</p></figcaption></figure>
 
 
 
 When creating your ticket, you can provide us with prior authorization to conduct tests on your workspace by leaving the<br>
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-05-15 101639.png" alt=""><figcaption><p>Pre-authorization test box</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-05-15-101639.png" alt=""><figcaption><p>Pre-authorization test box</p></figcaption></figure>
 
 This allows us to develop more quickly and efficiently in response to your request.
 

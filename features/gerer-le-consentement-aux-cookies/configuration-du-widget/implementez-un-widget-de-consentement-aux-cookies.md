@@ -12,7 +12,7 @@ This widget is composed of several elements
 
 <figure><img src="https://138894690-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F6C7JDBYbJydNYzQ8vGjp%2FCapture%20web_6-5-2022_93427_www.dastra.eu.jpeg?alt=media&#x26;token=bab7e0b0-450a-4ff4-8117-91e121d03c94" alt=""><figcaption><p>A "cookies" symbol appearing at the bottom left of the screen</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-21 à 15.11.52.png" alt=""><figcaption><p>A fold-out introduction window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-21-151152.png" alt=""><figcaption><p>A fold-out introduction window</p></figcaption></figure>
 
 ## Prerequisites&#x20;
 
@@ -38,7 +38,7 @@ To classify cookies by consent categories, go to the following page:
 
 To set up a cookie consent widget on your website, you must go to the "Appearance" interface of the DASTRA cookie consent module.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-21 à 15.18.41.png" alt=""><figcaption><p>DASTRA Cookie Consent Module "Templating" Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-21-151841.png" alt=""><figcaption><p>DASTRA Cookie Consent Module "Templating" Interface</p></figcaption></figure>
 
 From this interface, you can **fully customize your widget** so that it displays the way you want it to on your website.
 
@@ -48,7 +48,7 @@ You can also make other more general changes to the widget in the "Configuration
 
 Once the settings are complete, click on "Save and continue".
 
-![](<../../../.gitbook/assets/image (274).png>)
+![](<../../../.gitbook/assets/image-274.png>)
 
 ## Insert the widget code on your website
 
@@ -56,7 +56,7 @@ Once you have defined your target cookie consent widget, you can integrate it di
 
 To do this, go to the "Installation" interface of the DASTRA Cookie Consent module, and insert the automatically generated code before the end of the html tag on your website.
 
-![Widget html code generation](<../../../.gitbook/assets/image (247).png>)
+![Widget html code generation](<../../../.gitbook/assets/image-247.png>)
 
 {% hint style="info" %}
 You can use the Google tag manager to dynamically insert this code on each page.

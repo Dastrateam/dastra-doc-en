@@ -23,7 +23,7 @@ The notification centre groups all alerts accessible via the **bell icon** at th
 * Not customisable (shared across the workspace)
 * Contains general notifications about recent activity: creation, modification or deletion of elements
 
-<figure><img src="../../.gitbook/assets/image (330).png" alt=""><figcaption><p>Notification Centre</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-330.png" alt=""><figcaption><p>Notification Centre</p></figcaption></figure>
 
 {% hint style="info" %}
 Example: "A new processing activity has been created in your workspace."
@@ -42,7 +42,7 @@ Each user can choose which notifications to receive by email from their user pro
 3. Enable or disable categories according to your needs
 4. Save your preferences
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-03 102159.png" alt=""><figcaption><p>"Notification Centre" button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-03-03-102159.png" alt=""><figcaption><p>"Notification Centre" button</p></figcaption></figure>
 
 {% hint style="info" %}
 Email notifications are ideal for being alerted to actions requiring a quick response (questionnaires, requests, data breaches, etc.)
@@ -83,7 +83,7 @@ For each category, you can also configure the specific event subtypes. For examp
 * Change of status of a processing activity
 * Deletion of a relationship to a processing activity
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-03 103329.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-03-03-103329.png" alt=""><figcaption></figcaption></figure>
 
 And for questionnaires:
 
@@ -92,7 +92,7 @@ And for questionnaires:
 * Invitation to respond to a questionnaire
 * Questionnaire annotation added
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-03-03 103749.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2025-03-03-103749.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

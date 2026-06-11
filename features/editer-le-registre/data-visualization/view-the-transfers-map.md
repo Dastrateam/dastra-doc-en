@@ -14,11 +14,11 @@ This visualization allows in particular to explore, analyze and understand geogr
 
 To view the transfer map, click on the "Record of processing activities" module and then click on the "**Transfers**" button above your processing activity list.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-10 à 14.59.49.png" alt=""><figcaption><p>Transfers tab above the processing activities</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-10-145949.png" alt=""><figcaption><p>Transfers tab above the processing activities</p></figcaption></figure>
 
 Thus, you will be able **to visualize the transfers map**.
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Example of data transfers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-141.png" alt=""><figcaption><p>Example of data transfers</p></figcaption></figure>
 
 {% hint style="info" %}
 It's possible to access the details of the transfers by clicking on the points corresponding to each country.

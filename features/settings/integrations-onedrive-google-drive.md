@@ -32,7 +32,7 @@ Setting up your cloud file manager is easy:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).avif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-1.avif" alt=""><figcaption></figcaption></figure>
 
 </div>
 

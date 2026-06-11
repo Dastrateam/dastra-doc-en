@@ -22,7 +22,7 @@ To do this, the company or organization must set up a register of requests to ex
 
 The management of a request to exercise a right can be summarised in 4 main steps:
 
-<figure><img src="../../.gitbook/assets/image (333).png" alt=""><figcaption><p>The DSR management process</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-333.png" alt=""><figcaption><p>The DSR management process</p></figcaption></figure>
 
 For more details on the DSR management process, have a look at this page:
 
@@ -38,7 +38,7 @@ Dastra allows you to constitute a register of requests for the exercise of right
 
 
 
-<figure><img src="../../.gitbook/assets/image (329) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-329-1.png" alt=""><figcaption></figcaption></figure>
 
 ## Complete a new data subject rights request
 
@@ -52,17 +52,17 @@ There are 3 ways to fill in a new data subject rights request in DASTRA:
 
 By clicking on the "Add a data subject right request" button, a window appears where you can detail the data subject right request. Click on "Save and exit". That's it, you have created your first data subject right request manually!
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-143.png" alt=""><figcaption></figcaption></figure>
 
 ### Import / export of the data subject right request register
 
 The entire request register is importable and exportable. To import a request, click on the arrow next to the "add a data subject right request" button
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-131.png" alt=""><figcaption></figcaption></figure>
 
 A window appears with an "import" button. Click on it, download the registry template and follow the instructions to import the requests into Dastra. Once imported, the request will be directly available in the request register.
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-138.png" alt=""><figcaption></figcaption></figure>
 
 ### Implementation of data subject right request widget
 

@@ -76,7 +76,7 @@ Step 10: Check the box Open the Edit Claim Rules dialog before clicking on "fini
 
 **Step 11:** Click on Add Rule and choose the "Claim Rule": "Send LDAP Attributes as Claims".<br>
 
-<figure><img src="../../../.gitbook/assets/adfs8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adfs8-1.png" alt=""><figcaption></figcaption></figure>
 
 **Step 12:** Map the claims as follows, the names of the claims may vary depending on the configuration of your server. Dastra needs three attributes to function: Email (Mandatory), User's First and Last Name.
 

@@ -12,7 +12,7 @@ In Dastra, users are grouped into teams, which in turn are assigned to either le
 
 To create a new team or assign a new user to an existing team, click on the "Settings" button at the bottom left of the screen, then on the "Teams" button.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-06 à 11.28.52.png" alt="" width="285"><figcaption><p>The team access button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-06-a-11.28.52.png" alt="" width="285"><figcaption><p>The team access button</p></figcaption></figure>
 
 To create a team, click on the "Add team" button.&#x20;
 

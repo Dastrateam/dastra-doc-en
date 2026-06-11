@@ -18,10 +18,10 @@ _**Note**: only one DPO is attached to an entity._&#x20;
 
 Then add the DPO in the field provided.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.05.04.png" alt="" width="563"><figcaption><p>Edit entity window</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.05.04.png" alt="" width="563"><figcaption><p>Edit entity window</p></figcaption></figure>
 
 The DPO is added as an actor. So, if the DPO is a natural person, add him as a natural person. If the DPO is a company (an external DPO, for example), add him/her as a legal entity.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-01 à 16.07.07.png" alt=""><figcaption><p>Add actor to directory window</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-16.07.07.png" alt=""><figcaption><p>Add actor to directory window</p></figcaption></figure>
 
 Don't forget to register and you're done!

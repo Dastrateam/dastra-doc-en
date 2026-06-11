@@ -6,7 +6,7 @@ description: Learn how to test the integration of a consent widget.
 
 ## Activate the preview mode
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-28 à 14.59.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-28-145949.png" alt=""><figcaption></figcaption></figure>
 
 The preview mode will disable the widget cache and allow you to view your configuration changes live. Localhost domains will also be allowed.
 

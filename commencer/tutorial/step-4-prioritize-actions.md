@@ -8,7 +8,7 @@ Not sure where to start? The [CNIL's guide to personal data security](https://ww
 
 Once you have identified the actions required to complete your compliance project, you create the associated tasks and allocate them to the associated collaborators directly in the "Planning" tab of the Dastra tool:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-06-07 à 10.11.46.png" alt=""><figcaption><p>Sample action plan</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-07-a-10.11.46.png" alt=""><figcaption><p>Sample action plan</p></figcaption></figure>
 
 Find out more about Dastra's "Planning" function:
 

@@ -20,7 +20,7 @@ Once the widget is implemented, DASTRA automatically collects proof of consent f
 
 To consult them, simply go to the "Consent" interface of the DASTRA cookie consent module.
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-02-21 à 16.20.07.png" alt=""><figcaption><p>"Consent" interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-21-162007.png" alt=""><figcaption><p>"Consent" interface</p></figcaption></figure>
 
 {% hint style="info" %}
 From this interface, you can also customize the proofs of consent collected, export data, filter by date or cookie widget, among others.

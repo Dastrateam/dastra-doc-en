@@ -20,10 +20,9 @@ The dastra consent service can be accessed in this way:
 
 ```javascript
 <script>
-window.dastra = window.dastra || []
-dastra.push(['cookieReady',function(manager){
-    console.log(manager.consent)
-});
+  window.dastra = window.dastra || [];
+  window.dastra.push(['cookieReady',function(manager)
+  {console.log(manager.consent)}]);
 </script>
 ```
 
@@ -31,14 +30,14 @@ dastra.push(['cookieReady',function(manager){
 
 In manager.consent, you have the following methods:
 
-* open(): opens the consent widget
-* close(): closes the consent widget
-* getAllConsents(): retrieve all consents
-* hasConsented(): returns `true` if the user has already recorded an explicit consent
-* getPurposeConsent(purposeLabel:string): get consent for a cookie category
-* setPurposeConsent(purposeLabel:string, consent:bool): set the consent for a category
-* getServiceConsent(serviceShortName:string): retrieves consent for a particular service
-* setServiceConsent(serviceShortName:string, consent:bool): sets the consent for a particular service
+- open(): opens the consent widget
+- close(): closes the consent widget
+- getAllConsents(): retrieve all consents
+- hasConsented(): returns `true` if the user has already recorded an explicit consent
+- getPurposeConsent(purposeLabel:string): get consent for a cookie category
+- setPurposeConsent(purposeLabel:string, consent:bool): set the consent for a category
+- getServiceConsent(serviceShortName:string): retrieves consent for a particular service
+- setServiceConsent(serviceShortName:string, consent:bool): sets the consent for a particular service
 
 ### Get the list of user's consents (getAllConsents)
 
@@ -46,11 +45,11 @@ Once you access the consent manager, it is very easy to retrieve the consents of
 
 ```javascript
 <script>
-window.dastra = window.dastra || []
+window.dastra = window.dastra || [];
 window.dastra.push(['cookieReady', function(manager){
     // Get the complete consent services list
     var consents = manager.consent.getAllConsents()
-});
+}]);
 </script>
 ```
 
@@ -101,14 +100,14 @@ Always use the **string labels** (e.g. `'Analytical'`) — numeric values are no
 
 ```javascript
 <script>
-window.dastra = window.dastra || []
-dastra.push(['cookieReady',function(manager){
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady',function(manager){
     let consents = manager.consent.getPurposeConsent('Analytical');
     manager.consent.setPurposeConsent('Analytical', false);
 
     // persist consent
     manager.consent.save();
-});
+}]);
 </script>
 ```
 
@@ -121,17 +120,17 @@ To manipulate consents by service, you will need the simplified service name ava
 Go to the service management interface, when editing a service, the simplified name (slug) of the service appears below the cookie name.
 {% endhint %}
 
-![Location of simplified cookie name](<../../../.gitbook/assets/image (218).png>)
+![Location of simplified cookie name](../../../.gitbook/assets/image-218.png)
 
 ```javascript
-<script> 
-window.dastra = window.dastra || []
-dastra.push(['cookieReady',function(manager){
+<script>
+window.dastra = window.dastra || [];
+window.dastra.push(['cookieReady',function(manager){
     // Get the complete consent services list
     let cookiePurpose = 'google-analytics'; // 2 = Analytic
     let consents = manager.consent.getServiceConsent(cookiePurpose );
     manager.consent.setServicePurpose(cookiePurpose, false)
-});
+}]);
 </script>
 ```
 
@@ -142,7 +141,7 @@ The following example shows how to apply a full opt-out programmatically — for
 ```javascript
 <script>
 window.dastra = window.dastra || [];
-dastra.push(['cookieReady', function(manager) {
+window.dastra.push(['cookieReady', function(manager) {
 
   // Only act if the user hasn't already made an explicit choice
   if (!manager.consent.hasConsented()) {
@@ -187,7 +186,7 @@ This event fires only when `save()` is called — it does **not** fire after `di
 ```javascript
 <script>
 window.dastra = window.dastra || [];
-dastra.push(['cookieReady', function(manager) {
+window.dastra.push(['cookieReady', function(manager) {
 
   manager.consent.setPurposeConsent('Analytical', true);
   manager.consent.setPurposeConsent('Marketing',  false);
@@ -196,4 +195,3 @@ dastra.push(['cookieReady', function(manager) {
 }]);
 </script>
 ```
-

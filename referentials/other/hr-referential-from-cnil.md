@@ -10,11 +10,11 @@ Please find below materials ready for download made available by Dastra to help 
 
 ## 1. Processing labels
 
-{% file src="../../.gitbook/assets/sample-dataProcessings - HR management Referential.xlsx" %}
+{% file src="../../.gitbook/assets/sample-dataprocessings-hr-management-referential.xlsx" %}
 
 ## 2. Dataset and conservation rules
 
-{% file src="../../.gitbook/assets/sample-DataRetentionRule - HR.csv" %}
+{% file src="../../.gitbook/assets/sample-dataretentionrule-hr.csv" %}
 
 
 

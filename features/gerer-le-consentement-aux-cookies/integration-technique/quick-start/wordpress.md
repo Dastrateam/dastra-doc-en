@@ -12,7 +12,7 @@ Once you have finished configuring and designing the Dastra cookie consent widge
 You can find this piece of code and copy / paste it here: Cookie consent> Edit> Code
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (65).png>)
+![](<../../../../.gitbook/assets/image-65.png>)
 
 ## 2. Copy and paste in the Wordpress editor
 
@@ -22,6 +22,6 @@ Click on the "Appearance" button in the vertical banner on the left of the scree
 
 &#x20;Select the "Footer.php" file on the right of the screen that appears, then insert the code previously retrieved from Dastra at the end of the \<body> tag (just before \</body>).
 
-![](<../../../../.gitbook/assets/image (227).png>)
+![](<../../../../.gitbook/assets/image-227.png>)
 
 Save by clicking on "Update file", then refresh the page of your website. That's it, the banner appears!

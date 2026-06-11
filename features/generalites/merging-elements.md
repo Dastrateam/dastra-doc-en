@@ -28,12 +28,12 @@ The merge tool can be used on :
 
 Simply select the items you wish to merge :
 
-<div align="left"><figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2025-06-13 091418.png" alt=""><figcaption><p><br></p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/screenshot-2025-06-13-091418.png" alt=""><figcaption><p><br></p></figcaption></figure></div>
 
 Then click on “Choose a grouped action” and “Merge data” :
 
 \
-![](<../../.gitbook/assets/image (386).png>)
+![](<../../.gitbook/assets/image-386.png>)
 
 
 
@@ -45,7 +45,7 @@ Select the main element to be retained after merging.
 \
 Select the fields of the elements to be deleted that you wish to retrieve from the main element.<br>
 
-<figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-387.png" alt=""><figcaption></figcaption></figure>
 
 If fields do not appear on this page, the values of the fields in the retained element are automatically retained.\
 \

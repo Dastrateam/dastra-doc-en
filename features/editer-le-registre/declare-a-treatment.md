@@ -12,7 +12,7 @@ A processing activity is an operation or set of operations performed on personal
 
 To create a processing activity, first click on "Create a data processing" in the Registry section.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.01.05.png" alt=""><figcaption><p>Choice of new treatment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-170105.png" alt=""><figcaption><p>Choice of new treatment</p></figcaption></figure>
 
 Choose the type of treatment.
 
@@ -22,7 +22,7 @@ Fill in the description of the treatment activity and you will be taken to the q
 
 To create a treatment as a processor, it's very simple. When creating a processing operation, you must check the box:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.32.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-173258.png" alt=""><figcaption></figcaption></figure>
 
 You will then automatically arrive at the documentation phase of a processing operation as a data processor and you will be able to declare your data controllers (usually your customers).
 
@@ -30,7 +30,7 @@ You will then automatically arrive at the documentation phase of a processing op
 
 To modify an existing treatment activity, click on the "Edit" button linked to the treatment or click directly on the treatment name:
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-01-30 à 17.38.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-173805.png" alt=""><figcaption></figcaption></figure>
 
 Then follow each step of the questionnaire, starting with the next section:
 

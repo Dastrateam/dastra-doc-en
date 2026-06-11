@@ -2,7 +2,7 @@
 
 For each AI system you register, you'll need to enter the AI model(s) used.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 174553.png" alt=""><figcaption><p>AI Models repository</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-06-14-174553.png" alt=""><figcaption><p>AI Models repository</p></figcaption></figure>
 
 ## Definition
 
@@ -21,7 +21,7 @@ Then click on the "Create an AI model" button. A window opens in which you can e
 
 Don't be afraid to go into great detail in the description section, adding the features and information you have on the model.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 175214.png" alt=""><figcaption><p>Register a new AI Model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-06-14-175214.png" alt=""><figcaption><p>Register a new AI Model</p></figcaption></figure>
 
 You will also need to select its training type. The learning type of an AI model refers to the method by which the model is trained to perform its tasks. Each type is adapted to specific applications and influences the way the model generalizes the knowledge acquired. There are 4 of them, and you'll find a definition next to each one to help you choose.
 
@@ -31,4 +31,4 @@ To link an AI system to a model, go to the AI system concerned. In the second se
 
 elect the models concerned, then fill in the "description of use" field. This explains how the model is used in the AI system concerned.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-06-14 175356.png" alt=""><figcaption><p>Link an AI system to a model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot-2024-06-14-175356.png" alt=""><figcaption><p>Link an AI system to a model</p></figcaption></figure>
