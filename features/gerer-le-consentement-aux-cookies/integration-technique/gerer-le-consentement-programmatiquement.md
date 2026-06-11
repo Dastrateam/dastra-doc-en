@@ -53,6 +53,16 @@ window.dastra.push(['cookieReady', function(manager){
 </script>
 ```
 
+{% hint style="warning" %}
+To call `getAllConsents()` **outside the `cookieReady` callback** (for example from your own code after the widget has loaded), use the full path:
+
+```javascript
+var consents = window.dastra.cookieConsent.consent.getAllConsents();
+```
+
+The old top-level syntax `dastra.getAllConsents()` is no longer supported.
+{% endhint %}
+
 The above method returns a list of all the user's consents
 
 ```javascript
@@ -152,6 +162,26 @@ window.dastra.push(['cookieReady', function(manager) {
 ```
 
 You can equally opt-in selectively — for example to accept analytics only:
+
+### Reacting to consent updates (the `dastra:consents:updated` event)
+
+Every time a user changes their consent choices — through the widget or programmatically via `save()` — Dastra dispatches a `dastra:consents:updated` event on `window`. You can subscribe to it to trigger your own logic: loading third-party scripts, updating the UI, firing an analytics event, etc.
+
+```javascript
+window.addEventListener('dastra:consents:updated', function(event) {
+  // event.detail contains the updated consents
+  console.log('Consents updated', event.detail);
+
+  // Example: reload Google Analytics if the user just accepted analytics
+  if (window.dastra.cookieConsent.consent.getPurposeConsent('Analytical')) {
+    // load or re-enable your analytics scripts here
+  }
+});
+```
+
+{% hint style="info" %}
+This event fires only when `save()` is called — it does **not** fire after `dispatchEvent()` (session-only application without persistence).
+{% endhint %}
 
 ```javascript
 <script>
