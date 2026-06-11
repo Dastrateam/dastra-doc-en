@@ -34,5 +34,25 @@ By:
 </script>
 ```
 
-Replace the "{your-service-slug}" with your service id entered when configuring your widget:
+Replace `{your-service-slug}` with the service slug configured in your widget (visible in the service editing interface, below the cookie name).
+
+***
+
+## FAQ
+
+**Can I block a script by category instead of by service? (e.g. `data-consent="analytics"`)**
+
+No. The `data-consent` attribute expects a **service slug**, not a category slug. Writing `<script data-consent="analytics" type="dastra/script">` to block all services in a category in one directive is not supported.
+
+The reason: a user may accept some services within a category while refusing others in the same category. The widget manages consent at the service level, not the category level.
+
+If you want to conditionally load a script based on whether an entire category has been accepted, use the programmatic API instead:
+
+```javascript
+window.addEventListener('dastra:consents:updated', function() {
+  if (window.dastra.cookieConsent.consent.getPurposeConsent('Analytical')) {
+    // load your analytics scripts here
+  }
+});
+```
 

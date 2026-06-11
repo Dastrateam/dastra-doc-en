@@ -59,8 +59,8 @@ var isOptOut = navigator.globalPrivacyControl === true
             || window.doNotTrack === "1";
 
 if (isOptOut) {
-  dastra = dastra || [];
-  dastra.push(['cookieReady', function(manager) {
+  window.dastra = window.dastra || [];
+  window.dastra.push(['cookieReady', function(manager) {
     if (!manager.consent.hasConsented()) {
       manager.consent.setPurposeConsent('Analytical', false);
       manager.consent.setPurposeConsent('Marketing', false);
@@ -98,6 +98,77 @@ Category labels to use with `setPurposeConsent`:
 | Marketing   | `Marketing`    |
 | Other       | `Other`        |
 | Unclassified| `Unclassified` |
+
+### 3. Displaying an "Opt-Out Request Honored" acknowledgment message
+
+When a GPC or DNT signal is detected, regulations such as CPRA recommend informing the user that their opt-out request has been acknowledged. Dastra does not generate this message natively — you need to inject it into the page yourself.
+
+Two approaches are available depending on the user experience you want.
+
+#### Option A — Ephemeral toast
+
+A message that appears for a few seconds then disappears automatically. Easy to implement, but the user may miss it if they are not looking at the page at the right moment.
+
+```html
+<script>
+var isOptOut = navigator.globalPrivacyControl === true
+            || navigator.doNotTrack === "1"
+            || window.doNotTrack === "1";
+
+if (isOptOut) {
+  window.dastra = window.dastra || [];
+  window.dastra.push(['cookieReady', function(manager) {
+    if (!manager.consent.hasConsented()) {
+      manager.consent.setPurposeConsent('Analytical', false);
+      manager.consent.setPurposeConsent('Marketing', false);
+      manager.consent.dispatchEvent();
+
+      var notice = document.createElement('div');
+      notice.setAttribute('role', 'status');
+      notice.style.cssText = 'position:fixed;bottom:16px;left:16px;background:#222;color:#fff;padding:12px 18px;border-radius:6px;font-size:14px;z-index:9999;max-width:320px;';
+      notice.textContent = 'Opt-Out Request Honored: analytics and marketing cookies have been disabled.';
+      document.body.appendChild(notice);
+      setTimeout(function() { notice.remove(); }, 6000);
+    }
+  }]);
+}
+</script>
+```
+
+#### Option B — Persistent banner (recommended)
+
+A fixed bar at the bottom of the page, visible as long as GPC is active in the browser. More robust for compliance: the indication is permanent, not only visible on first load. A Dismiss button lets the user close it.
+
+```html
+<script>
+var isOptOut = navigator.globalPrivacyControl === true
+            || navigator.doNotTrack === "1"
+            || window.doNotTrack === "1";
+
+if (isOptOut) {
+  window.dastra = window.dastra || [];
+  window.dastra.push(['cookieReady', function(manager) {
+    if (!manager.consent.hasConsented()) {
+      manager.consent.setPurposeConsent('Analytical', false);
+      manager.consent.setPurposeConsent('Marketing', false);
+      manager.consent.dispatchEvent();
+
+      var bar = document.createElement('div');
+      bar.setAttribute('role', 'status');
+      bar.setAttribute('aria-live', 'polite');
+      bar.style.cssText = 'position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;color:#fff;font-size:13px;padding:10px 20px;display:flex;align-items:center;justify-content:space-between;z-index:9999;border-top:1px solid #333';
+      bar.innerHTML = '<span>🔒 Opt-Out Request Honored — analytics and marketing cookies are disabled.</span>'
+        + '<button onclick="this.parentNode.remove()" style="background:none;border:1px solid #555;color:#fff;padding:4px 12px;border-radius:4px;cursor:pointer;font-size:12px;margin-left:16px">Dismiss</button>';
+      document.body.appendChild(bar);
+    }
+  }]);
+}
+</script>
+```
+
+{% hint style="info" %}
+Adapt the message text to your editorial style and your users' language. For multilingual sites, conditionally set the text based on the page locale.
+{% endhint %}
 
 ***
 

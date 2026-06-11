@@ -20,7 +20,7 @@ The dastra consent service can be accessed in this way:
 
 ```javascript
 <script>
-dastra = dastra || []
+window.dastra = window.dastra || []
 dastra.push(['cookieReady',function(manager){
     console.log(manager.consent)
 });
@@ -46,13 +46,23 @@ Once you access the consent manager, it is very easy to retrieve the consents of
 
 ```javascript
 <script>
-dastra = dastra || []
-dastra.push(['cookieReady', function(manager){
+window.dastra = window.dastra || []
+window.dastra.push(['cookieReady', function(manager){
     // Get the complete consent services list
     var consents = manager.consent.getAllConsents()
 });
 </script>
 ```
+
+{% hint style="warning" %}
+To call `getAllConsents()` **outside the `cookieReady` callback** (for example from your own code after the widget has loaded), use the full path:
+
+```javascript
+var consents = window.dastra.cookieConsent.consent.getAllConsents();
+```
+
+The old top-level syntax `dastra.getAllConsents()` is no longer supported.
+{% endhint %}
 
 The above method returns a list of all the user's consents
 
@@ -91,7 +101,7 @@ Always use the **string labels** (e.g. `'Analytical'`) — numeric values are no
 
 ```javascript
 <script>
-dastra = dastra || []
+window.dastra = window.dastra || []
 dastra.push(['cookieReady',function(manager){
     let consents = manager.consent.getPurposeConsent('Analytical');
     manager.consent.setPurposeConsent('Analytical', false);
@@ -115,7 +125,7 @@ Go to the service management interface, when editing a service, the simplified n
 
 ```javascript
 <script> 
-dastra = dastra || []
+window.dastra = window.dastra || []
 dastra.push(['cookieReady',function(manager){
     // Get the complete consent services list
     let cookiePurpose = 'google-analytics'; // 2 = Analytic
@@ -131,7 +141,7 @@ The following example shows how to apply a full opt-out programmatically — for
 
 ```javascript
 <script>
-dastra = dastra || [];
+window.dastra = window.dastra || [];
 dastra.push(['cookieReady', function(manager) {
 
   // Only act if the user hasn't already made an explicit choice
@@ -154,9 +164,29 @@ dastra.push(['cookieReady', function(manager) {
 
 You can equally opt-in selectively — for example to accept analytics only:
 
+### Reacting to consent updates (the `dastra:consents:updated` event)
+
+Every time a user changes their consent choices — through the widget or programmatically via `save()` — Dastra dispatches a `dastra:consents:updated` event on `window`. You can subscribe to it to trigger your own logic: loading third-party scripts, updating the UI, firing an analytics event, etc.
+
+```javascript
+window.addEventListener('dastra:consents:updated', function(event) {
+  // event.detail contains the updated consents
+  console.log('Consents updated', event.detail);
+
+  // Example: reload Google Analytics if the user just accepted analytics
+  if (window.dastra.cookieConsent.consent.getPurposeConsent('Analytical')) {
+    // load or re-enable your analytics scripts here
+  }
+});
+```
+
+{% hint style="info" %}
+This event fires only when `save()` is called — it does **not** fire after `dispatchEvent()` (session-only application without persistence).
+{% endhint %}
+
 ```javascript
 <script>
-dastra = dastra || [];
+window.dastra = window.dastra || [];
 dastra.push(['cookieReady', function(manager) {
 
   manager.consent.setPurposeConsent('Analytical', true);
