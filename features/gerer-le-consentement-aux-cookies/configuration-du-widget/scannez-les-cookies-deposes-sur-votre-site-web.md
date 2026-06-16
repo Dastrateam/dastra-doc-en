@@ -43,3 +43,23 @@ Once the cookies placed on your website are scanned, you can proceed to their cl
 {% content-ref url="classifiez-les-cookies-par-categories-de-consentement.md" %}
 [classifiez-les-cookies-par-categories-de-consentement.md](classifiez-les-cookies-par-categories-de-consentement.md)
 {% endcontent-ref %}
+
+***
+
+## Limitations and best practices
+
+### Cookies set after consent (opt-in services)
+
+By default, a cookie scanner browses your site without giving consent. Cookies that are only placed after opt-in (analytics, marketing, etc.) are never triggered and therefore cannot be detected.
+
+**Exception: if the Dastra SDK is already integrated on your site**, the scanner is able to bypass the consent banner and collect all cookies actually placed — including those from opt-in services. In that case, the scan produces a complete result without any manual intervention.
+
+If the Dastra SDK is not yet in place on the scanned site, opt-in services will need to be **added manually** via the service library.
+
+### Manually added services — excess cookies
+
+When you add a service from the Dastra library (e.g. Google Analytics, Meta Pixel), Dastra imports the full list of cookies that service *can* place across all its possible configurations. Your implementation likely only uses a subset of those.
+
+It is recommended to **remove cookies that your specific implementation does not actually place**. Declaring cookies you do not use is misleading to visitors and may raise questions during a compliance audit.
+
+To identify which cookies to keep, cross-reference the automated scan results (which detect what is actually placed) with the list imported from the library, and remove entries that do not appear in the scan.
