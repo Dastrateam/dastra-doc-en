@@ -7,7 +7,27 @@ To set up a record of your AI systems, you have two options:
 
 ## Create a record of AI Systems
 
-To add an AI system, first click on "Create a new AI system". A window will appear, in which you must enter the name of the system and assign it to an organizational unit.
+To add an AI system, click **"Create a new AI system"**. A window offers three creation modes:
+
+<figure><img src="../../.gitbook/assets/ai-system-create-modal.png" alt="Create a new AI model dialog with three options: Generate with AI, Built-in template, Personalised"><figcaption><p>Three creation modes: AI generation, built-in template, or blank form</p></figcaption></figure>
+
+* **Generate with AI** — The AI assistant automatically generates a complete record from a short description (name, publisher, URL…). It uses web browsing to enrich the information.
+* **Built-in template** — Choose from the Dastra AI system library or from another workspace.
+* **Personalised** — Create a blank record and fill in each field manually.
+
+### Generate an AI system with the AI assistant
+
+Select **"Generate with AI"**, then describe the system to document (name, publisher…). You can attach a file or provide a URL to help the generation.
+
+<figure><img src="../../.gitbook/assets/ai-system-generate-form.png" alt="AI system generation form with description field and URL option"><figcaption><p>Describe the system to generate — the assistant uses web browsing to complete the information</p></figcaption></figure>
+
+The assistant produces a pre-filled record (name, description, learning type, systemic risk, publisher…) which you can review and validate before saving.
+
+<figure><img src="../../.gitbook/assets/ai-system-generate-result.png" alt="AI-generated record for the Gemini 3.1 Pro system"><figcaption><p>The generated record should be reviewed before validation — AI can make mistakes</p></figcaption></figure>
+
+{% hint style="warning" %}
+Data generated automatically by AI may contain errors. Review and correct the proposed record before saving it to your registry.
+{% endhint %}
 
 Once you've entered the required information, you'll be redirected to a 10-step form. This form will enable you to give as much detail as possible about the AI system.
 
@@ -115,6 +135,32 @@ Attach relevant **documents and information leaflets**, such as:
 ### 11. Summary
 
 Review a **comprehensive summary** of all information entered for this AI system before final validation and registration.
+
+***
+
+## Linked processing activities and data synchronisation
+
+The **Data processings** tab of an AI system record lets you associate one or more processing activities from your GDPR record with that system. This link keeps your processing register and your AI systems registry consistent with each other.
+
+<figure><img src="../../.gitbook/assets/ai-system-data-processings-sync.png" alt="Data processings tab in the AI system record with the Sync. data button"><figcaption><p>The "Data processings" tab lists the GDPR processing activities linked to this AI system</p></figcaption></figure>
+
+### Syncing data from a processing activity
+
+For each linked processing activity, the **"Sync. data"** button automatically imports relevant elements into the AI system record: assets, datasets, and data subject categories.
+
+<figure><img src="../../.gitbook/assets/ai-system-data-processings-sync-button.png" alt="Sync. data button highlighted in the linked processing activities list"><figcaption><p>The "Sync. data" button triggers synchronisation from the processing activity into the AI system record</p></figcaption></figure>
+
+A dialog lists the elements available for import, letting you select exactly which ones to add.
+
+<figure><img src="../../.gitbook/assets/ai-system-sync-processing-dialog.png" alt="Synchronisation dialog showing assets, datasets and subject categories to import"><figcaption><p>Select which elements to sync from the processing activity into the AI system</p></figcaption></figure>
+
+### Viewing linked AI systems from a processing activity
+
+Conversely, from any processing activity record, a **"Linked AI systems"** side panel lists all AI systems associated with it.
+
+<figure><img src="../../.gitbook/assets/processing-linked-ai-systems-panel.png" alt="Linked AI systems panel in a processing activity record"><figcaption><p>The "Linked AI systems" side panel is accessible from any processing activity record</p></figcaption></figure>
+
+This two-way link simplifies audits and AI Act compliance documentation from within the GDPR processing register.
 
 ***
 
