@@ -149,6 +149,7 @@
 * [Data subject right request](features/gerer-les-exercices-des-droits/README.md)
   * [Manage data subject right requests](features/gerer-les-exercices-des-droits/manage-data-subject-right-requests.md)
   * [Set up a data subject right request widget](features/gerer-les-exercices-des-droits/implementez-un-widget-dexercice-des-droits.md)
+  * [Widget synchronisation](features/gerer-les-exercices-des-droits/widget-synchronisation.md)
   * [Technical integration](features/gerer-les-exercices-des-droits/technical-integration.md)
   * [API integration](features/gerer-les-exercices-des-droits/api-integration.md)
   * [FAQ](features/gerer-les-exercices-des-droits/faq.md)

@@ -49,7 +49,7 @@ You can start in two ways:
 * **From scratch** — build the rule from a blank canvas.
 * **From a template** — pick a pre-built template from the Dastra default library and customise it.
 
-
+<figure><img src="../../.gitbook/assets/workflow-rule-create-from-template.png" alt="Create a workflow rule dialog — From scratch or From a template"><figcaption><p>Choose to start from a template rather than from a blank canvas</p></figcaption></figure>
 
 ### Template library
 
@@ -60,10 +60,13 @@ The template library brings together two sources of templates:
 
 Templates can be filtered by object type and language.
 
+<figure><img src="../../.gitbook/assets/workflow-rule-select-template.png" alt="Template library showing the DSR assign from tags template"><figcaption><p>Selecting a template from the library</p></figcaption></figure>
 
 **Saving a rule as a template**
 
-Open any existing workflow rule and click **"Save as template"**. The template is immediately available in the library and can be reused on any compatible object type — without having to reconfigure it from scratch each time.
+Open any existing workflow rule and click **"Save as template"**. Give it a name and description, then confirm. The template is immediately available in the library and can be reused on any compatible object type — without having to reconfigure it from scratch each time.
+
+<figure><img src="../../.gitbook/assets/workflow-rule-save-as-template.png" alt="Save as template dialog with name and description fields"><figcaption><p>Saving a workflow rule as a reusable template</p></figcaption></figure>
 
 This is particularly useful for organisations that want to standardise their automation rules and roll out the same workflows across multiple entities or workspaces.
 
