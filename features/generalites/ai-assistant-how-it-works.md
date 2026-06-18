@@ -6,7 +6,7 @@ description: How Dastra's AI Assistant works — models, hosting, data transmitt
 
 ### Models and hosting
 
-<figure><img src="../../.gitbook/assets/ai-assistant-settings-models.png" alt="AI Assistant settings page showing model families and credit quota"><figcaption><p>Settings > AI Assistant — choose the model family and monitor the credit quota</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ai-assistant-settings-models.png" alt="AI Assistant settings page showing model families and credit quota"><figcaption><p>Organisation Settings > AI Assistant — choose the model family and monitor the credit quota</p></figcaption></figure>
 
 Dastra uses pre-trained generative AI models, available in four families:
 
@@ -25,7 +25,7 @@ For each family, three model tiers are used based on task complexity:
 * **Smart** (actions requiring more reasoning): generating structured objects in Dastra
 * **Large context** (actions processing large volumes of data): questionnaire responses, compliance analysis
 
-You can configure the model family used in **Organisation Settings > AI Assistant**.
+You can configure the model family used in **Organisation Organisation Settings > AI Assistant**.
 
 ***
 
@@ -33,7 +33,7 @@ You can configure the model family used in **Organisation Settings > AI Assistan
 
 Dastra lets you connect your own AI provider via an API key, provided it is compatible with the OpenAI API standard. Supported providers include OpenAI, Google (Gemini), Mistral, Microsoft Foundry, and any compatible self-hosted LLM.
 
-To configure a custom provider, go to **Settings > AI Assistant > Custom AI provider**, then enter your credentials and map them to the three model tiers (Fast, Smart, Large context).
+To configure a custom provider, go to **Organisation Settings > AI Assistant > Custom AI provider**, then enter your credentials and map them to the three model tiers (Fast, Smart, Large context).
 
 {% hint style="warning" %}
 When using a Custom AI provider, data sent to the model is subject to **your provider's** privacy policy, not the Azure guarantees described on this page. Review your provider's terms before enabling this option, especially if your prompts may contain personal data.
@@ -70,7 +70,7 @@ This retention remains exceptional and does not apply to normal platform usage. 
 
 ### AI invocation logs
 
-Dastra retains a history of AI assistant calls for the **last 90 days**, accessible via **Settings > AI Assistant > AI invocation logs**. For each call, the following information is recorded:
+Dastra retains a history of AI assistant calls for the **last 90 days**, accessible via **Organisation Settings > AI Assistant > AI invocation logs**. For each call, the following information is recorded:
 
 | Field        | Description                                          |
 | ------------ | ---------------------------------------------------- |
@@ -91,7 +91,7 @@ Dastra tracks AI Assistant consumption through an **AI credit** system. Each cal
 | **Smart**        | Medium               |
 | **Large context**| High                 |
 
-Administrators can access the consumption dashboard under **Settings > AI Assistant > AI credits**: available balance, consumption history, and renewal date.
+Administrators can access the consumption dashboard under **Organisation Organisation Settings > AI Assistant** ([direct link](https://app.dastra.eu/general-settings/ai)): available balance, consumption history, and renewal date.
 
 {% hint style="info" %}
 When the quota is reached, AI features are disabled until the next renewal. The rest of the platform (data, workflows, exports) continues to work normally.
