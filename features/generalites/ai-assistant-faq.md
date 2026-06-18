@@ -36,7 +36,7 @@ Azure models are stateless: prompts and results are not stored in the model betw
 
 **Who can see AI invocations made within my organisation?**
 
-Workspace administrators can access the **AI invocation logs** (90-day history) via **Settings > AI Assistant > AI invocation logs**. These logs show the date, status, operation type, model used, duration, and the user who triggered the generation. The content of prompts and responses is not displayed.
+Workspace administrators can access the **AI invocation logs** (90-day history) via **Organisation Settings > AI Assistant > AI invocation logs**. These logs show the date, status, operation type, model used, duration, and the user who triggered the generation. The content of prompts and responses is not displayed.
 
 ***
 
@@ -72,13 +72,13 @@ Yes. The AI Assistant is not a lawyer. Generated content — compliance analyses
 
 **How do I choose the AI model used?**
 
-Go to **Settings > AI Assistant** to select the model family: OpenAI (default), Mistral, Open source, or a custom provider (Custom AI provider). For each family, three model tiers are used automatically depending on the complexity of the task (Fast, Smart, Extended context).
+Go to **Organisation Settings > AI Assistant** to select the model family: OpenAI (default), Mistral, Open source, or a custom provider (Custom AI provider). For each family, three model tiers are used automatically depending on the complexity of the task (Fast, Smart, Extended context).
 
 ***
 
 **Can I connect my own AI provider?**
 
-Yes, via the **Custom AI provider** feature. Any provider compatible with the OpenAI API standard can be connected: OpenAI, Google (Gemini), Mistral, Microsoft Foundry, or a self-hosted LLM. Configure your credentials in **Settings > AI Assistant > Custom AI provider**.
+Yes, via the **Custom AI provider** feature. Any provider compatible with the OpenAI API standard can be connected: OpenAI, Google (Gemini), Mistral, Microsoft Foundry, or a self-hosted LLM. Configure your credentials in **Organisation Settings > AI Assistant > Custom AI provider**.
 
 {% hint style="warning" %}
 With a Custom AI provider, the Azure guarantees described in this documentation no longer apply. Data is subject to your provider's policy.
@@ -102,7 +102,7 @@ Yes, the AI Assistant is available on all Dastra plans. Some advanced features m
 
 AI credits are the unit of measurement for AI Assistant consumption within your organisation. Each call to an AI feature consumes a certain number of credits, which varies depending on the model tier used (Fast, Smart, or Large context) and the amount of data processed.
 
-Administrators can view current consumption and the remaining balance under **Settings > AI Assistant > AI credits**.
+Administrators can view current consumption and the remaining balance under **Organisation Organisation Settings > AI Assistant** ([direct link](https://app.dastra.eu/general-settings/ai)).
 
 ***
 
