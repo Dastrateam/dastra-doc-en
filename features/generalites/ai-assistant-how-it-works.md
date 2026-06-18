@@ -6,6 +6,8 @@ description: How Dastra's AI Assistant works — models, hosting, data transmitt
 
 ### Models and hosting
 
+<figure><img src="../../.gitbook/assets/ai-assistant-settings-models.png" alt="AI Assistant settings page showing model families and credit quota"><figcaption><p>Settings > AI Assistant — choose the model family and monitor the credit quota</p></figcaption></figure>
+
 Dastra uses pre-trained generative AI models, available in four families:
 
 | Family                             | Configured models                                                                        | Hosting                   |
@@ -79,6 +81,32 @@ Dastra retains a history of AI assistant calls for the **last 90 days**, accessi
 | **Duration** | Processing time for the request                      |
 | **User**     | Workspace member who triggered the generation        |
 
+### AI credits and quotas
+
+Dastra tracks AI Assistant consumption through an **AI credit** system. Each call to an AI feature consumes credits proportionally to the model tier used and the volume of data processed.
+
+| Model tier       | Relative consumption |
+| ---------------- | -------------------- |
+| **Fast**         | Low                  |
+| **Smart**        | Medium               |
+| **Large context**| High                 |
+
+Administrators can access the consumption dashboard under **Settings > AI Assistant > AI credits**: available balance, consumption history, and renewal date.
+
+{% hint style="info" %}
+When the quota is reached, AI features are disabled until the next renewal. The rest of the platform (data, workflows, exports) continues to work normally.
+{% endhint %}
+
+{% hint style="info" %}
+**Custom AI provider — credit counting disabled**
+
+When your organisation uses a **Custom AI provider**, the Dastra credit system does not apply: credit counting is disabled. Consumption is then managed directly by your own provider according to its own billing terms.
+{% endhint %}
+
+To increase your quota, contact the Dastra team.
+
+***
+
 ### What data is transmitted to the model?
 
 {% hint style="info" %}
@@ -106,6 +134,7 @@ Dastra transmits **no data from your workspace** to the AI model unless you init
 | **Generate an AI system description**              | Free text + URL or attachment provided                                                                                                                             | No                                                                          |
 | **Generate an AI system notice**                   | Structured fields of the relevant AI system                                                                                                                        | Potentially                                                                 |
 | **Suggest controls / requirements / tests**        | Context of the relevant object (name, description, framework)                                                                                                      | No                                                                          |
+| **AI analysis of test evidence (Compliance)**      | Test procedure description + evidence content (extracted text, image, or fetched URL)                                                                              | Potentially — depending on the evidence content                             |
 
 {% hint style="warning" %}
 **Best practice**: avoid including personal data directly in free text fields (descriptions, custom instructions). Use identifiers or generic terms where possible.

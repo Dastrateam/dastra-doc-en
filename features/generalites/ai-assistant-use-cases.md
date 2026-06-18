@@ -42,6 +42,8 @@ The assistant can analyse an existing processing activity and produce an assessm
 **Beta feature**: results may be less consistent than a stable feature and should be treated with extra care. This analysis is a decision-support tool, not legal advice.
 {% endhint %}
 
+Once the analysis is generated, click **Print analysis** to export the result as a PDF or send it directly to the printer. This document can be attached to your compliance file.
+
 ***
 
 ### Questionnaires (DPIA, risk analysis…)
@@ -158,6 +160,10 @@ The assistant analyses the fields filled in on the AI system record and produces
 {% hint style="info" %}
 **Beta feature**: treat with extra care and validate with an expert before any decision.
 {% endhint %}
+
+Once the analysis is generated, click **Print analysis** to export the result as a PDF. This document can be attached to your AI Act compliance file.
+
+<figure><img src="../../.gitbook/assets/ai-analysis-result-print.png" alt="AI analysis panel with the Print analysis and Restart analysis buttons"><figcaption><p>The "Print analysis" button exports the analysis result as a PDF</p></figcaption></figure>
 
 ***
 

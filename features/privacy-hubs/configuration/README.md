@@ -14,6 +14,7 @@ The Privacy hub is modular, allowing you to select which features to enable. Bel
 * [**Organizational chart**](org-chart.md)
 * [**Contacts**](contacts.md)
 * [**Security**](security.md)
+* [**AI Systems**](ai-systems.md)
 * [**Appearance and design**](design.md)
 
 #### Enabling/Desabling the Hub

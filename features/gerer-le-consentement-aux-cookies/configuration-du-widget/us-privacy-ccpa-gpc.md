@@ -50,7 +50,21 @@ Two browser signals allow a user to express their refusal to be tracked without 
 | **GPC** (`globalPrivacyControl`) | W3C      | ✅ Yes (CPRA)        | Opt-out signal for the sale/sharing of personal data       |
 | **DNT** (`doNotTrack`)           | W3C      | ❌ No                | "Do not track" preference signal (not legally enforceable) |
 
-Dastra does not detect these signals natively. The following snippet intercepts them **before the user's first interaction** and automatically applies opt-out to the analytics and marketing categories — provided the user has not already recorded an explicit consent choice in their browser.
+#### Native activation (recommended)
+
+Dastra now supports these signals **natively** via a toggle in the widget configuration. Enable the **"Enable Global Privacy Control (GPC)"** option from **Widget configuration > Advanced settings**.
+
+<figure><img src="../../../.gitbook/assets/cookie-widget-gpc-toggle.png" alt="Enable Global Privacy Control (GPC) toggle in the widget advanced settings"><figcaption><p>GPC option in the cookie consent widget advanced settings</p></figcaption></figure>
+
+When this option is enabled, the widget automatically refuses analytics and marketing cookies for any visitor whose browser sends a GPC or DoNotTrack signal — with no additional code required.
+
+{% hint style="info" %}
+Native activation is available from the current version of the Dastra widget. It covers both the `globalPrivacyControl` and the `doNotTrack` signals.
+{% endhint %}
+
+#### Advanced option — Custom JS snippet
+
+If you need finer control (for example displaying an acknowledgment message or applying opt-out to specific categories), you can use the following JS snippet **in addition to** the native toggle, or instead of it if you manage the widget via the JS API:
 
 ```html
 <script>
@@ -80,7 +94,7 @@ Dastra does not detect these signals natively. The following snippet intercepts 
 
 - **`dispatchEvent()`** applies the consent choices for the current session **without writing anything** to the browser's localStorage. The GPC or DNT signal is re-evaluated on every page load. If the user later disables GPC in their browser, normal behaviour resumes automatically. This is the recommended approach for honouring these signals.
 - **`save()`** persists the consent in localStorage, as if the user had made an explicit choice through the widget. Use this only when you want to remember a choice across sessions.
-  {% endhint %}
+{% endhint %}
 
 {% hint style="info" %}
 **What does `hasConsented()` do?**
@@ -178,8 +192,9 @@ Adapt the message text to your editorial style and your users' language. For mul
 
 ## Summary
 
-| Mechanism                 | Implementation   | Legally required (CA) |
-| ------------------------- | ---------------- | --------------------- |
-| CCPA geo-targeted variant | Dastra interface | ✅ Yes                |
-| GPC detection             | JS snippet above | ✅ Yes (CPRA)         |
-| DNT detection             | JS snippet above | ❌ Recommended        |
+| Mechanism                    | Implementation                              | Legally required (CA) |
+| ---------------------------- | ------------------------------------------- | --------------------- |
+| CCPA geo-targeted variant    | Dastra interface                            | ✅ Yes                |
+| GPC detection                | Native toggle (widget config) — recommended | ✅ Yes (CPRA)         |
+| DNT detection                | Native toggle (widget config) — recommended | ❌ Recommended        |
+| Acknowledgment message       | JS snippet (advanced option)                | ❌ Recommended        |

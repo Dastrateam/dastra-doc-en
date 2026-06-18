@@ -84,6 +84,31 @@ Repeat the procedure similar to the previous ones from the Data mapping module, 
 
 Repeat the procedure similar to the previous ones from the Data mapping section, Datasets tab.
 
+#### Export / import datasets with their data fields
+
+You can now export and import your datasets **including their associated data fields**. This makes it easier to migrate an existing data map or to update your data glossary in bulk.
+
+**Exporting datasets with their fields**
+
+From the **Data mapping > Datasets** module:
+
+1. Select the datasets to export (or export the full list)
+2. Click **Export**
+3. Choose the **Full (with data fields)** format
+
+The exported file includes, for each dataset: its name, description, categories of data subjects, retention rule — and the list of associated data fields with their GDPR category and sensitivity indicator.
+
+**Importing datasets with their fields**
+
+The import file follows the same format as the export. For each dataset, you can populate the data fields directly in the dedicated columns of the spreadsheet. During import:
+
+* Fields that do not yet exist in the data glossary are **created automatically**
+* Fields already present are **associated** with the dataset without duplication
+
+{% hint style="info" %}
+This feature is particularly useful for harmonising the data map between multiple workspaces, or for initialising a new workspace from an existing data map.
+{% endhint %}
+
 ### Step 7: Construction of links
 
 Now that the repositories have all been imported, edit each of the treatments and fill in the information based on the imported information following the guide below:
