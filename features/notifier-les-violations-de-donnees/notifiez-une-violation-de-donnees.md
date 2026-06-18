@@ -26,3 +26,25 @@ To import a data breach notification, click on the three vertical dots on the ri
 A window appears with an "import" button. Click on it, download the registry template and follow the instructions to import the violations into Dastra. Once imported, the request will be directly available in the data breach register.
 
 <figure><img src="../../.gitbook/assets/screenshot-2023-01-20-183123.png" alt=""><figcaption><p>Data breach log import window</p></figcaption></figure>
+
+***
+
+## Linking an AI system to a data breach
+
+When a data breach involves an AI system — whether as the cause, the vector, or because it processes the affected data — you can associate it directly with the breach record.
+
+From the breach editing page, in the **Additional information** section, use the **Linked AI systems** field to search for and associate one or more AI systems declared in your workspace.
+
+<figure><img src="../../.gitbook/assets/breach-ai-systems-link-dropdown.png" alt="AI systems section in the breach record with a dropdown to select linked systems"><figcaption><p>"AI systems" tab in the breach record — search and select the systems involved</p></figcaption></figure>
+
+This association allows you to:
+
+* Quickly identify the AI systems involved in incidents
+* Link the breach to the AI Act compliance documentation of the relevant system
+* Centralise incident tracking by AI system in your register
+
+### "With an AI system" indicator in the incidents register
+
+The data breach register now shows a **With an AI system** counter in the statistics bar at the top of the list. This metric lets you monitor at a glance the share of incidents involving an AI system in your organisation.
+
+<figure><img src="../../.gitbook/assets/breach-incidents-ai-kpi.png" alt="Statistics bar in the incidents register showing the With an AI system counter"><figcaption><p>"With an AI system" indicator in the data breach register</p></figcaption></figure>

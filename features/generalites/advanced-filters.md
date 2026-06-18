@@ -53,6 +53,39 @@ You can also **share a view** with other users in your workspace. Shared views a
 
 This feature is available in all sections listing objects: data subject right requests, processing records, assets, contracts, AI systems, data breaches…
 
+## Condition groups
+
+Advanced filters now support **condition groups**, enabling complex filter logic combining **AND** and **OR** operators within the same view.
+
+### Principle
+
+Without groups, all conditions in a filter are combined with an implicit **AND**: the result must satisfy _all_ conditions simultaneously.
+
+With condition groups, you can create independent blocks. Within a group, conditions are linked by **AND**. Between groups, the logic is **OR**: the result must satisfy the conditions of _at least one_ group.
+
+Example:
+
+```
+Group 1 : status = "In progress" AND priority = "High"
+OR
+Group 2 : status = "Overdue"
+```
+
+This filter displays all in-progress high-priority requests, **as well as** all overdue ones — regardless of their priority.
+
+### Creating a condition group
+
+1. Open the filter panel and click **"Add filter"**.
+2. In the filter editor, click **"Add group"**.
+3. Add your conditions within each group.
+4. Save the view to reuse this filter later.
+
+<figure><img src="../../.gitbook/assets/advanced-filters-condition-groups.png" alt="Advanced filters panel with two condition groups connected by an OR operator"><figcaption><p>Example of condition group filters: two AND blocks connected by OR, with "Add a condition" and "Add a group of conditions" buttons</p></figcaption></figure>
+
+{% hint style="info" %}
+Condition groups are available in all Dastra lists: processing records, data subject right requests, assets, contracts, AI systems, data breaches, and more.
+{% endhint %}
+
 ## Known problems
 
 ### My data is not displayed anymore?

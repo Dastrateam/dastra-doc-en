@@ -11,7 +11,7 @@ Once answers have been collected and the questionnaire validated, you can export
 From the response view, the following actions are available:
 
 * **Consult**: review all answers and scores directly in Dastra
-* **Validate**: approve the response and move it to "Published" status
+* **Validate**: approve the response and move it to "Validated" status
 * **Export**: download the report as a PDF or other format
 * **Archive**: archive the response to keep your workspace clean without deleting data
 

@@ -98,6 +98,28 @@ Yes, the AI Assistant is available on all Dastra plans. Some advanced features m
 
 ***
 
+**What are AI credits?**
+
+AI credits are the unit of measurement for AI Assistant consumption within your organisation. Each call to an AI feature consumes a certain number of credits, which varies depending on the model tier used (Fast, Smart, or Large context) and the amount of data processed.
+
+Administrators can view current consumption and the remaining balance under **Settings > AI Assistant > AI credits**.
+
+***
+
+**What happens if my organisation reaches its credit quota?**
+
+When the quota is reached, AI features are temporarily suspended until the next renewal. Your workspace and data remain fully accessible — only AI generation is disabled.
+
+To increase your quota or request an early renewal, contact our team.
+
+***
+
+**Does the credit system apply when using a Custom AI provider?**
+
+No. When your organisation configures a **Custom AI provider**, the Dastra credit system is disabled — no credits are counted. Consumption is managed directly by your provider according to its own billing terms.
+
+***
+
 ### AI Act (EU Regulation 2024/1689)
 
 **Is Dastra's AI Assistant subject to the AI Act?**

@@ -64,6 +64,30 @@ A window appears with a choice of possible formats for export. Click on the form
 
 That's it, your tasks are exported!
 
+## Custom views
+
+The Planning module supports **custom views**: you can save a combination of filters and columns under a name, then switch between your views with a single click from the toolbar.
+
+<figure><img src="../../.gitbook/assets/tasks-custom-view-selector.png" alt="Custom view selector in the Planning module — Kanban board view"><figcaption><p>The view selector appears in the toolbar — switch between saved views with a single click</p></figcaption></figure>
+
+### Creating a view
+
+1. Apply the desired filters and column selection in the **Table** or **Columns** tab.
+2. Click **Save view** in the toolbar.
+3. Give your view a name and confirm.
+
+The view appears directly in the toolbar for quick access.
+
+### Sharing a view
+
+You can **share a view** with other users in your workspace. Shared views appear under the **Shared views** section in the toolbar — handy for standardising action plan monitoring across a team.
+
+### Example use cases
+
+* "Overdue tasks" view: filter on tasks past their due date with status ≠ Closed
+* "My backlog" view: filter on logged-in user, status = To do, sorted by decreasing priority
+* "Q3 Sprint" view: filter on the current iteration, all columns displayed
+
 ## Go further
 
 {% content-ref url="share-as-calendar.md" %}
