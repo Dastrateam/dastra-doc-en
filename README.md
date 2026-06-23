@@ -4,17 +4,17 @@ description: Find out more about Dastra.
 
 # What is Dastra
 
-**Dastra** is a data privacy solution with which data protection teams can drive and manage all GDPR use cases, from managing the registration of processing activities to implementing a cookie widget on their websites.&#x20;
+**Dastra** is a data privacy solution with which data protection teams can drive and manage all GDPR use cases, from managing the registration of processing activities to implementing a cookie widget on their websites.
 
-We aim to help data protection teams raise **awareness** across their business and **improve the GDPR experience** with a streamlined solution providing a single response to organizations' different GDPR needs, through:&#x20;
+We aim to help data protection teams raise **awareness** across their business and **improve the GDPR experience** with a streamlined solution providing a single response to organizations' different GDPR needs, through:
 
-* A fast, intuitive and ergonomic **interface**&#x20;
-* A fruitful **collaboration** between the various players involved in GDPR&#x20;
-* **Time savings** in day-to-day compliance management&#x20;
-* New compliance and management **services** and functionalities&#x20;
-* A **guided** pedagogical approach to empower non-experts step by step&#x20;
+* A fast, intuitive and ergonomic **interface**
+* A fruitful **collaboration** between the various players involved in GDPR
+* **Time savings** in day-to-day compliance management
+* New compliance and management **services** and functionalities
+* A **guided** pedagogical approach to empower non-experts step by step
 
-At Dastra, we believe that data protection is not just a legal matter, it's also a **matter of code, expertise, project management and operations**.&#x20;
+At Dastra, we believe that data protection is not just a legal matter, it's also a **matter of code, expertise, project management and operations**.
 
 For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
@@ -48,20 +48,13 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 Start discovering Dastra right now, first with features and setup, then the tutorial:
 
-{% content-ref url="/broken/pages/-M31sWVv1XZAKK8InMY8" %}
-[Broken link](/broken/pages/-M31sWVv1XZAKK8InMY8)
+{% content-ref url="https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-1972196547/features" %}
+[Features](https://app.gitbook.com/s/-LvBxs22wUMicv9uWp6C-1972196547/features)
 {% endcontent-ref %}
 
 {% content-ref url="/broken/pages/-LvaGKB4EL4Jf4xLoJUG" %}
 [Broken link](/broken/pages/-LvaGKB4EL4Jf4xLoJUG)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-Dastra can be tested free of charge and without credit card during 1 month by registering on link: [https://app.dastra.eu/signup](https://app.dastra.eu/signup)
-
-\
-Don't hesitate to sign up, it's immediate and without obligation!
-{% endhint %}
 
 ## For more information
 
