@@ -8,7 +8,7 @@ Sometimes the problem you're experiencing can't be solved through this documenta
 
 In this case, Dastra gives you the option of contacting us directly from the application, either via the "Help" button at the bottom left of the screen, or by accessing the support request questionnaire at the top right of the screen:
 
-<figure><img src="../../.gitbook/assets/image-6.png" alt=""><figcaption><p>The support button at the top right of the screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsr-settings-purge-rules.png" alt=""><figcaption><p>The support button at the top right of the screen</p></figcaption></figure>
 
 ## Support request questionnaire
 

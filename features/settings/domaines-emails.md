@@ -14,13 +14,13 @@ Email domains allow your future collaborators the possibility to be directly ass
 
 You will find the email domains configuration in the general settings of your organization, under the **security** section.
 
-<figure><img src="../../.gitbook/assets/image-4-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-org-email-domains-default-role.png" alt=""><figcaption></figcaption></figure>
 
 Activate or deactivate the feature by clicking on the button 'Allow users...'
 
 Then choose the role and workspace that will be assigned to future users:
 
-<figure><img src="../../.gitbook/assets/image-1-1-1-1-2-1-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-user-default-role-workspace.png" alt=""><figcaption></figcaption></figure>
 
 Finally, save the configuration by clicking on the Save button!
 
@@ -36,6 +36,6 @@ You are only allowed to add email domains that have been previously authorized (
 
 The next time a collaborator signs up on Dastra, they will still need to enter their email address and validate it. However, they will now be offered to join your organization!
 
-<figure><img src="../../.gitbook/assets/image-337.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ai-systems-create-ai-generated-preview.png" alt=""><figcaption></figcaption></figure>
 
 They will then be able to join you and start working with you!

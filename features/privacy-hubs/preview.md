@@ -10,7 +10,7 @@ If you make changes on the configuration page, you will need to refresh the prev
 Once the configuration is complete, you can share the URL of your Privacy hub.\
 To do this, you can either directly copy the URL from the preview window or click on the **Copy Link** option from the Privacy hub menu.
 
-<figure><img src="../../.gitbook/assets/image-377.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/getting-started-workspace-switcher-dropdown.png" alt=""><figcaption></figcaption></figure>
 
 #### Embed your Privacy hub in an iframe
 

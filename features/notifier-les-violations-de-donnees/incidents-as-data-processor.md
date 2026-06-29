@@ -15,7 +15,7 @@ When creating a new incident, a selector lets you choose between:
 * **Data Controller** — standard flow: supervisory authority notification, communication to data subjects, risk analysis.
 * **Data Processor** — adapted flow: the obligation to notify the supervisory authority directly does not apply; it is the Data Controller's responsibility to notify.
 
-<figure><img src="../../.gitbook/assets/breach-create-subprocessor.png" alt="Create incident dialog with the Data Processor selector (Yes/No)"><figcaption><p>When creating an incident, indicate whether your organisation acts as a Data Processor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/violations-create-subprocessor.png" alt="Create incident dialog with the Data Processor selector (Yes/No)"><figcaption><p>When creating an incident, indicate whether your organisation acts as a Data Processor</p></figcaption></figure>
 
 {% hint style="info" %}
 **Regulatory basis — GDPR Art. 33(2)**
@@ -45,7 +45,7 @@ In Data Processor mode, a dedicated section replaces the standard communication 
 * **Track the notification status** of each DC (notified / pending)
 * **Export the list** of involved DCs for your compliance file
 
-<figure><img src="../../.gitbook/assets/breach-subprocessor-communication-dc.png" alt="Communication to Data Controllers section in a Data Processor incident"><figcaption><p>The Data Controllers tab lists the DCs to notify, with the Attach, Sync, and Export buttons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/violations-subprocessor-communication-dc.png" alt="Communication to Data Controllers section in a Data Processor incident"><figcaption><p>The Data Controllers tab lists the DCs to notify, with the Attach, Sync, and Export buttons</p></figcaption></figure>
 
 ### Automatic synchronisation of DCs from linked processing activities
 

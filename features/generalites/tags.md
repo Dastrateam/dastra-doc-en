@@ -18,6 +18,6 @@ In the tag entry form, start typing the name of any tag, there are two possibili
 
 ## How to manage all the tags in the application?
 
-Go to > **Workspace Settings** ![](<../../.gitbook/assets/image-133.png>)
+Go to > **Workspace Settings** ![](<../../.gitbook/assets/settings-roles-configuration-card.png>)
 
 Click on the **Tag** menu in "Process"

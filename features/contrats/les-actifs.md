@@ -4,4 +4,4 @@ In the Assets tab, you can link specific assets to your contract. This allows yo
 
 The assets you link are sourced from your [data mapping module](../cartography.md). You will find the assets associated with your contract within the contract itself, but also on the asset's profile page, where you can view all contracts it is associated with.
 
-<figure><img src="../../.gitbook/assets/image-13.png" alt=""><figcaption><p>Link assets to your contract</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-smtp-sender-fields.png" alt=""><figcaption><p>Link assets to your contract</p></figcaption></figure>

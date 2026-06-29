@@ -48,7 +48,7 @@ You can also make other more general changes to the widget in the "Configuration
 
 Once the settings are complete, click on "Save and continue".
 
-![](<../../../.gitbook/assets/image-274.png>)
+![](<../../../.gitbook/assets/revue-fraicheur-schema-timeline.png>)
 
 ## Insert the widget code on your website
 
@@ -56,7 +56,7 @@ Once you have defined your target cookie consent widget, you can integrate it di
 
 To do this, go to the "Installation" interface of the DASTRA Cookie Consent module, and insert the automatically generated code before the end of the html tag on your website.
 
-![Widget html code generation](<../../../.gitbook/assets/image-247.png>)
+![Widget html code generation](<../../../.gitbook/assets/cookies-widget-embed-code-snippet.png>)
 
 {% hint style="info" %}
 You can use the Google tag manager to dynamically insert this code on each page.

@@ -20,7 +20,7 @@ There are 3 ways to create a rights request in Dastra:&#x20;
 
 To create a new request manually directly from the record of DSR requests, click on the 'Subject rights' module and then the 'Create a request' button.&#x20;
 
-<figure><img src="../../.gitbook/assets/image-106.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/risks-create-button.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also create DSR requests automatically (see below).
@@ -34,7 +34,7 @@ To create one or more requests for exercising rights via a collection email addr
 \
 To do this, go to the workspace **settings**, then to the "**integrations**" section and finally click on "**Incoming mail data collection**".
 
-<figure><img src="../../.gitbook/assets/image-334.png" alt=""><figcaption><p>The "incoming mail data collection" integration in Dastra.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsr-incoming-mail-integration-card.png" alt=""><figcaption><p>The "incoming mail data collection" integration in Dastra.</p></figcaption></figure>
 
 {% hint style="info" %}
 If this integration is not already installed, install it.
@@ -42,7 +42,7 @@ If this integration is not already installed, install it.
 
 Next, click on the pre-configured use case "Transform an incoming email into a request to exercise rights with associated attachments". An email address will be generated automatically.
 
-<figure><img src="../../.gitbook/assets/image-335.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsr-email-to-request-automation-rule.png" alt=""><figcaption></figcaption></figure>
 
 Therefore, each email sent to this address will automatically be transformed into a request to exercise rights in Dastra!
 

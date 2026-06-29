@@ -31,7 +31,7 @@ Yes, you can do so from the questionnaire template editor by clicking on "Contri
 
 ## What to do when you get the error message "Error: there is a duplicate slug for the following questions" when saving a questionnaire? <a href="#slug-error" id="slug-error"></a>
 
-<figure><img src="../../.gitbook/assets/screenshot-2024-11-04-170330.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/audit-questionnaire-erreur-duplicate-slug.png" alt=""><figcaption></figcaption></figure>
 
 This message indicates that one or more questions in the questionnaire have exactly the same "Variable's name", which creates the error.
 

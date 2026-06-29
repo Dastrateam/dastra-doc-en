@@ -6,7 +6,7 @@ To set up and access this integration in the signature section of a contract, pl
 
 Once the DocuSign integration is open, please click on "Add Integration". You will then be redirected to DocuSign authentication to link your DocuSign account with Dastra. After the connection is established, you will need to enter your DocuSign AccountId and your DocuSign Account Base URI in Dastra.
 
-<figure><img src="../../.gitbook/assets/image-358.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contracts-list-signature-tooltip.png" alt=""><figcaption></figcaption></figure>
 
 Once these fields are filled out, you have completed the integration setup. You can now navigate to the contract module and manage the signing of your contracts electronically.
 
@@ -22,8 +22,8 @@ To validate this page, you must have:
 
 You can also add detailed instructions for signing the document. These instructions will be included in the signing invitation email and will be visible to the signatory in the DocuSign interface when they access the document to sign.
 
-<figure><img src="../../.gitbook/assets/image-359.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contracts-create-details-form.png" alt=""><figcaption></figcaption></figure>
 
 Once the signature is sent, its status is automatically synchronized with your contract and will be updated whenever there is a status change on the DocuSign side.
 
-<figure><img src="../../.gitbook/assets/image-360.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/integration-docusign-marketplace.png" alt=""><figcaption></figcaption></figure>
