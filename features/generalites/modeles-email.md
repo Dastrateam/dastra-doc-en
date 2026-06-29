@@ -14,13 +14,13 @@ Email templates are a feature of data subject rights management, customised work
 
 To select or create a template, click on "Select or create a template".
 
-![](<../../.gitbook/assets/image-322.png>)
+![](<../../.gitbook/assets/contracts-contract-navigation-toolbar.png>)
 
 you can then search for an existing template in the list or the search function, or look at the templates available in the workspaces to which you have access or the templates created by Dastra). \
 \
 If you don't find a suitable template, click on "New template".
 
-![](<../../.gitbook/assets/image-323.png>)
+![](<../../.gitbook/assets/contracts-contract-action-bar.png>)
 
 The model creation interface comprises 4 elements:
 
@@ -29,7 +29,7 @@ The model creation interface comprises 4 elements:
 * A Preview tab: displays the rendering of the email in real time&#x20;
 * An Input Data tab: lets you view the data for the object concerned by the template
 
-![](<../../.gitbook/assets/image-324.png>)
+![](<../../.gitbook/assets/contracts-contract-tabs.png>)
 
 ## Customise the model
 
@@ -43,7 +43,7 @@ You can edit the template and apply styles, insert images or tables as required.
 
 The fields surrounded by double braces are "variables". In other words, they will be replaced by the values of the corresponding object (in this case, a request to exercise a right).\
 \
-![](<../../.gitbook/assets/image-325.png>)
+![](<../../.gitbook/assets/contracts-contract-document-panel-highlight.png>)
 
 
 
@@ -57,7 +57,7 @@ By clicking on the "Input Data" tab, you can access the list of properties of th
 * I enter the name of the field in the body of the message using the syntax \{{message\}}&#x20;
 * I check the result using the "Preview" tab
 
-![](<../../.gitbook/assets/image-326.png>)
+![](<../../.gitbook/assets/contracts-contract-metadata-panel-highlight.png>)
 
 That's it! Now you can create your own custom fields. But that's not all! You can also go even further by creating loops, conditions and applying formats to make the dates easier to read!
 
@@ -133,7 +133,7 @@ The body text below uses all the above elements
 
 For the request currently being processed, it will be transformed as follows:
 
-![](<../../.gitbook/assets/image-327.png>)
+![](<../../.gitbook/assets/contracts-add-cloud-document-modal.png>)
 
 
 

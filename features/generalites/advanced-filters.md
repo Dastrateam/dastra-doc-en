@@ -13,11 +13,11 @@ Advanced filters allow you to filter your data on almost any field in your entit
 * Go to a Dastra module (for example, the data subject rights module)
 * Click on the "Filters" button at the top right of the data table.
 
-<figure><img src="../../.gitbook/assets/image-242.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsr-list-filters-arrow.png" alt=""><figcaption></figcaption></figure>
 
 * A small window will appear, showing you a list of the most commonly used standard filters, by applying one of these filters, the table will update automatically.
 
-<figure><img src="../../.gitbook/assets/image-156.png" alt=""><figcaption><p><em><mark style="color:$info;">Advanced filter combo for data subject requests</mark></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsr-filters-panel-expanded.png" alt=""><figcaption><p><em><mark style="color:$info;">Advanced filter combo for data subject requests</mark></em></p></figcaption></figure>
 
 {% hint style="info" %}
 Combo of advanced filters for exercise requests
@@ -27,7 +27,7 @@ _The combination of these filters is cumulative. For example: if I filter on one
 
 * If you don't find any filters that suit you, you can click on the "Add filter" button. There you can edit the combination of filters that best suits your needs.
 
-<figure><img src="../../.gitbook/assets/image-248.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-sso-adfs-relying-party-trust-menu.png" alt=""><figcaption></figcaption></figure>
 
 By default, Dastra persists the filters you select, which means that if you change pages or refresh your browser, the filters are retained. These filters are specific to your browser and workspace (they are stored in **LocalStorage**).
 
@@ -43,13 +43,13 @@ To create a view  :
 
 The view then appears directly in the toolbar of the relevant section — accessible with one click, without going back through the "Filters" panel.
 
-<figure><img src="../../.gitbook/assets/image-224.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/planning-view-archived-tasks-toggle.png" alt=""><figcaption></figcaption></figure>
 
 You can also **share a view** with other users in your workspace. Shared views appear under the **"Shared views"** section in the toolbar.
 
-<figure><img src="../../.gitbook/assets/image-231.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsr-update-custom-view-dialog.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-234.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/planning-tasks-burnup-chart.png" alt=""><figcaption></figcaption></figure>
 
 This feature is available in all sections listing objects: data subject right requests, processing records, assets, contracts, AI systems, data breaches…
 
@@ -80,7 +80,7 @@ This filter displays all in-progress high-priority requests, **as well as** all 
 3. Add your conditions within each group.
 4. Save the view to reuse this filter later.
 
-<figure><img src="../../.gitbook/assets/advanced-filters-condition-groups.png" alt="Advanced filters panel with two condition groups connected by an OR operator"><figcaption><p>Example of condition group filters: two AND blocks connected by OR, with "Add a condition" and "Add a group of conditions" buttons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/generalites-advanced-filters-condition-groups.png" alt="Advanced filters panel with two condition groups connected by an OR operator"><figcaption><p>Example of condition group filters: two AND blocks connected by OR, with "Add a condition" and "Add a group of conditions" buttons</p></figcaption></figure>
 
 {% hint style="info" %}
 Condition groups are available in all Dastra lists: processing records, data subject right requests, assets, contracts, AI systems, data breaches, and more.

@@ -22,7 +22,7 @@ It's composed of 3 main sections:&#x20;
 
 In the section containing the tiles, you can change the order of appearance of these tiles by clicking on the drag and drop button to move the order of appearance of the tile.
 
-<figure><img src="../.gitbook/assets/image-43.png" alt=""><figcaption><p>An example of tile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashboard-processing-tasks-widgets.png" alt=""><figcaption><p>An example of tile</p></figcaption></figure>
 
 There are several **categories of tiles** available in the dashboard:&#x20;
 

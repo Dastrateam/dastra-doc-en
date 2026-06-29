@@ -4,7 +4,7 @@ Once you have added at least one signatory to your contract ([see signers](les-s
 
 You have the option to declare signatures manually or [integrate with Docusign](integration-avec-docusign.md) to handle the entire electronic signature process electronically. This integration streamlines the signing workflow and ensures compliance with electronic signature requirements.
 
-<figure><img src="../../.gitbook/assets/image-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-message-templates-tabs.png" alt=""><figcaption></figcaption></figure>
 
 There are several ways to access the signing menu:
 
@@ -14,9 +14,9 @@ There are several ways to access the signing menu:
 
 You can sign a contract directly from the summary table view.
 
-<figure><img src="../../.gitbook/assets/image-17.png" alt=""><figcaption><p>Sign from the signers tab of the contract</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contracts-signers-sign-all-dropdown.png" alt=""><figcaption><p>Sign from the signers tab of the contract</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image-18.png" alt=""><figcaption><p>Sign from the table view</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cookies-widget-api-key-modal.png" alt=""><figcaption><p>Sign from the table view</p></figcaption></figure>
 
 #### The "Sign" Button in the Main Actions Area
 
@@ -24,12 +24,12 @@ In the main actions area of your contract (see ), you will find a button related
 
 **1) No Signatories**: Declare signatories to interact with this button.
 
-<figure><img src="../../.gitbook/assets/image-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/planning-tasks-kanban-board.png" alt=""><figcaption></figcaption></figure>
 
 **2) Signatures Missing**: By clicking this state, you can declare any missing signatures.
 
-<figure><img src="../../.gitbook/assets/image-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contracts-sign-all-signers-button.png" alt=""><figcaption></figcaption></figure>
 
 **3) Contract Signed by All Signatories**: By clicking this state, you can remove signatures if needed.
 
-<figure><img src="../../.gitbook/assets/image-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contracts-signed-status-header.png" alt=""><figcaption></figcaption></figure>

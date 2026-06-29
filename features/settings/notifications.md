@@ -23,7 +23,7 @@ The notification centre groups all alerts accessible via the **bell icon** at th
 * Not customisable (shared across the workspace)
 * Contains general notifications about recent activity: creation, modification or deletion of elements
 
-<figure><img src="../../.gitbook/assets/image-330.png" alt=""><figcaption><p>Notification Centre</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/notifications-center-exclude-own-activity.png" alt=""><figcaption><p>Notification Centre</p></figcaption></figure>
 
 {% hint style="info" %}
 Example: "A new processing activity has been created in your workspace."

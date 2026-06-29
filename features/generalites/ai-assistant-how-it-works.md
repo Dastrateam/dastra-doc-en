@@ -6,7 +6,7 @@ description: How Dastra's AI Assistant works — models, hosting, data transmitt
 
 ### Models and hosting
 
-<figure><img src="../../.gitbook/assets/ai-assistant-settings-models.png" alt="AI Assistant settings page showing model families and credit quota"><figcaption><p>Organisation Settings > AI Assistant — choose the model family and monitor the credit quota</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/generalites-ai-assistant-settings-models.png" alt="AI Assistant settings page showing model families and credit quota"><figcaption><p>Organisation Settings > AI Assistant — choose the model family and monitor the credit quota</p></figcaption></figure>
 
 Dastra uses pre-trained generative AI models, available in four families:
 

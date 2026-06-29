@@ -57,7 +57,7 @@ This will contain all the necessary columns with sample data.&#x20;
 
 Example file (for the record):
 
-<figure><img src="../../.gitbook/assets/image-150.png" alt=""><figcaption><p>Line 2 contains example data that must be replaced</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/processing-import-template-columns.png" alt=""><figcaption><p>Line 2 contains example data that must be replaced</p></figcaption></figure>
 
 #### Fill in the file template
 

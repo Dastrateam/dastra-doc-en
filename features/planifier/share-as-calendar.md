@@ -12,7 +12,7 @@ In Dastra, it is possible to synchronise all actions created in other calendars,
 
 To do this, go to the "Columns" or "Table" tab in the "Planning" module, then click on the arrow at the top right of the screen, next to the "new task" button. Then click on "Share as calendar (Outlook...)".
 
-<figure><img src="../../.gitbook/assets/image-148.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/getting-started-help-button.png" alt=""><figcaption></figcaption></figure>
 
 This will generate a link and/or download an .ics file with which it will be possible to synchronise the calendar of your assigned tasks with any calendar application (Outlook, Google...). Synchronising an Outlook calendar
 

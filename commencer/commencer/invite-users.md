@@ -30,7 +30,7 @@ You can control current invitations in the "Users" section of the workspace sett
 
 If the invited user has not clicked on the invitation link and the link has expired (after 10 days), you can resend the invitation link by clicking on the "Resend invitation" button.
 
-<figure><img src="../../.gitbook/assets/image-75.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-users-invitations-expired.png" alt=""><figcaption></figcaption></figure>
 
 ## Create and assign teams
 
@@ -99,13 +99,13 @@ To open the console on Microsoft Edge, you can use the following shortcut: Ctrl 
 
 Please note that roles must be created in advance.
 
-<figure><img src="../../.gitbook/assets/image-95.png" alt=""><figcaption><p>Here the role identifier is number 115</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/integration-excel-power-automate-connector.png" alt=""><figcaption><p>Here the role identifier is number 115</p></figcaption></figure>
 
 **For team identifiers:**
 
 These can be set when adding a team.
 
-<figure><img src="../../.gitbook/assets/image-76.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-teams-edit-reference-modal.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Please note that teams must first be created in the workspace.

@@ -12,7 +12,7 @@ Once the box is checked, you can see the changes in the widget interface:
 
 Automatically, when the IAB opt-in, the cookie containing the encoded information about the user's consent to the IAB vendors is automatically created in the browser:
 
-<figure><img src="../../../.gitbook/assets/image-243.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cookies-browser-cookie-table.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This cookie has a default lifetime of 180 days and is named "eupubconsent"

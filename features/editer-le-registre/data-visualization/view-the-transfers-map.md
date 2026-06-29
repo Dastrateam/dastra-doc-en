@@ -18,7 +18,7 @@ To view the transfer map, click on the "Record of processing activities" module 
 
 Thus, you will be able **to visualize the transfers map**.
 
-<figure><img src="../../../.gitbook/assets/image-141.png" alt=""><figcaption><p>Example of data transfers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/audit-detail-report-radar.png" alt=""><figcaption><p>Example of data transfers</p></figcaption></figure>
 
 {% hint style="info" %}
 It's possible to access the details of the transfers by clicking on the points corresponding to each country.

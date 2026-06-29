@@ -16,7 +16,7 @@ Workflow rules in Dastra are a set of automated actions — email notifications,
 
 Each rule follows a simple **Trigger → Conditions → Actions** logic:
 
-<figure><img src="../../.gitbook/assets/image-328.png" alt=""><figcaption><p>Trigger → Conditions → Actions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contracts-document-detail-view.png" alt=""><figcaption><p>Trigger → Conditions → Actions</p></figcaption></figure>
 
 Workflow rules can be applied to the following object types:
 
@@ -192,21 +192,3 @@ From the history panel, you can also:
 You can trigger a rule manually at any time using the **"Execute"** button in the rule editor. This opens a modal where you select the target object on which the rule should run. The trigger is ignored — only the conditions and actions are applied.
 
 This is useful for testing a rule, or for applying it to an existing object that was created before the rule was set up.
-
-***
-
-## Examples
-
-**Action-based rule** — notify approvers of a processing activity whenever the workflow stage changes (excluding the "New" stage):
-
-<figure><img src="../../.gitbook/assets/workflow_stateChange01-fr (1).png" alt=""><figcaption></figcaption></figure>
-
-**Date-based rule** — automatically close and anonymise DSRs whose identity has not been validated within one month of creation:
-
-<figure><img src="../../.gitbook/assets/workflow_anon01-fr.png" alt=""><figcaption><p>Every day, close and anonymise requests where the requester's identity has not been validated within one month of creation</p></figcaption></figure>
-
-***
-
-## Video tutorial
-
-{% embed url="https://www.youtube-nocookie.com/embed/FqPmGdk2nTI" %}

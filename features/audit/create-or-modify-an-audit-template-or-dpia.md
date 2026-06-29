@@ -60,7 +60,7 @@ You can choose not to link a questionnaire to a particular object. In this case,
 
 When creating a custom template, you will need to choose a template type.
 
-<figure><img src="../../.gitbook/assets/image-183.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/assessment-template-create-label-required.png" alt=""><figcaption></figcaption></figure>
 
 These types allow for some customisation of questionnaire models.
 

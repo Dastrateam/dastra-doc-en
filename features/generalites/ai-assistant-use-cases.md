@@ -163,7 +163,7 @@ The assistant analyses the fields filled in on the AI system record and produces
 
 Once the analysis is generated, click **Print analysis** to export the result as a PDF. This document can be attached to your AI Act compliance file.
 
-<figure><img src="../../.gitbook/assets/ai-analysis-result-print.png" alt="AI analysis panel with the Print analysis and Restart analysis buttons"><figcaption><p>The "Print analysis" button exports the analysis result as a PDF</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/generalites-ai-assistant-cas-dusage-analysis-print.png" alt="AI analysis panel with the Print analysis and Restart analysis buttons"><figcaption><p>The "Print analysis" button exports the analysis result as a PDF</p></figcaption></figure>
 
 ***
 

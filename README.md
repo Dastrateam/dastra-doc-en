@@ -22,11 +22,11 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 * **Map your personal data** by creating and maintaining your record of processing activities (ROPA) thanks to a flexible and intuitive interface, repositories, libraries and a questionnaire, and **build, share and export** your ROPA.
 
-<figure><img src=".gitbook/assets/image-3-1-1-2.png" alt=""><figcaption><p>The record of processing activities (ROPA)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/processing-list-tabs-overview.png" alt=""><figcaption><p>The record of processing activities (ROPA)</p></figcaption></figure>
 
 * **Identify your risks, and carry out audits** to assess priorities.
 
-<figure><img src=".gitbook/assets/image-1-1-1-1-2-1.png" alt=""><figcaption><p>Risk module</p></figcaption></figure>
+<figure><img src=".gitbook/assets/risks-panel-matrix-detail.png" alt=""><figcaption><p>Risk module</p></figcaption></figure>
 
 * **Generate an action plan, allocate tasks and collaborate with your network**, to better protect your data.
 
@@ -34,15 +34,15 @@ For more information, see our [manifesto](https://www.dastra.eu/en/mission).
 
 * **Implement internal processes** such as setting up rights exercise management, managing cookie consents or keeping a register of data breaches.
 
-<figure><img src=".gitbook/assets/image-91.png" alt=""><figcaption><p>Register of requests to data subjects rights requests (DSR)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/register-referentiel-architecture-diagram.png" alt=""><figcaption><p>Register of requests to data subjects rights requests (DSR)</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image-338.png" alt=""><figcaption><p>Cookie management plateform (CMP)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/contracts-signed-badge.png" alt=""><figcaption><p>Cookie management plateform (CMP)</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/capture-d-e-cran-2023-06-01-a-14.47.37.png" alt=""><figcaption><p>The data breach questionnaire</p></figcaption></figure>
 
 * **Centralize documentation** to meet GDPR compliance.
 
-<figure><img src=".gitbook/assets/image-3-1-1.png" alt=""><figcaption><p>The repository module</p></figcaption></figure>
+<figure><img src=".gitbook/assets/register-template-card-preview-button.png" alt=""><figcaption><p>The repository module</p></figcaption></figure>
 
 ## How do I get to know Dastra?
 
