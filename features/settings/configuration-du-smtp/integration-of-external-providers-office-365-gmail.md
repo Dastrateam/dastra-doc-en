@@ -64,9 +64,7 @@ Once completed, click Save and Test to validate the configuration.
 * Dastra will perform a test send to confirm the validity of the configured address.
 * Check your inbox and your Office 365/Gmail logs to ensure that the test message has been delivered.
 
-The message will look like this :
-
-![](https://doc.dastra.eu/~gitbook/image?url=https%3A%2F%2F1301193153-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-LvBxs22wUMicv9uWp6C-2584506019%252Fuploads%252FhyrKMIgfbDpIjYCWBGfJ%252Fimage.png%3Falt%3Dmedia%26token%3D1b54be65-be71-4723-877c-3ee444de40f1\&width=768\&dpr=4\&quality=100\&sign=e465d1ed\&sv=2)
+The test message will be sent to confirm that the connection is correctly configured.
 
 ***
 

@@ -50,10 +50,27 @@ Enter **basic information** about the AI system:
 
 ### 2. Responsibilities
 
-Define your **role and responsibilities** under the European AI Act:
+Define your **role and responsibilities** under the European AI Act. The same organisation may hold several roles simultaneously:
 
-* **Provider**: develops and places the AI system on the market
-* **Deployer**: uses the AI system within professional activities
+* **Provider** — develops an AI system and places it on the market or puts it into service under its own name or trademark.
+* **Deployer** — uses an AI system under its authority in the course of professional activities.
+* **Importer** — imports an AI system from a third country for placing on the EU market.
+* **Distributor** — makes an AI system available on the EU market without being a provider or importer.
+* **Authorised representative** — a natural or legal person in the EU mandated in writing by a provider established outside the EU.
+* **Product manufacturer** — if an AI system is integrated into a product subject to sector-specific legislation (e.g. medical devices), the product manufacturer is treated as a provider for that system.
+
+{% hint style="info" %}
+**Guided responsibility assessment**
+
+If no responsibility has been defined yet for this system, Dastra offers a **10-question questionnaire** to help determine which role(s) apply to your organisation. Once responsibilities are identified, the AI assistant can **automatically generate a justification**.
+{% endhint %}
+
+#### Contextual alerts based on declared role
+
+When declaring the **Deployer** role, Dastra displays contextual alerts based on the system's risk level:
+
+* **Unacceptable risk** — If you declare yourself as the deployer of an unacceptable-risk system, an alert reminds you that deploying such a system is **prohibited under the AI Act**.
+* **High risk** — If you declare yourself as the deployer of a high-risk system, an alert informs you of the situations where a [**Fundamental Rights Impact Assessment (FRIA)**](fundamental-rights-impact-assessment-for-high-risk-ai-systems.md) is mandatory, and redirects you to the relevant questionnaire.
 
 ***
 

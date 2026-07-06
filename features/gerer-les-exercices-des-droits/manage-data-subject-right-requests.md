@@ -56,6 +56,22 @@ To create a rights request automatically via a rights request collection form, s
 [implementez-un-widget-dexercice-des-droits.md](implementez-un-widget-dexercice-des-droits.md)
 {% endcontent-ref %}
 
+## Processing a DSR request — linked datasets
+
+When handling a DSR request, the **Datasets** tab displays all datasets relevant to the request using a **cumulative model**: it shows datasets linked to the organisational unit (OU) assigned to the request, datasets from **all its parent OUs** (up to the root of the hierarchy), and datasets from **all its child OUs**. This ensures no inherited dataset is overlooked during processing.
+
+Each dataset must be handled individually, with a status of **Pending** or **Processed**. An overall progress indicator shows the completion percentage.
+
+<figure><img src="../../.gitbook/assets/dsr-traitement-liste.png" alt=""><figcaption><p>Dataset processing view with inherited datasets</p></figcaption></figure>
+
+{% hint style="warning" %}
+A request cannot be marked as 100% processed as long as inherited datasets have not been handled or explicitly marked as **Not applicable**.
+{% endhint %}
+
+If the operator handling the request does not have access rights to certain displayed datasets, a visual indicator prompts them to contact the relevant data owners.
+
+<figure><img src="../../.gitbook/assets/exercice-droits-datasets-herites.png" alt="Dataset tab showing datasets inherited from parent and child organisational units"><figcaption><p>Inherited datasets from parent and child OUs are displayed using a cumulative model</p></figcaption></figure>
+
 ## Importing / exporting data subject rights requests
 
 Click on the top right menu and on the "Import" button.\

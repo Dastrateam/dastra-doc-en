@@ -99,6 +99,18 @@ Here is an explanatory video (in french):
 
 {% embed url="https://www.youtube.com/watch?v=AQdTo_4wSZk" %}
 
+### Restricted access to a child entity only
+
+It is now possible to add a user or a team **only to a child entity**, without granting them access to parent entities. The user or team will then have access **exclusively to that entity's data** — neither to parent entities nor to sibling entities.
+
+This restricted access mode is useful when you want to delegate the management of a subsidiary entity or a specific department to local users, without exposing group-level data to them.
+
+To configure restricted access to a child entity, go to the settings of the relevant entity and add the user or team directly to that entity, without attaching them to the parent entity.
+
+{% hint style="info" %}
+Unlike the standard (tree-based) access mode, restricted access to a child entity does not grant access to parent entity data.
+{% endhint %}
+
 ## For more information
 
 {% content-ref url="create-and-assign-teams.md" %}

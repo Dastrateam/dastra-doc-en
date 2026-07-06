@@ -14,8 +14,6 @@ Your API key allows you to perform many actions, so you must keep it safe. Do no
 
 If you want to use OAuth2 authentication with the "authorization\_code" flow, you must configure the redirect URLs and allowed CORS origins properly.
 
-![](https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F7quw6Du3fFg1jyv7nGAQ%2Fimage.png?alt=media\&token=86ea230d-884a-4ac1-8304-58727fe1f054)
-
 ### API key (X-API-Key)&#x20;
 
 The simplest way to authenticate is to use the HTTP header **X-API-Key** containing the private part of your API key, as in the example below:
@@ -58,8 +56,6 @@ https://account.dastra.eu/connect/authorize?
 #### Authentication method
 
 API authentication is based on the [OAuth2 protocol](https://oauth.net/2/?utm_source=chatgpt.com) using the "Client credentials" flow. This authentication mode should only be used for server-to-server requests and must never be used on the client side (e.g., JavaScript SPA).
-
-<figure><img src="../.gitbook/assets/audit-questionnaire-icone-non-oblig-non-repondue.png" alt=""><figcaption></figcaption></figure>
 
 #### Getting the token
 

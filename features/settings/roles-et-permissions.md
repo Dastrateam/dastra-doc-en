@@ -47,3 +47,9 @@ It is not possible to select both “Read/Write own elements” and permissions 
 
 \
 Once you've created your custom role, you can assign it to any workspace user within your organization.
+
+## Clone an existing role
+
+To save time when creating a new role based on an existing configuration, you can **clone a role** in a single click. Open the role you want to duplicate, then click **"Clone"**. A new role is created immediately with all the same permissions as the source role — simply rename it and adjust any permissions as needed.
+
+This is particularly useful for creating variants of an existing role (e.g. a "DPO Contributor" role that is slightly different from a regular "Contributor") without starting from a blank canvas.

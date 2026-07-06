@@ -19,11 +19,7 @@ The setup process is very simple:
   [https://app.dastra.eu/workspace/0/settings/integrations/filerskeepers](https://app.dastra.eu/workspace/0/settings/integrations/filerskeepers)
 * Click the **“Install”** button.
 *   **Enter your Filerskeepers administrator account credentials** (email + password). These credentials will allow us to generate an access token for the Filerskeepers API.
-
-    <figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FCls3HcfwabQ0ak8kaPxq%2Fimage.png?alt=media&#x26;token=450bc67c-ed5a-43af-afdb-de14e07738b6" alt=""><figcaption></figcaption></figure>
 * A configuration window will appear. This configuration is required to finalize the installation. In the form, select the “Schedule” you want to configure with Dastra.
-
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F50Ptq636RLYEYiIyposg%2Fimage.png?alt=media&#x26;token=2576d278-4e85-4136-a675-0dab1b3026b6" alt=""><figcaption></figcaption></figure>
 
 #### Configuration
 
@@ -43,17 +39,11 @@ The Filerskeepers connector offers several modes of operation:
 
 From now on, when you open a dataset in Dastra, in the “Retention Policies” section, a button to select a retention policy will appear.
 
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FxGZOazurdAFSNB9rVQsA%2Fimage.png?alt=media&#x26;token=f8f95095-4069-442a-a264-bfa593bf3bfb" alt=""><figcaption></figcaption></figure>
-
 By clicking this button, you can directly select a dataset from your Filerskeepers repository. **This retention period will be automatically synchronized** with Dastra if you enabled this option in the integration configuration.
-
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FusvwbEFIiUr6K2a5JoMu%2Fimage.png?alt=media&#x26;token=6fae00b9-d7aa-46f9-8496-14c30e3b570d" alt=""><figcaption></figcaption></figure>
 
 Select a dataset by clicking the **"Select"** button.
 
-Once you have selected the retention period, the window will close and the following information will be displayed:
-
-<figure><img src="https://1301193153-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FjBBUvXxRkiMouICp0t8X%2Fimage.png?alt=media&#x26;token=577a42ba-2881-46ed-a671-2f411da64cb5" alt=""><figcaption></figcaption></figure>
+Once you have selected the retention period, the window will close and the retention period details will be displayed.
 
 > **ℹ️ Info**\
 > Only retention periods related to active data stores will be synchronized.
