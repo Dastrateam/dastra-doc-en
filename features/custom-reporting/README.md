@@ -71,12 +71,8 @@ Example: If you select the variable "No. of data processing operations" and "Sta
 
 
 
-Once the report has been created, you will be redirected to the following page:
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FlB4O3tYtVyels6V0inqZ%2Fimage.png?alt=media\&token=878e38f8-542d-4791-abd9-96fe9260b433)
+Once the report has been created, you will be redirected to the report view page.
 
 To add a graph, click on "Add a graph".
 
-You can then define several chart categories.
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F2dBxqRpOzX1JSwwIgqtn%2Fimage.png?alt=media\&token=71b01db5-beca-4df6-ab8a-41110af5ae6d)<br>
+You can then define several chart categories (bar chart, pie chart, line chart, etc.).

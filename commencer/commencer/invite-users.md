@@ -111,9 +111,7 @@ These can be set when adding a team.
 Please note that teams must first be created in the workspace.
 {% endhint %}
 
-Save your file in CSV UTF 8 format
-
-<figure><img src="https://138894690-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2FC1FElrWgEomvNHuCAXgC%2Fimage.png?alt=media&#x26;token=e83fc031-1943-452a-b4b5-40e5f4220813" alt=""><figcaption></figcaption></figure>
+Save your file in CSV UTF 8 format.
 
 Once your file is ready, tell us in which workspace you wish to import users and upload the file via the upload interface.
 

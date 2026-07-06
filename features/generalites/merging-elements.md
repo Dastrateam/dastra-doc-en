@@ -54,3 +54,27 @@ You can then click on the “Save” button to launch the merge.
 {% hint style="info" %}
 Entities (treatments, analyses, etc.) associated with deleted items will be automatically attached to the retained item, avoiding any loss or disconnection in your registry.
 {% endhint %}
+
+## Data quality tool — automatic duplicate detection
+
+Dastra includes a **data quality tool** that automatically scans your repository to detect potentially duplicate items, without requiring a manual pre-selection.
+
+### How automatic detection works
+
+The algorithm uses **explainable scoring**: for each pair of potential duplicates, it analyses several dimensions (name, publisher, organisational unit, URL, category) and assigns a **confidence score**. This score lets you make an informed decision before merging or deleting anything.
+
+### Supported modules
+
+The data quality tool is available for:
+
+* Assets
+* Measures
+* Stakeholders
+* Datasets
+* Data glossaries
+* Processing activities
+* Categories of data subjects
+
+### How to access the tool
+
+In each of these modules, click the **main menu button** (⋮ or "Actions") and select **"Data quality tool"**. All detected duplicates are listed with their confidence score. You can then choose to **merge** or **delete** each identified duplicate.

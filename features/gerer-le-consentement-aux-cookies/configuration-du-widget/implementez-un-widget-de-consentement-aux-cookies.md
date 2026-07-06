@@ -8,11 +8,9 @@ DASTRA allows you to set up a cookie consent widget directly on your site in com
 
 ## What is the Dastra cookie consent widget?
 
-This widget is composed of several elements
+This widget is composed of several elements:
 
-<figure><img src="https://138894690-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LvBxs22wUMicv9uWp6C-2584506019%2Fuploads%2F6C7JDBYbJydNYzQ8vGjp%2FCapture%20web_6-5-2022_93427_www.dastra.eu.jpeg?alt=media&#x26;token=bab7e0b0-450a-4ff4-8117-91e121d03c94" alt=""><figcaption><p>A "cookies" symbol appearing at the bottom left of the screen</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/screenshot-2023-02-21-151152.png" alt=""><figcaption><p>A fold-out introduction window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-2023-02-21-151152.png" alt="Cookie consent widget introduction window"><figcaption><p>A fold-out introduction window</p></figcaption></figure>
 
 ## Prerequisites&#x20;
 

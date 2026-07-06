@@ -50,6 +50,16 @@ Go to the document management module and click **"Write a document"**.
 
 The new document is saved in **Markdown format** (.md) and can be edited directly in Dastra.
 
+### Generate a document with AI
+
+The AI assistant can **automatically generate a document** from a prompt and, where needed, additional files provided as context.
+
+To use it, click **"Generate with AI"** in the document management module, describe the document you need (type, purpose, expected content) and optionally attach existing files to enrich the context. The assistant generates the document directly in Dastra, where you can then review, edit and save it.
+
+{% hint style="info" %}
+This feature is particularly useful for quickly drafting data protection policies, internal procedures, or any other GDPR compliance documentation.
+{% endhint %}
+
 ## Creating folders
 
 You can organise your documents into folders for easy retrieval. Sub-folders are supported.

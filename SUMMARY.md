@@ -21,6 +21,7 @@
 
 ## 🧑‍🎓 GETTING STARTED <a href="#commencer" id="commencer"></a>
 
+* [🚀 Get started in 5 minutes](commencer/get-started-in-5-minutes.md)
 * [Setting up](commencer/commencer/README.md)
   * [Create and set up a workspace](commencer/commencer/create-and-set-up-a-workspace.md)
   * [Create and set up organizational units](commencer/commencer/creer-et-parametrer-des-entites-et-departements.md)

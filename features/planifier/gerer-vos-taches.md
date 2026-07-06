@@ -36,6 +36,12 @@ Each task in Dastra can be assigned to an item in the application, for example :
 Once these tasks have been created and associated, you will be able to find them directly in the file for each of these elements under the "Tasks" tab.
 {% endhint %}
 
+{% hint style="info" %}
+**Link a task to multiple objects simultaneously**
+
+It is possible to link a task to **multiple objects at once**: processing activities, assets, contracts, or any other element in the application. You can also link a task to a **questionnaire response**. This makes it easier to track cross-cutting actions that span several areas of your compliance work.
+{% endhint %}
+
 ### Create a task directly from another Dastra module
 
 Dastra allows you to create a task when you think about it, directly within the operational processes:

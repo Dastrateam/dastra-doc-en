@@ -25,6 +25,12 @@ Don't be afraid to go into great detail in the description section, adding the f
 
 You will also need to select its training type. The learning type of an AI model refers to the method by which the model is trained to perform its tasks. Each type is adapted to specific applications and influences the way the model generalizes the knowledge acquired. There are 4 of them, and you'll find a definition next to each one to help you choose.
 
+### Generate an AI model record with the AI assistant
+
+From the AI models list, you can **automatically generate an AI model record** using the AI assistant. This feature creates a complete record in just a few seconds from a simple model name or description — the assistant uses web browsing to look up and fill in the relevant information (architecture, training type, provider, capabilities, etc.).
+
+To use it, click **"Generate with AI"** from the model creation dialog, enter the model name or a brief description, and confirm. Review the generated record before saving, as AI-generated content may contain errors.
+
 ## Link between AI Systems et Models
 
 To link an AI system to a model, go to the AI system concerned. In the second section, entitled "AI Models", you'll find a selector from which you can choose one or more models from those you have saved in your model repository.

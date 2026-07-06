@@ -6,7 +6,23 @@ description: Learn how to schedule a questionnaire with Dastra.
 
 ## Campaign planning
 
-Once the questionnaire template has been created and customised, launch a campaign by clicking on the "Schedule a questionnaire" button. Enter the name of the campaign and the respondents, invite both internal and external respondents and then wait for the responses. They will receive an email with a link to an online space where they can fill in their answers.
+Once the questionnaire template has been created and customised, launch a campaign by clicking on the "Schedule a questionnaire" button.
+
+### Redesigned home page
+
+The questionnaire home page now lets you start scheduling directly from the main interface, without going through the template configuration. Available templates are displayed with their statistics (responses received, completion rate) to help you choose quickly.
+
+### Quick creation (self-respondent)
+
+A **quick creation** option is available when you are the sole respondent. In this mode, the correction/validation step by a third party is removed, simplifying the flow for internal self-assessments.
+
+### Direct DPIA access from the processing register
+
+For **PIA/DPIA**-type questionnaires, you can now launch an impact assessment directly from a processing activity record. A dedicated button in the "PIA" tab of the processing activity opens the corresponding questionnaire without leaving the processing context.
+
+### Sending modes
+
+Enter the name of the campaign and the respondents, invite both internal and external respondents and then wait for the responses. They will receive an email with a link to an online space where they can fill in their answers.
 
 It is possible to re-invite those who did not respond to the questionnaire.
 
