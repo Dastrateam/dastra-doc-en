@@ -1,5 +1,7 @@
 ---
-description: Redact documents attached to a data subject request directly inside Dastra, with or without AI assistance.
+description: >-
+  Redact documents attached to a data subject request directly inside Dastra,
+  with or without AI assistance.
 ---
 
 # Document redaction
@@ -47,8 +49,6 @@ For teams that prefer to keep full control without AI assistance, **fully manual
 ## Generating the redacted document
 
 Once the review is complete, click **Generate redacted document**. The output document is:
-
-<figure><img src="../../.gitbook/assets/dsr-request-processing-redacted.png" alt="Generated redacted document — Invoice-redacted.pdf with 6 masked zones"><figcaption><p>The redacted document is automatically renamed and attached to the request (here: 6 zones masked)</p></figcaption></figure>
 
 * **Rasterised** — the underlying text is not simply hidden visually but made definitively inaccessible. It is not possible to extract redacted content from the final file.
 * **Saved to the request** — the redacted document is attached to the request and available for sending.

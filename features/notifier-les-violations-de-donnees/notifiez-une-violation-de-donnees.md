@@ -46,5 +46,3 @@ This association allows you to:
 ### "With an AI system" indicator in the incidents register
 
 The data breach register now shows a **With an AI system** counter in the statistics bar at the top of the list. This metric lets you monitor at a glance the share of incidents involving an AI system in your organisation.
-
-<figure><img src="../../.gitbook/assets/breach-incidents-ai-kpi.png" alt="Statistics bar in the incidents register showing the With an AI system counter"><figcaption><p>"With an AI system" indicator in the data breach register</p></figcaption></figure>
