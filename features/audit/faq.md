@@ -64,3 +64,23 @@ This can happen when the respondent has not yet finalized their questionnaire by
 In this case, as an owner, you can check the status of the questionnaire from the respondent's side using the respondent access link available here:
 
 <figure><img src="../../.gitbook/assets/screenshot-2026-02-24-164715.png" alt=""><figcaption></figcaption></figure>
+
+## Is there a limit on the number of questionnaire templates?
+
+Yes, the number of available templates depends on your subscription plan. This quota is **shared across all workspaces** in your organisation. The **template recycle bin counts towards the quota**: deleted templates that have not been permanently removed still occupy a slot. If you reach the limit, empty the recycle bin from the template management interface to free up slots.
+
+## Can a questionnaire access link be shared with multiple people?
+
+Yes. When a respondent receives an invitation link by email, the **first access via that link does not require a PIN code**. However, if the respondent forwards the link to a colleague, that person will need to validate their access via a **PIN code received by email**. This mechanism ensures security while allowing collaboration within an external team, without requiring a Dastra account.
+
+## Can an external respondent add other respondents themselves?
+
+No, only the **questionnaire owner** can add new respondents from the Dastra interface. If an external respondent wishes to involve a colleague, two options are available: the owner can directly add the new email address from the questionnaire management view, or the respondent can share their invitation link — the colleague will then need to validate access via a PIN code sent by email.
+
+## Is there an automatic reminder when a questionnaire is awaiting validation?
+
+Currently, the owner receives a **notification** (in Dastra and by email) when the respondent finalises the questionnaire, but there is no periodic automatic reminder system. To avoid missing pending questionnaires, two alternatives exist: regularly check the **"My responses"** view in the Questionnaires module, or set up a **workflow rule** to automate sending a questionnaire or notification at regular intervals.
+
+## Do dynamic selection questions require specific permissions for respondents?
+
+Yes. The **"Single dynamic selection"** and **"Multiple dynamic selection"** question types display lists of objects from Dastra (assets, processing activities, stakeholders, etc.). For this list to appear, the respondent must have **read access** to the corresponding objects in Dastra. An external respondent without a Dastra account, or without the appropriate permissions, will not be able to see the list.
