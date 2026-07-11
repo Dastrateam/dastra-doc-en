@@ -26,6 +26,23 @@ Enter the name of the campaign and the respondents, invite both internal and ext
 
 It is possible to re-invite those who did not respond to the questionnaire.
 
+### Individual or collaborative questionnaire
+
+When scheduling a questionnaire, you choose between two response modes:
+
+- **Individual questionnaire**: if you add multiple respondents, Dastra generates a separate questionnaire for each of them. This mode is ideal for collecting comparable information from several people or entities (e.g. vendor assessments, department-by-department evaluations) and for generating consolidated reporting across responses.
+- **Collaborative questionnaire**: a single questionnaire is shared among all designated respondents, who answer the same questions together. This mode suits long or multi-domain questionnaires involving several teams (e.g. a DPIA requiring input from legal, IT and business teams).
+
+### AI-assisted response
+
+Within an active questionnaire, the **AI assistant** can help you fill in answers automatically. By clicking **"AI-assisted response"**, you can provide documents as context (project notes, security policy, DPA, existing analysis, etc.): the AI analyses these documents and suggests answers for each question, which you can then review, adjust and validate before submitting.
+
+This feature is particularly useful for long or complex questionnaires such as DPIAs, TIAs or LIAs, when you already have existing documentation available.
+
+{% hint style="info" %}
+Using the AI-assisted response feature consumes AI credits. See the [AI Assistant](../generalites/ai-assistant/) page for details on your quota and usage.
+{% endhint %}
+
 ## Linking the questionnaire to other objects in Dastra
 
 It is possible to attach the questionnaire to another specific module. To do this, when configuring your questionnaire template, after giving it a name and a description, attach an element to it which will be the object of the questionnaire.

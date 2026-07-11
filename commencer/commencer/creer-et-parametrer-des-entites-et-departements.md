@@ -95,10 +95,6 @@ To do this, you need to attach teams to organizational units.
 
 The system is tree-based. This means that, for a team to access a child UO, it must access the parent UO.
 
-Here is an explanatory video (in french):
-
-{% embed url="https://www.youtube.com/watch?v=AQdTo_4wSZk" %}
-
 ### Restricted access to a child entity only
 
 It is now possible to add a user or a team **only to a child entity**, without granting them access to parent entities. The user or team will then have access **exclusively to that entity's data** — neither to parent entities nor to sibling entities.

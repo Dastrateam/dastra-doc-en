@@ -72,6 +72,29 @@ These types allow for some customisation of questionnaire models.
 * **Legitimate Interest Assessment (LIA)**: questionnaire of the legal basis of legitimate interests to ensure that the interests do not override the rights and freedoms of individuals
 * **Training questionnaire**: a questionnaire for conducting training quizzes. This type of questionnaire makes it possible to select a correct answer from the answers and to display the correct answers at the end of the questionnaire.
 
+## Dynamic selection questions
+
+Among the question types available in the template editor, two types allow you to connect a question directly to data in your Dastra workspace: **"Single dynamic selection"** and **"Multiple dynamic selection"**.
+
+These question types display a list of objects from Dastra to the respondent: assets, processing activities, stakeholders, security measures, datasets, data fields, AI systems, contracts, etc. The respondent selects one or more items from their library as their answer.
+
+{% hint style="warning" %}
+For the list to display correctly, the respondent must have **read access** to the corresponding objects in Dastra. An external respondent without a Dastra account, or without the appropriate permissions, will not be able to see the list.
+{% endhint %}
+
+## Template version management
+
+When modifying a template that is already in use, Dastra offers two options:
+
+- **Overwrite the current version**: the changes apply immediately to the template. Existing questionnaires are not affected, but new campaigns will use the updated version.
+- **Create a new version**: a new version of the template is created. You can leave it as a **draft** while preparing it, then promote it to **main version** when it is ready. Existing questionnaires continue to use the previous main version until you explicitly switch.
+
+To navigate between versions, use the version selector available in the template interface. The version marked as main is the one used for all new campaigns.
+
+{% hint style="info" %}
+The number of available templates depends on your subscription plan. This quota is shared across all workspaces in your organisation. The template recycle bin counts towards the quota — remember to empty it regularly to free up slots.
+{% endhint %}
+
 ## Load a questionnaire template you own
 
 Finally, it is possible to import one of your questionnaire templates, in json format. To do this, when creating the questionnaire, select the "Load a template" option.

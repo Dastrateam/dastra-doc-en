@@ -59,7 +59,7 @@ The PIA (CNIL) template is structured around three main parts:
 3. **Risks related to data security** — evaluate risks across four threat categories: security measures implemented, illegitimate access to data, unwanted modification of data, and disappearance of data
 
 {% hint style="info" %}
-The PIA (CNIL) questionnaire offers two response modes: **Simple mode** for a streamlined experience, and **Expert mode** for a more detailed assessment. You can switch between modes at any time.
+The PIA (CNIL) questionnaire offers two response modes. The difference between the two modes is solely about the visibility of additional fields per question: in **Expert mode**, the **Justification of the answer**, **Attachments** and **Annotations** fields are displayed for each question. In **Simple mode**, these fields are hidden. You can switch between modes at any time.
 {% endhint %}
 
 ## Linking a PIA to a processing activity
