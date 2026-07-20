@@ -1,10 +1,10 @@
-# Configure your Privacy hub
+# Configure your Trust center
 
-**Customize your Privacy bub to create a privacy portal tailored to your organization.**&#x20;
+**Customize your Trust Center to create a privacy portal tailored to your organization.**&#x20;
 
 Easily configure the features to display, design, and access settings to provide your users with a secure and transparent space.
 
-The Privacy hub is modular, allowing you to select which features to enable. Below are detailed instructions for configuring each feature of the hub:
+The Trust center is modular, allowing you to select which features to enable. Below are detailed instructions for configuring each feature of the hub:
 
 * [**Homepage and general configuration**](home.md)
 * [**Questionnaires**](questionnaires.md)
@@ -19,4 +19,4 @@ The Privacy hub is modular, allowing you to select which features to enable. Bel
 
 #### Enabling/Desabling the Hub
 
-A newly created Privacy hub is disabled by default (not accessible online). Once the configuration is complete and the portal is ready to go live, you can activate it using the Publish button located at the top right of the editing page.
+A newly created Trust center is disabled by default (not accessible online). Once the configuration is complete and the portal is ready to go live, you can activate it using the Publish button located at the top right of the editing page.

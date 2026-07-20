@@ -1,6 +1,6 @@
-# Collecting data processing projects from a Privacy hub.
+# Collecting data processing projects from a Trust center.
 
-We have developed questionnaire templates specifically designed to work with Privacy hubs: templates for creating processing activities, data breach incidents, assets, and contracts. These templates function the same way as our other templates, but once completed, the responses can be transformed into corresponding drafts.
+We have developed questionnaire templates specifically designed to work with Trust centers: templates for creating processing activities, data breach incidents, assets, and contracts. These templates function the same way as our other templates, but once completed, the responses can be transformed into corresponding drafts.
 
 #### &#x20;Add a Template
 

@@ -6,9 +6,9 @@ description: >-
 
 # Document redaction
 
-When processing a data subject right request, it is common to share documents with the requester — identity copies, contracts, account histories, client files. These documents almost always contain confidential information that should not be passed on: data relating to third parties, internal contractual details, or personal references.
+When processing a data subject right request, it is common to have to share documents with the requester — identity copies, contracts, account histories, client files. These documents almost always contain confidential information that should not be disclosed: data relating to third parties, internal contractual data, or personal references.
 
-Dastra includes a redaction tool directly inside the request workflow, without requiring you to leave the platform.
+Dastra includes a redaction tool directly inside the request processing workflow, without leaving the platform.
 
 ***
 
@@ -29,10 +29,12 @@ The redaction tool is available from the **Communication / Transmission** step o
 
 When you launch redaction, the AI assistant analyses the document and **automatically detects zones likely to contain third-party personal identifiers**: names, addresses, contact details, identification numbers.
 
-These zones are pre-selected and displayed on the document. Your team then:
+These zones are pre-selected and displayed on the document. Your team:
 
 * **Removes false positives** with a click (incorrectly detected zones)
-* **Manually adds** any zones the AI may have missed
+* **Manually adds** any zone the AI may have missed
+
+<figure><img src="../../.gitbook/assets/caviardage-analyse-ia.gif" alt="AI analysis of a document, automatically detecting zones containing third-party identifiers"><figcaption><p>The AI analyses the document and automatically places the redaction zones to validate</p></figcaption></figure>
 
 {% hint style="warning" %}
 The AI result is a starting proposal, not a final decision. Every redaction zone must be reviewed and validated by a qualified person before the document is sent.
@@ -43,6 +45,8 @@ The AI result is a starting proposal, not a final decision. Every redaction zone
 ## Manual redaction
 
 For teams that prefer to keep full control without AI assistance, **fully manual redaction** is available in the same interface. Select the zones to mask directly on the document.
+
+<figure><img src="../../.gitbook/assets/caviardage-manuel.gif" alt="Manually selecting the zones to mask on a document"><figcaption><p>Draw the zones to redact yourself, directly on the document</p></figcaption></figure>
 
 ***
 

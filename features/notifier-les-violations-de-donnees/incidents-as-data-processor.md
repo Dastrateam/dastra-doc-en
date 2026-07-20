@@ -2,7 +2,7 @@
 description: Manage data breach incidents in which your organisation acts as a Data Processor under the GDPR.
 ---
 
-# Incidents as a Data Processor
+# Incidents as data processor
 
 Dastra's data breach module adapts to your **organisation's role** in the incident: Data Controller (DC) or Data Processor (DP). This role determines the applicable obligations and which steps are displayed in the form.
 
