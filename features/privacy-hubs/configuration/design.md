@@ -1,5 +1,5 @@
 ---
-description: Learn how to configure the design of your Privacy hub
+description: Learn how to configure the design of your Trust center
 ---
 
 # Appearance and design
@@ -10,8 +10,8 @@ description: Learn how to configure the design of your Privacy hub
 
 #### Logo (Optional)
 
-You can add your chosen logo (square format) to your Privacy hub. This logo will appear in the header of your Privacy hub, next to its name. In the absence of a logo, only the name of your Privacy hub will be displayed.
+You can add your chosen logo (square format) to your Trust center. This logo will appear in the header of your Trust center, next to its name. In the absence of a logo, only the name of your Trust center will be displayed.
 
 #### Cover Image (Optional)
 
-You can add a cover image of your choice (rectangular format) to your Privacy hub. If provided, this image will appear in the header of your Privacy hub, above the logo and the title.
+You can add a cover image of your choice (rectangular format) to your Trust center. If provided, this image will appear in the header of your Trust center, above the logo and the title.

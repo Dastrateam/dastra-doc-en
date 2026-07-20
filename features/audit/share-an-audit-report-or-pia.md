@@ -1,11 +1,11 @@
----
-description: Learn how to share a questionnaire report.
----
+# Share an audit report or PIA
 
-# Share a questionnaire report
+{% embed url="https://youtu.be/hCupYPRbf2U" %}
 
-Once the answers have been obtained, you can consult, validate, publish, review, export or archive your questionnaire report.
+Once the answers have been obtained, you can consult, validate, review, export or archive your questionnaire report.
 
-<figure><img src="../../.gitbook/assets/reponde-audit.png" alt=""><figcaption></figcaption></figure>
+![Example of a questionnaire report](<../../.gitbook/assets/image-141.png>)
 
-You can also view a questionnaire and risk score, as well as generate an action plan automatically based on the answers provided by respondents.
+{% hint style="info" %}
+You can also view a questionnaire and risk score, as well as generate an action plan automatically built from the answers provided by respondents.
+{% endhint %}
