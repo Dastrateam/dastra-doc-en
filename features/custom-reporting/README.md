@@ -52,6 +52,16 @@ Build your report by selecting the metrics and dimensions you wish to display.
 
 Click on the "Save" button at the bottom right of the page
 
+#### Link to the object's record
+
+For tables of objects that have a record — processings, rights requests, data breaches, assets, stakeholders, audits, security measures, contracts, AI systems and tasks — the **"Record url"** dimension adds a clickable **"Details"** link to each row. This link opens the object's record in the right module, in a new tab and taking the current workspace into account. The column is also included in exports, as a URL.
+
+<figure><img src="../../.gitbook/assets/custom-report-record-url-dimension.png" alt="Record url dimension in the report construction"><figcaption><p>Adding the "Record url" dimension to the report</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/custom-report-details-link.png" alt="Clickable Details link in a custom report"><figcaption><p>Each row shows a "Details" link opening the object's record</p></figcaption></figure>
+
+
+
 {% hint style="info" %}
 Data is automatically aggregated by dimension to calculate the selected metrics.
 {% endhint %}

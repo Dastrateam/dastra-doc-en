@@ -158,3 +158,15 @@ Review a **comprehensive summary** of all information entered for this AI system
 ## Linked processing activities and data synchronisation
 
 The **Data processings** tab of an AI system record lets you associate one or more processing activities from your GDPR record with that system. This link keeps your processing register and your AI systems registry consist
+
+
+## Restore a previous version
+
+The **Activity history** panel on an AI system's record keeps every creation and modification. You can restore a past version directly from this panel.
+
+<figure><img src="../../.gitbook/assets/ai-system-restore-change-details.png" alt="A version's details in the Activity history with the Restore button"><figcaption><p>Each version in the Activity history offers a restore button</p></figcaption></figure>
+
+Each history entry shows a restore button, visible to users with write permission. After confirmation, Dastra creates a **new AI system** from the data of the chosen version; its name receives the suffix "- restored version - [date]" and you are redirected to this new record. The original AI system remains unchanged.
+
+<figure><img src="../../.gitbook/assets/ai-system-restored-version-list.png" alt="Restored AI system suffixed 'restored version' in the list"><figcaption><p>The restored version appears as a new AI system suffixed "- restored version - [date]"</p></figcaption></figure>
+
