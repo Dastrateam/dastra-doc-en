@@ -117,7 +117,9 @@ Conditions can be combined using **And / Or** logic, and grouped together to cov
 
 ### 3. Actions
 
-Actions define what happens when the trigger fires and conditions are met. You can chain multiple actions within a single rule.
+Actions define what happens when the trigger fires and conditions are met. You can chain multiple actions within a single rule, up to a maximum of **20 actions per rule**. Beyond that, the add button is disabled and a message indicates that the maximum has been reached.
+
+<figure><img src="../../.gitbook/assets/workflow-rule-20-actions.png" alt="Workflow rule with up to 20 actions"><figcaption><p>A rule can contain up to 20 actions</p></figcaption></figure>
 
 **Actions available for all object types:**
 
@@ -138,6 +140,24 @@ Actions define what happens when the trigger fires and conditions are met. You c
 | Close the request           | Automatically close the DSR                                    |
 | Move to recycle bin         | Move the request to the recycle bin                            |
 | Anonymise the request       | Anonymise the request (only available if the request is closed)|
+
+#### Linking a message template to an action
+
+For rules linked to **rights requests (DSR)**, the **"Send a message to the requester"** action can rely on an existing **message template** rather than manually entered content.
+
+<figure><img src="../../.gitbook/assets/workflow-action-select-template.png" alt="Send a message to the requester action with the Select a template button"><figcaption><p>The "Send a message to the requester" action offers "Select a template"</p></figcaption></figure>
+
+In the action, click **"Select a template"**, then choose a **"Request message"** template from your workspace. When the rule fires, the template content is retrieved and custom variables (for example `{{ givenName }}`, `{{ refId }}`) are substituted automatically.
+
+<figure><img src="../../.gitbook/assets/workflow-select-template-dialog.png" alt="Message template selection dialog"><figcaption><p>Choosing a "Request message" template from the workspace</p></figcaption></figure>
+
+* The message sent always uses the up-to-date version of the template, even if it is modified after the rule is created.
+* If the linked template is deleted, execution fails explicitly: the message is not sent silently.
+* Rules using manual content are not affected. You can switch back from a linked template to manual content at any time by clicking **"Unlink"**.
+
+<figure><img src="../../.gitbook/assets/workflow-action-linked-template.png" alt="Action with a linked message template and the Change template and Unlink buttons"><figcaption><p>Once linked, the template can be changed or unlinked; variables are substituted at execution time</p></figcaption></figure>
+
+
 
 ***
 

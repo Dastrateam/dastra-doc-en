@@ -18,6 +18,12 @@ You can get immediate access to Dastra by opening a "Free Trial" account valid f
 
 A workspace is an organization that accommodates one or more treatment registers. You can create a workspace by treatment register and/or by legal entity or branch, as you wish.
 
+
+
+{% hint style="warning" %}
+A workspace is an environment whose **data is fully partitioned**: the records of one workspace (processings, assets, requests…) are never accessible from the context of another workspace. You can, however, view **consolidated statistics** covering all of your workspaces from the cross-workspace dashboard (see "Cross-workspace statistics"), and duplicate items (processings, assets…) from one workspace to another.
+{% endhint %}
+
 ### Create a workspace
 
 You need a workspace to manage your entity. You can create a workspace by clicking on "New workspace":
@@ -25,6 +31,20 @@ You need a workspace to manage your entity. You can create a workspace by clicki
 <figure><img src="../../.gitbook/assets/capture-d-e-cran-2023-06-01-a-15.03.10.png" alt=""><figcaption></figcaption></figure>
 
 Fill in the fields, then click on "Continue".
+
+
+
+## Cross-workspace statistics
+
+The cross-workspace dashboard brings together the key indicators of all your workspaces in a single view. You access it via the **"Reporting"** button from your list of workspaces.
+
+<figure><img src="../../.gitbook/assets/workspaces-reporting-button.png" alt="Reporting button in the workspace list"><figcaption><p>The "Reporting" button opens the cross-workspace dashboard from the workspace list</p></figcaption></figure>
+
+It consolidates the indicators of the main modules: record of processing activities (ROPA), rights requests, data breaches, questionnaires, AI systems and tasks. The data is presented as widgets and charts.
+
+<figure><img src="../../.gitbook/assets/cross-workspace-statistics-dashboard.png" alt="Consolidated cross-workspace statistics dashboard"><figcaption><p>Consolidated indicators of the record of processing activities and rights requests across all workspaces</p></figcaption></figure>
+
+Dynamic filters let you refine the analysis by workspace, by organizational unit and by type. The dashboard can be printed and exported.
 
 ## Invite first-time users
 
