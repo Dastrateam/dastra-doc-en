@@ -2,10 +2,10 @@
 
 ## Overall operation:
 
-Overall, the consent widget works in 3 main steps:&#x20;
+Overall, the consent widget works in 3 main steps:
 
-1. The **proposal** of the consent window&#x20;
-2. The **collection** of consent (storage of evidence)&#x20;
+1. The **proposal** of the consent window
+2. The **collection** of consent (storage of evidence)
 3. The actual **execution** of the user's consent
 
 {% hint style="info" %}
@@ -30,13 +30,13 @@ If the client has not correctly entered his domain in the widget editor, the edi
 
 ### 4. Requesting consent from the user
 
-If the "euconsent" cookie (you can choose the name of the cookie if you wish) is missing, the consent window will appear. To test if the widget is displayed correctly, you can delete this cookie from your browser.
+If the "consent-eu" cookie (you can choose the name of the cookie if you wish) is missing, the consent window will appear. To test if the widget is displayed correctly, you can delete this cookie from your browser.
 
 ### 5. Collecting consent
 
-Consents will be automatically collected by the Dastra API via a POST request in json.&#x20;
+Consents will be automatically collected by the Dastra API via a POST request in json.
 
-Although in the widget interface, the expression of consent is done by purpose, the storage is done by service.&#x20;
+Although in the widget interface, the expression of consent is done by purpose, the storage is done by service.
 
 Here is what the proof of consent looks like as stored in our databases:
 
@@ -83,7 +83,7 @@ In return, the api will return a string named "consentId" which will then be sto
 
 ### 6. Execution of consent
 
-Once we have collected the user's consent, it's now necessary to actually carry out the user's wish by transmitting the consent information to all the services on the site.&#x20;
+Once we have collected the user's consent, it's now necessary to actually carry out the user's wish by transmitting the consent information to all the services on the site.
 
 For this phase, we invite you to consult the guide on blocking cookies:
 
