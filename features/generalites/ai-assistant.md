@@ -56,3 +56,17 @@ Beta features should never be the sole basis for a compliance decision. They are
 {% endhint %}
 
 **Currently in beta**: processing activity compliance analysis and AI system compliance analysis.
+
+***
+
+{% content-ref url="ai-assistant-how-it-works.md" %}
+[ai-assistant-how-it-works.md](ai-assistant-how-it-works.md)
+{% endcontent-ref %}
+
+{% content-ref url="ai-assistant-use-cases.md" %}
+[ai-assistant-use-cases.md](ai-assistant-use-cases.md)
+{% endcontent-ref %}
+
+{% content-ref url="ai-assistant-faq.md" %}
+[ai-assistant-faq.md](ai-assistant-faq.md)
+{% endcontent-ref %}
