@@ -27,3 +27,13 @@ Yes, you can import them by going to the menu under the create an organizational
 It's not possible to modify the organization's logo, as there isn't one. The logo displayed above the organization's name in the top right-hand corner is the image associated with the user account, which is set in the user profile parameters.&#x20;
 
 In addition to this image, the workspace logo can also be modified in the workspace settings.
+
+## How to add an organization owner?&#x20;
+
+To add an owner, you must be an organization owner yourself. Then, go to the organization settings ([https://app.dastra.eu/general-settings/organization](https://app.dastra.eu/general-settings/organization)) and click on "New owner".&#x20;
+
+You will be able to select a user already invited to your organization. If they are not already part of your organization, you will not be able to add them.&#x20;
+
+## How to remove an organization owner?&#x20;
+
+To remove an owner, you must also be an organization owner. Go to the organization settings ([https://app.dastra.eu/general-settings/organization](https://app.dastra.eu/general-settings/organization)), in the "General" tab, then click the delete button next to the owner you want to remove. Confirm your choice to complete the operation.
