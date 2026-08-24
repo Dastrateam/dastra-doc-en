@@ -1,0 +1,71 @@
+---
+description: >-
+  Learn how to import, create, modify and delete a data subject right request
+  via Dastra.
+---
+
+# Manage data subject right requests
+
+## Creation of a DSR request
+
+There are 3 ways to create a rights request in Dastra:
+
+1. Creating a DSR request manually
+2. Automatically via a collection email address
+3. Automatically via a request collection form.
+
+### Creating a DSR request manually
+
+To create a new request manually directly from the record of DSR requests, click on the 'Subject rights' module and then the 'Create a request' button.
+
+<figure><img src="../../.gitbook/assets/risks-create-button.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+You can also create DSR requests automatically (see below).
+{% endhint %}
+
+### Creation of a DSR request via a collection e-mail address
+
+To create one or more requests for exercising rights via a collection email address in Dastra, you must first activate the ["collection email address" integration.](../settings/data-collection-mailboxes.md)\
+\
+To do this, go to the workspace **settings**, then to the "**integrations**" section and finally click on "**Incoming mail data collection**".
+
+<figure><img src="../../.gitbook/assets/dsr-incoming-mail-integration-card.png" alt=""><figcaption><p>The "incoming mail data collection" integration in Dastra.</p></figcaption></figure>
+
+{% hint style="info" %}
+If this integration is not already installed, install it.
+{% endhint %}
+
+Next, click on the pre-configured use case "Transform an incoming email into a request to exercise rights with associated attachments". An email address will be generated automatically.
+
+<figure><img src="../../.gitbook/assets/dsr-email-to-request-automation-rule.png" alt=""><figcaption></figcaption></figure>
+
+Therefore, each email sent to this address will automatically be transformed into a request to exercise rights in Dastra!
+
+### Creation of a rights request automatically via a rights request collection form
+
+To create a rights request automatically via a rights request collection form, see the "Set up a data subject right request widget" page below:
+
+{% content-ref url="implementez-un-widget-dexercice-des-droits.md" %}
+[implementez-un-widget-dexercice-des-droits.md](implementez-un-widget-dexercice-des-droits.md)
+{% endcontent-ref %}
+
+## Processing a DSR request — linked datasets
+
+When handling a DSR request, the **Datasets** tab displays all datasets relevant to the request using a **cumulative model**: it shows datasets linked to the organisational unit (OU) assigned to the request, datasets from **all its parent OUs** (up to the root of the hierarchy), and datasets from **all its child OUs**. This ensures no inherited dataset is overlooked during processing.
+
+Each dataset must be handled individually, with a status of **Pending** or **Processed**. An overall progress indicator shows the completion percentage.
+
+{% hint style="warning" %}
+A request cannot be marked as 100% processed as long as inherited datasets have not been handled or explicitly marked as **Not applicable**.
+{% endhint %}
+
+If the operator handling the request does not have access rights to certain displayed datasets, a visual indicator prompts them to contact the relevant data owners.
+
+## Importing / exporting data subject rights requests
+
+Click on the top right menu and on the "Import" button.\
+\
+Then follow the guide to [importing data into Dastra](../generalites/importer-vos-donnees-excel-csv.md).
+
+To export, click on the "export" button from the same interface.

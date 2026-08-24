@@ -1,0 +1,120 @@
+---
+description: Learn how to export and import a complete existing record into Dastra.
+---
+
+# Export / import the record
+
+## Record export
+
+To export the entire record, simply go to the "Record of processing activities" module, click on the arrow at the top right next to the creation of a processing activity, then select "Export".
+
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-111233.png" alt=""><figcaption><p>Register drop-down menu with export functionality</p></figcaption></figure>
+
+Then choose the export format as well as the type of export desired (complete or article 30 format), and click on "Download file". That's it, your record is exported !
+
+### Article 30/CNIL format
+
+The so-called article 30 format corresponds to what is required by the GDPR. The export will take into account the mandatory fields according to the GDPR. Indeed, the GDPR requires the creation of the record of processing activities. The information contained is:
+
+* Name of the processing activity
+* Purposes (without legal basis)
+* Data and storage
+* Recipients and possible transfers
+* Security measures
+
+### Complete format
+
+The complete format is the native Dastra format. You export all the fields that make up the processing activity form.
+
+{% hint style="info" %}
+It's also possible to export only one or several processing activities of the record, instead of the whole record. To do this, select the concerned processing activities manually by checking the boxes on the left of the record, then "Select a batch action" and "Export".
+{% endhint %}
+
+## Record import
+
+In order to avoid filling in each processing by hand and to take into account all possible record formats, Dastra has designed a methodology based on the principle of **segregating the record into data domains**. Thus, 7 steps are recommended to import an entire existing record into Dastra.
+
+{% hint style="info" %}
+These steps, which are not mandatory, are nevertheless strongly recommended, especially when the processing record contains many processing activities.
+{% endhint %}
+
+Don't hesitate to consult our library of data processing models: [https://www.dastra.eu/en/data-processing/referentials](https://www.dastra.eu/en/data-processing/referentials)
+
+### Step 1: Import of processing activity labels
+
+To import your existing processing activity labels, click on the "Import" tab in the Record section:
+
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-112732.png" alt=""><figcaption></figcaption></figure>
+
+Next, download a sample of our file as shown on the screen.
+
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-113136.png" alt=""><figcaption></figcaption></figure>
+
+Indicate the organizational unit:
+
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-113235.png" alt=""><figcaption></figcaption></figure>
+
+That's it, your treatment labels are imported!
+
+### Step 2: Import of the asset referential
+
+To import your existing applications/assets, click on the "Import" tab in the Data mapping module, Assets tab:
+
+<figure><img src="../../.gitbook/assets/screenshot-2023-01-30-114035.png" alt=""><figcaption></figcaption></figure>
+
+That's it, your assets are imported!
+
+### Step 3: Import of the actors' referential
+
+Repeat the procedure similar to the previous ones from the Data mapping module, Actors tab.
+
+Your actors referential refers to all the parties involved in a processing operation. Legal entities such as data processor, customers or joint controllers, or natural persons such as processing contact persons.
+
+This referential serves as an internal directory in the workspace. For each actor, you can define a type that characterizes him. For example, if you want to add your subcontractor repository, you add all the actors and each subcontractor will have to be associated with a processing.
+
+### Step 4: Import of the security measures referential
+
+Repeat the procedure similar to the previous ones from the Data mapping module, Measures tab.
+
+### Step 5: Import the data glossary
+
+Repeat the procedure similar to the previous ones from the Data mapping module, Data glossary tab.
+
+### Step 6: Import of the datasets referential
+
+Repeat the procedure similar to the previous ones from the Data mapping section, Datasets tab.
+
+#### Export / import datasets with their data fields
+
+You can now export and import your datasets **including their associated data fields**. This makes it easier to migrate an existing data map or to update your data glossary in bulk.
+
+**Exporting datasets with their fields**
+
+From the **Data mapping > Datasets** module:
+
+1. Select the datasets to export (or export the full list)
+2. Click **Export**
+3. Choose the **Full (with data fields)** format
+
+The exported file includes, for each dataset: its name, description, categories of data subjects, retention rule — and the list of associated data fields with their GDPR category and sensitivity indicator.
+
+**Importing datasets with their fields**
+
+The import file follows the same format as the export. For each dataset, you can populate the data fields directly in the dedicated columns of the spreadsheet. During import:
+
+* Fields that do not yet exist in the data glossary are **created automatically**
+* Fields already present are **associated** with the dataset without duplication
+
+{% hint style="info" %}
+This feature is particularly useful for harmonising the data map between multiple workspaces, or for initialising a new workspace from an existing data map.
+{% endhint %}
+
+### Step 7: Construction of links
+
+Now that the repositories have all been imported, edit each of the treatments and fill in the information based on the imported information following the guide below:
+
+{% content-ref url="remplir-le-questionnaire/" %}
+[remplir-le-questionnaire](remplir-le-questionnaire/)
+{% endcontent-ref %}
+
+That's it, the links are built!

@@ -1,0 +1,42 @@
+DateCreation;DateUpdate;Label;Description;BaseActiveRetentionTime;BaseActiveRetentionUnit;IntermediateArchivingRetentionTime;IntermediateArchivingRetentionUnit;BaseActiveConditionDescription;BaseActiveProcessDescription;BaseActiveLegalBasis;IntermediateArchivingConditionDescription;IntermediateArchivingLegalBasis;IntermediateArchivingProcessDescription;DestructionDescription;DestructionLegalBasis;Required
+03/07/2020;03/07/2020;Payslip;"Dataset and conservation rules on the payslip on the basis of reference texts
+L. 3243-4 of the labor code
+D. 3243-8 of the labor code";1;Month;5;Year;;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";50 years in dematerialized version;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
+03/07/2020;03/07/2020;Elements necessary to calculate the tax base;Dataset and conservation rules on the elements necessary to calculate the tax base on the basis of reference texts L. 243-16 of the labor code;1;Month;6;Year;;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
+03/07/2020;03/07/2020;Entering calculated data (DSN);Dataset and conservation rules on the entering calculated data (DSN) on the basis of reference texts L. 243-16 of the labor code;;;6;Year;The time required to complete the declaration;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
+03/07/2020;03/07/2020;Transfer order for payment;"Dataset and conservation rules on the transfer order for payment on the basis of reference texts L. 123-22 of the commercial code
+";;;10;Year;The time required to issue the pay slip;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";10 years from the end of the accounting year;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
+03/07/2020;03/07/2020;Unique staff register;"Dataset and conservation rules on the unique staff register on the basis of reference texts R. 1221-26 of the labor code
+";;;5;Year;The length of time the employee is part of the workforce;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";5 years from the departure of the employee of the organization;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
+03/07/2020;03/07/2020;Nature of mandate and membership union;"Dataset and conservation rules on the nature of mandate and membership union on the basis of reference texts L. 2411-5 of the labor code
+";6;Month;6;Year;6 months after the end of the mandate;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";Penal prescription for crime;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
+03/07/2020;03/07/2020;Special topics;"Data and conservation rules relating to specific subjects giving the right to special leave or credit for hours of delegation (eg exercise of an elective or union representative mandate) based on reference text L. 2142-1-3 of labor Code
+";;;6;Year;The time of the employee's subject period concerns;;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";Penal prescription for crime;"CNIL REFERENTIAL RELATING TO THE PROCESSING OF PERSONAL DATA
+IMPLEMENTED BY PRIVATE OR PUBLIC BODIES
+FOR STAFF MANAGEMENT";;;;
